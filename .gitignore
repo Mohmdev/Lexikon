@@ -1,0 +1,19 @@
+# --- Claudian (AI session scratch) ---
+.claudian/sessions/
+
+# --- Obsidian: ignore personal/volatile state, keep portable config ---
+# Pane layout & per-machine UI state — churns constantly, machine-specific
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+# Plugin runtime cache
+.obsidian/cache
+# Plugin code = vendored third-party build artifacts (like node_modules).
+# community-plugins.json (kept) is the "lockfile" recording what's enabled.
+.obsidian/plugins/
+# (Everything else in .obsidian/ — app.json, appearance, graph, hotkeys,
+#  core-plugins, community-plugins — IS committed so the vault is portable.)
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+desktop.ini
