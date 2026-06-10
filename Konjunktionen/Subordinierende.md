@@ -1,3 +1,9 @@
+---
+tags:
+  - konjunktionen
+  - wortschatz
+---
+
 # Subordinierende Konjunktionen (Subordinating)
 
 *Open a dependent clause — the conjugated verb jumps to the END.*

@@ -1,3 +1,9 @@
+---
+tags:
+  - präpositionen
+  - wortschatz
+---
+
 # Dativpräpositionen (always Dativ)
 
 *These always force the **dative** on the noun behind them.*

@@ -1,3 +1,8 @@
+---
+tags:
+  - grammatik
+---
+
 # Grammar — start here
 
 This folder is the **shared machinery** of German — the rules that don't belong to one kind of word
@@ -14,23 +19,23 @@ Here's the foundation, in the order it's worth learning.
 The backbone. A **case** tags each phrase with its role — doer, target, receiver, owner — the way
 English does with **he / him / his**. Everything else in the language bends to it, so this comes first.
 
-[01-cases.md](./01-cases.md)
+[[01-cases]]
 
 > Two closed word-classes ride directly on cases and live in their own sections:
 > **Artikel** (der/die/das — the grid adjective endings and pronouns copy) →
-> [Artikel/Bestimmte.md](../Artikel/Bestimmte.md), and **Präpositionen** (each one forces a case) →
-> [Präpositionen/Grammatik.md](../Pr%C3%A4positionen/Grammatik.md).
+> [[Bestimmte]], and **Präpositionen** (each one forces a case) →
+> [[Präpositionen]].
 
 ## 2. Word order — where the verb goes
 
 German pins the verb to fixed spots: **second** in a normal sentence, **last** in a subordinate
 clause, with two-part verbs **wrapping** the middle like a bracket.
 
-[02-word-order.md](./02-word-order.md)
+[[02-word-order]]
 
 ## 3. Free wins — what you already half-know
 
 Cognates and a few regular sound-shifts hand you thousands of words for free (Wasser/water,
 Schiff/ship), plus literal compounding and read-as-written spelling. Start here for a confidence boost.
 
-[03-free-wins.md](./03-free-wins.md)
+[[03-free-wins]]

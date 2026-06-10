@@ -1,3 +1,9 @@
+---
+tags:
+  - konjunktionen
+  - wortschatz
+---
+
 # Koordinierende Konjunktionen (Coordinating)
 
 *Join two equal parts — no change to word order.*

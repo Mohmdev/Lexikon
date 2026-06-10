@@ -1,3 +1,9 @@
+---
+tags:
+  - präpositionen
+  - wortschatz
+---
+
 # Genitivpräpositionen (always Genitiv)
 
 *A fourth group, mostly formal / written — you can survive A2 without them, but they're common in

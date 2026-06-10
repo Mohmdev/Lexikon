@@ -1,7 +1,13 @@
+---
+tags:
+  - interjektionen
+  - wortschatz
+---
+
 # Antwortwörter (answer words)
 
 *The words you say to answer or react to a yes/no question. German has **three**, not two — the
-extra one, **doch**, has no English equivalent and is explained in [Grammatik](./Grammatik.md).*
+extra one, **doch**, has no English equivalent and is explained in [[Interjektionen]].*
 
 | German | English | Note |
 |---|---|---|
@@ -11,7 +17,7 @@ extra one, **doch**, has no English equivalent and is explained in [Grammatik](.
 | **nein** | no | the plain negative |
 | „Kommst du?" — **Nein.** | "Are you coming?" — No. | |
 | | | |
-| **doch** | yes (I am)! | ⚠️ contradicts a *negative* question — see [Grammatik](./Grammatik.md) |
+| **doch** | yes (I am)! | ⚠️ contradicts a *negative* question — see [[Interjektionen]] |
 | „Kommst du **nicht**?" — **Doch!** | "Aren't you coming?" — Yes I am! | |
 | | | |
 | **genau** | exactly, right | common way to agree |

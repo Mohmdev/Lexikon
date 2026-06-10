@@ -1,3 +1,9 @@
+---
+tags:
+  - interjektionen
+  - wortschatz
+---
+
 # Grußformeln (greetings & social formulas)
 
 *Fixed social phrases — hellos, goodbyes, thanks, please. You don't build these from grammar, you just

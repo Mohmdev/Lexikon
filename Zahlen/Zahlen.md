@@ -1,0 +1,50 @@
+---
+tags:
+  - zahlen
+  - wortschatz
+---
+
+# Zahlen (Numbers)
+
+<!-- Mostly generative: learn the pieces + the build rule, not 100 separate words. -->
+
+## 0–12 — memorize these
+
+| German | # | German | # |
+|---|---|---|---|
+| null | 0 | sieben | 7 |
+| eins | 1 | acht | 8 |
+| zwei | 2 | neun | 9 |
+| drei | 3 | zehn | 10 |
+| vier | 4 | elf | 11 |
+| fünf | 5 | zwölf | 12 |
+| sechs | 6 | | |
+
+## 13–19 — digit + *zehn*
+
+> dreizehn 13 · vierzehn 14 · fünfzehn 15 · **sech**zehn 16 *(drops -s)* · **sieb**zehn 17 *(drops -en)*
+> · achtzehn 18 · neunzehn 19
+
+## Tens
+
+> zwanzig 20 · drei**ß**ig 30 *(ß!)* · vierzig 40 · fünfzig 50 · sechzig 60 · siebzig 70 · achtzig 80
+> · neunzig 90 · hundert 100
+
+## The build rule (21+): units FIRST, then *und*, then tens
+
+> **ein**und**zwanzig** — 21 *(literally "one-and-twenty")*
+> dreiunddreißig — 33
+
+This back-to-front order is the famous German quirk.
+
+## Ordnungszahlen (Ordinals) — add *-te* / *-ste*, take adjective endings
+
+| German | English | Note |
+|---|---|---|
+| erste | 1st | |
+| zweite | 2nd | |
+| dritte | 3rd | irregular |
+| vierte | 4th | regular -te |
+| zwanzigste | 20th | from 20 up: -ste |
+
+> der **erste** Mai — the first of May

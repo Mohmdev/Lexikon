@@ -1,3 +1,9 @@
+---
+tags:
+  - artikel
+  - grammatik
+---
+
 # Unbestimmter Artikel (indefinite article)
 
 *"a / an" — plus the whole ein-word family (kein "no", mein "my"…), all sharing one set of endings.*
@@ -22,8 +28,8 @@
 
 **ein** (a), **kein** (no/not a), and the possessives **mein, dein, sein, ihr, unser, euer** (my,
 your, his…) **all take these exact same endings**. Learn the endings once, reuse for the whole family.
-The possessives are listed in [../pronouns/001-100.md](../pronouns/001-100.md).
+The possessives are listed in [[Pronomen]].
 
 ⚠️ Notice the three **bare** cells with no ending — **masc Nom (ein)** and **neut Nom/Akk (ein)**.
 There *ein* fails to show the gender, which is exactly why the **adjective** steps in to carry it
-(the "mixed" endings: see [../Adjektive/Grammatik/03-mixed.md](../Adjektive/Grammatik/03-mixed.md)).
+(the "mixed" endings: see [[03-mixed]]).

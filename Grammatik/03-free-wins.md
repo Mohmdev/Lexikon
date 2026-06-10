@@ -1,3 +1,8 @@
+---
+tags:
+  - grammatik
+---
+
 # Free wins — what you already half-know
 
 English and German are cousins. Thousands of words are yours **for free**, and a few regular

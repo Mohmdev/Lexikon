@@ -1,3 +1,9 @@
+---
+tags:
+  - konjunktionen
+  - wortschatz
+---
+
 # Zweiteilige Konjunktionen (Two-part)
 
 *A fixed pair that wraps two things.*

@@ -1,9 +1,15 @@
+---
+tags:
+  - artikel
+  - grammatik
+---
+
 # Bestimmter Artikel (definite article)
 
 *"the" — one little word that changes by gender and case.*
 
 The form depends on two things: the noun's **gender / number** (der / die / das / die) and its **case**
-— the job it's doing (see [../Grammatik/01-cases.md](../Grammatik/01-cases.md)).
+— the job it's doing (see [[01-cases]]).
 
 So **Artikel = f(gender, case)**:
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - grammatik
+---
+
 # Word order — where the verb goes
 
 German word order is mostly about **one thing: where the conjugated verb sits.** Nail that and the
@@ -45,4 +50,4 @@ frame first and fills the middle — exactly the nested structure you noticed.
 
 When several time/manner/place pieces fill that middle zone, they line up as **TeKaMoLo** (time →
 cause → manner → place). That rule lives with the adverbs:
-[Adverbien/Grammatik/02-TeKaMoLo.md](../Adverbien/Grammatik/02-TeKaMoLo.md).
+[[02-TeKaMoLo]].

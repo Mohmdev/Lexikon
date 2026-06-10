@@ -1,22 +1,121 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#adjektive",
+      "color": {
+        "a": 1,
+        "rgb": 14721854
+      }
+    },
+    {
+      "query": "tag:#adverbien",
+      "color": {
+        "a": 1,
+        "rgb": 6273119
+      }
+    },
+    {
+      "query": "tag:#artikel",
+      "color": {
+        "a": 1,
+        "rgb": 5082580
+      }
+    },
+    {
+      "query": "tag:#interjektionen",
+      "color": {
+        "a": 1,
+        "rgb": 13921218
+      }
+    },
+    {
+      "query": "tag:#konjunktionen",
+      "color": {
+        "a": 1,
+        "rgb": 10186208
+      }
+    },
+    {
+      "query": "tag:#nomen",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#zahlen",
+      "color": {
+        "a": 1,
+        "rgb": 4112576
+      }
+    },
+    {
+      "query": "tag:#partikeln",
+      "color": {
+        "a": 1,
+        "rgb": 12626238
+      }
+    },
+    {
+      "query": "tag:#pronomen",
+      "color": {
+        "a": 1,
+        "rgb": 7052244
+      }
+    },
+    {
+      "query": "tag:#fragewörter",
+      "color": {
+        "a": 1,
+        "rgb": 13928525
+      }
+    },
+    {
+      "query": "tag:#präpositionen",
+      "color": {
+        "a": 1,
+        "rgb": 8311885
+      }
+    },
+    {
+      "query": "tag:#verben",
+      "color": {
+        "a": 1,
+        "rgb": 13913480
+      }
+    },
+    {
+      "query": "tag:#grammatik",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#wortschatz",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 1.1375,
+  "lineSizeMultiplier": 0.8625,
+  "collapse-forces": false,
+  "centerStrength": 0.450520833333333,
+  "repelStrength": 16.9270833333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5087618855792585,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.258838656218162,
+  "close": true
 }

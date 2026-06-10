@@ -1,3 +1,8 @@
+---
+tags:
+  - grammatik
+---
+
 # Cases — what job a word is doing
 
 ## You already do this in English
@@ -50,6 +55,6 @@ The case is the **type tag** on a phrase — it says what job the phrase is doin
 carries the meaning, German can shuffle word order and stay clear (*Den Ball gibt der Mann dem
 Kind* still works). Articles, **adjective endings**, pronouns, and prepositions **all bend to the
 case**. Lock cases down and a huge slice of German clicks — including the adjective endings in
-[Adjektive/Grammatik/02-weak.md](../Adjektive/Grammatik/02-weak.md).
+[[02-weak]].
 
-The exact article form for each case lives in [Artikel/Bestimmte.md](../Artikel/Bestimmte.md).
+The exact article form for each case lives in [[Bestimmte]].

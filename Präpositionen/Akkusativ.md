@@ -1,3 +1,9 @@
+---
+tags:
+  - präpositionen
+  - wortschatz
+---
+
 # Akkusativpräpositionen (always Akkusativ)
 
 *These always force the **accusative** on the noun behind them.*

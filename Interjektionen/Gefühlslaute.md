@@ -1,3 +1,9 @@
+---
+tags:
+  - interjektionen
+  - wortschatz
+---
+
 # Gefühlslaute (emotion sounds)
 
 *The raw noises you make at a feeling — surprise, pain, disgust, relief — plus the everyday

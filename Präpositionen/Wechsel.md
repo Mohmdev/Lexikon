@@ -1,3 +1,9 @@
+---
+tags:
+  - präpositionen
+  - wortschatz
+---
+
 # Wechselpräpositionen (two-way: Akkusativ *or* Dativ)
 
 *The same nine prepositions take **either** case — and the choice carries meaning (see the rule
