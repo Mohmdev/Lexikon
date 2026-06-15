@@ -3,11 +3,14 @@ tags:
   - adverbien
 ---
 %% Begin Waypoint %%
-- [[01-type-taxonomy]]
-- [[02-TeKaMoLo]]
-- [[03-adverb-adjective-form]]
-- [[04-pronominal]]
-- [[05-konjunktional]]
+- [[01 Adverb vs Adjektiv]]
+- [[02 Adverbtypen]]
+- [[03 Vorfeld und Inversion]]
+- [[04 TeKaMoLo]]
+- [[05 Steigerung der Adverbien]]
+- [[06 hin und her]]
+- [[07 Pronominaladverbien]]
+- [[08 Konjunktionaladverbien]]
 - **Wörter**
 	- [[Gradadverbien]]
 	- [[Kausaladverbien]]
@@ -17,75 +20,54 @@ tags:
 
 %% End Waypoint %%
 
-# Adverbs — start here
+# Adverbien (adverbs) — start here
 
-## What an adverb even is
+An adverb colours an action — telling you **how, when, where, why, or how much** something happens:
 
-An adverb is a word that describes **how, when, where, or why** something happens. It usually
-describes a **verb** (an action):
+> Er läuft **schnell**. — He runs fast. · Sie kommt **heute**. — She comes today.
 
-> Er läuft **schnell**. — He runs **fast**.
-> Sie kommt **heute**. — She comes **today**.
+## The one idea that makes adverbs easy
 
-"schnell" and "heute" don't name a thing — they color the action. That's an adverb.
+**Adverbs never change form.** No gender, no case, no plural, no endings — the word just sits there as
+it is. After the shape-shifting of nouns and adjectives, this is a genuine holiday.
 
-The good news up front: adverbs are **easier than nouns**. No gender, no plural, and they **never
-change their endings**. The word just sits there as-is. So there's much less to memorize per word —
-the work is understanding a few rules, which is what the rest of this folder is.
+So the whole subject splits into exactly two skills:
 
----
+1. **Knowing the words** — pure vocabulary. That's your memory's job, in the five `Wörter` lists below.
+2. **Knowing where they go** — the *only* real grammar of adverbs, and where every beginner trips.
 
-## The handful of things to understand
-
-### 1. Adverbs come in a few flavors (types)
-
-Sort an adverb by what question it answers. There are really five:
-
-- **time** — *when?* → heute (today), oft (often), immer (always)
-- **place** — *where?* → hier (here), dort (there), oben (above)
-- **manner** — *how?* → schnell (fast), gut (well), gern (gladly)
-- **cause** — *why?* → deshalb (therefore), darum (for that reason)
-- **degree** — *how much?* → sehr (very), ganz (quite), zu (too)
-
-Knowing a word's flavor isn't just filing — it tells you **where it goes in a sentence** (that's #2).
-Full detail: [[01-type-taxonomy]].
-
-### 2. When you use several at once, they go in a fixed order
-
-If a sentence has more than one of these, German lines them up in this order: **time → cause →
-manner → place**. (Germans nickname this **"TeKaMoLo"** — just the first syllables of the German
-names. It's a memory hook, nothing deeper.)
-
-> Ich fahre **heute** *(time)* **mit dem Bus** *(manner)* **nach Hause** *(place)*.
-> — Today I'm going home by bus.
-
-Full detail: [[02-TeKaMoLo]].
-
-### 3. The "manner" words are just adjectives reused
-
-English adds **-ly** (quick → quickly). German does nothing — the same word does both jobs:
-**schnell** = "fast" (adjective) *and* "quickly" (adverb). Because of this, you don't collect manner
-words as adverbs at all; they live with the adjectives.
-
-Full detail: [[03-adverb-adjective-form]].
-
-### 4. A few special fused words (pronominal adverbs)
-
-German often glues a little word + a preposition into one word to mean "with it / about that / for
-what." E.g. **damit** = "with it," **wofür** = "for what." There's a clean formula for building all
-of them, so you don't memorize a list — you learn the recipe.
-
-Full detail: [[04-pronominal]].
-
-### 5. Some adverbs also connect clauses (konjunktional)
-
-Words like **deshalb** (therefore), **trotzdem** (nevertheless), **dann** (then) don't just describe —
-they **link** the sentence to the one before. The catch: when one starts a clause, German flips the
-verb in front of the subject — **Deshalb _bleibe ich_** zu Hause (NOT "deshalb ich bleibe").
-
-Full detail: [[05-konjunktional]].
+Everything in this folder serves skill #2. Read it in order; it's built bottom-up.
 
 ---
 
-That's the whole adverb picture. Read this page for the intuition; dive into 01–05 when you want the
-depth on any one piece.
+## First, what an adverb even is
+
+- **[[01 Adverb vs Adjektiv]]** — the same word does both jobs (*schnell* = "fast" *and* "quickly").
+  No English-style *-ly*. The only difference: an adjective in front of a noun takes an ending; an
+  adverb stays bare. So most "adverbs" are just adjectives you already own.
+- **[[02 Adverbtypen]]** — sort every adverb by the question it answers (time / place / manner / cause /
+  degree). This isn't just filing: the type *is* the word's position in a sentence.
+
+## The heart of it: position
+
+- **[[03 Vorfeld und Inversion]]** — ⭐ the one to master. Put an adverb first and the verb stays
+  second, so the subject jumps behind it: *Heute **gehe ich**…* (never *Heute ich gehe*). The single
+  most common English-speaker mistake.
+- **[[04 TeKaMoLo]]** — when several adverbs stack in the middle, they line up **Te → Ka → Mo → Lo**
+  (time → cause → manner → place). Plus where *nicht* goes.
+
+## The special families (each a clean little system)
+
+- **[[05 Steigerung der Adverbien]]** — more / most, and the daily-gold trio **gern → lieber → am
+  liebsten** for saying what you like, prefer, and love best.
+- **[[06 hin und her]]** — direction relative to *you*: **her** = toward me, **hin** = away. Plus
+  *wohin/woher* and the everyday *rein / raus / rauf / runter*.
+- **[[07 Pronominaladverbien]]** — fuse "preposition + it" into one word: *damit* (with it), *worauf*
+  (on what). For things, never people.
+- **[[08 Konjunktionaladverbien]]** — connectors like *deshalb, trotzdem, dann* that link clauses
+  **and** flip the word order — plus the trap of telling them apart from real conjunctions.
+
+---
+
+Read this page for the shape, then work through 01 → 08. The spine never changes: **an adverb is a word
+that doesn't change — so the whole game is knowing where to put it.**

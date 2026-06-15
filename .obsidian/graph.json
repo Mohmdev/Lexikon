@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#adjektive",
@@ -112,10 +112,10 @@
   "nodeSizeMultiplier": 1.1375,
   "lineSizeMultiplier": 0.8625,
   "collapse-forces": false,
-  "centerStrength": 0.450520833333333,
-  "repelStrength": 16.9270833333333,
+  "centerStrength": 0.223958333333333,
+  "repelStrength": 12.7083333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.258838656218162,
+  "scale": 0.39642126362584335,
   "close": true
 }

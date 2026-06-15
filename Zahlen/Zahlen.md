@@ -1,50 +1,69 @@
 ---
 tags:
   - zahlen
-  - wortschatz
 ---
 
-# Zahlen (Numbers)
+%% Begin Waypoint %%
+- [[01 Kardinalzahlen]]
+- [[02 Ordinalzahlen]]
+- [[03 Datum]]
+- [[04 Uhrzeit]]
+- [[05 Bruchzahlen und Rechnen]]
+- [[06 Zahlwörter im Alltag]]
 
-<!-- Mostly generative: learn the pieces + the build rule, not 100 separate words. -->
+%% End Waypoint %%
 
-## 0–12 — memorize these
+# Zahlen — numbers, the most computable system in German
 
-| German | # | German | # |
-|---|---|---|---|
-| null | 0 | sieben | 7 |
-| eins | 1 | acht | 8 |
-| zwei | 2 | neun | 9 |
-| drei | 3 | zehn | 10 |
-| vier | 4 | elf | 11 |
-| fünf | 5 | zwölf | 12 |
-| sechs | 6 | | |
+Numbers are where German is at its **most generative**. You don't memorize a list — you memorize a tiny
+set of roots and a few assembly rules, and they **generate every number there is**. Nail the machine
+once and this whole folder is yours.
 
-## 13–19 — digit + *zehn*
+> **number = roots + build rules** — learn the machine, not the output.
 
-> dreizehn 13 · vierzehn 14 · fünfzehn 15 · **sech**zehn 16 *(drops -s)* · **sieb**zehn 17 *(drops -en)*
-> · achtzehn 18 · neunzehn 19
+The one thing that genuinely needs drilling is the **backwards build**: 21–99 say the **unit first**
+(*einundzwanzig* = "one-and-twenty"), and it's written as one word. Everything else falls out of that
+plus the irregular core 0–12.
 
-## Tens
+---
 
-> zwanzig 20 · drei**ß**ig 30 *(ß!)* · vierzig 40 · fünfzig 50 · sechzig 60 · siebzig 70 · achtzig 80
-> · neunzig 90 · hundert 100
+## The climb
 
-## The build rule (21+): units FIRST, then *und*, then tens
+### 1. Kardinalzahlen — the counting numbers
+The generator: the irregular core **0–12**, the **+zehn / +zig** tens, the famous **unit-und-ten**
+reversal, stacking **hundreds and thousands** into one giant word, and **Million+** as nouns (with the
+*Milliarde/Billion* false-friend trap). The foundation everything else builds on.
+→ [[01 Kardinalzahlen]]
 
-> **ein**und**zwanzig** — 21 *(literally "one-and-twenty")*
-> dreiunddreißig — 33
+### 2. Ordinalzahlen — the ranking numbers
+*erste, zweite, dritte…* One suffix rule (**-t** under 20, **-st** from 20), four irregulars, and the
+key fact that **ordinals are adjectives** — they take adjective endings. Written as a **digit + period**.
+→ [[02 Ordinalzahlen]]
 
-This back-to-front order is the famous German quirk.
+### 3. Datum — saying the date
+Dates = **ordinal + month**: *der erste Mai* (it is), *am ersten Mai* (on). Day-first order, years in
+hundreds before 2000, and the **no-"in"-before-a-year** trap. (Month names live in [[Kalender]].)
+→ [[03 Datum]]
 
-## Ordnungszahlen (Ordinals) — add *-te* / *-ste*, take adjective endings
+### 4. Uhrzeit — telling the time
+The easy **24-hour** system (just read the digits) plus the colloquial **nach / vor / Viertel / halb** —
+including the notorious **halb drei = 2:30** trap (German *halb* points to the *next* hour).
+→ [[04 Uhrzeit]]
 
-| German | English | Note |
-|---|---|---|
-| erste | 1st | |
-| zweite | 2nd | |
-| dritte | 3rd | irregular |
-| vierte | 4th | regular -te |
-| zwanzigste | 20th | from 20 up: -ste |
+### 5. Bruchzahlen und Rechnen — fractions, decimals, math
+Fractions = **ordinal + -el** (*ein Drittel*), the special **halb / die Hälfte**, decimals with a
+**comma** (*drei Komma eins vier*), and the four operations (**plus, minus, mal, durch**).
+→ [[05 Bruchzahlen und Rechnen]]
 
-> der **erste** Mai — the first of May
+### 6. Zahlwörter im Alltag — number-words in daily life
+The derived family: **-mal** (twice), **-fach** (-fold), **zu zweit** (in a group), **-erlei** (kinds),
+**-er** (the eighties), plus fuzzy quantities (*ein paar, etwa, knapp*).
+→ [[06 Zahlwörter im Alltag]]
+
+---
+
+## The one-line takeaway
+
+Drill the **irregular core (0–12)** and the **backwards build (unit-und-ten)**; everything from 13 to a
+million is just stacking. Ordinals add one suffix; dates, time, fractions, and the everyday word-family
+are all small rule-based layers on top.

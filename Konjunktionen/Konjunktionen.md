@@ -5,86 +5,71 @@ tags:
 ---
 
 %% Begin Waypoint %%
-- [[Koordinierende]]
-- [[Subordinierende]]
-- [[Zweiteilige]]
+- [[01 Wortstellung]]
+- [[02 Koordinierende]]
+- [[03 Subordinierende]]
+- [[04 wenn als wann ob]]
+- [[05 Zweiteilige]]
 
 %% End Waypoint %%
 
-# Konjunktionen — Grammatik
+# Konjunktionen — connectors that wire clauses together
 
-The grammar of conjunctions is basically **one thing — what the connector does to the verb** — plus a
-few word pairs that are easy to mix up. The word *lists* live in
-[[Koordinierende]], [[Subordinierende]], and
-[[Zweiteilige]]. This page is the rules that cut across them.
+A conjunction's **meaning** is the easy part — it maps straight onto English (*und* = and, *aber* =
+but, *weil* = because). The thing you actually have to learn is **what each connector does to the
+verb**. Get that, and German sentence-building falls into place.
 
----
+> **The one rule: a connector's bucket tells you where the verb goes.**
 
-## Wortstellung (word order) — the core
+There are exactly **three buckets**, and the same idea — *"because/so"* — behaves differently in each:
 
-A "joining word" falls into one of three behaviours. Sorting it tells you where the verb goes.
-
-| Type | examples | what the verb does |
+| bucket | examples | the verb… |
 |---|---|---|
-| **Koordinierende** | und, oder, aber, denn | nothing — verb stays in its normal 2nd spot |
-| **Subordinierende** | weil, dass, wenn | jumps to the **end** of its clause |
-| **Konjunktionaladverbien** *(the trap)* | deshalb, trotzdem, dann | these only *look* like conjunctions — they're **adverbs**, so they take slot 1 and the verb comes **before** the subject |
+| **Koordinierende** | und, oder, aber, **denn** | doesn't move — stays in 2nd place |
+| **Subordinierende** | **weil**, dass, wenn, obwohl | goes to the **end** of its clause |
+| **Konjunktionaladverbien** *(the trap)* | **deshalb**, trotzdem, dann | take slot 1 → verb lands **before** the subject |
 
-> Ich bin müde, **aber** ich **bleibe**. — I'm tired, but I'm staying. *(koordinierend → no change)*
-> Ich **bleibe**, **weil** ich müde **bin**. — I'm staying because I'm tired. *(subordinierend → verb last)*
-> Ich bin müde, **trotzdem bleibe** ich. — I'm tired, nevertheless I'm staying. *(adverb → verb before subject)*
+> Ich bleibe, **denn** ich **bin** müde. *(coordinating → no change)*
+> Ich bleibe, **weil** ich müde **bin**. *(subordinating → verb last)*
+> Ich bin müde, **deshalb bleibe** ich. *(adverb → verb before subject)*
 
-The full word-order rule lives in [[02-word-order]]; the
-conjunction-vs-adverb trap is taught in
-[[05-konjunktional]].
+Learn **weil / denn / deshalb** and you've learned the whole system in miniature.
 
 ---
 
-## When the subordinate clause comes FIRST
+## The climb
 
-You can put the *weil/wenn* clause first. Then the whole clause counts as slot 1, so the **main
-verb lands right after the comma** — verb, comma, verb:
+### 1. Wortstellung — the connector tells the verb where to stand
+The master principle: the three buckets, the litmus test, the *verb, comma, verb* collision when a
+subordinate clause comes first, and the comma rules. Read this first — it frames everything else.
+→ [[01 Wortstellung]]
 
-> **Weil** ich müde **bin**, **bleibe** ich. — Because I'm tired, I'm staying.
-> **Wenn** es **regnet**, **bleibe** ich. — If it rains, I'm staying.
+### 2. Koordinierende — the verb doesn't move
+The free connectors: the **ADUSO** five (*aber, denn, und, sondern, oder*). Includes the headline trap
+**denn vs. weil** (same meaning, opposite word order) and **sondern vs. aber**.
+→ [[02 Koordinierende]]
 
-That "**…bin, bleibe…**" collision in the middle is normal and correct, not a typo.
+### 3. Subordinierende — the verb goes to the end
+The big bucket, sorted **by meaning** (cause, time, condition, concession, purpose, manner) so it stops
+being a blur. One rule for all of them: verb to the back.
+→ [[03 Subordinierende]]
 
----
+### 4. wenn · als · wann · ob — untangling "when" and "if"
+English's *when* and *if* become **four** German words that don't line up one-to-one. The single most
+common connector mistake — sorted with two quick questions.
+→ [[04 wenn als wann ob]]
 
-## Leicht zu verwechseln (easily confused)
-
-### denn vs. weil — both "because"
-
-Same meaning, **opposite word order**:
-
-> Ich bleibe, **denn** ich **bin** müde. — *denn* = coordinating → no flip.
-> Ich bleibe, **weil** ich müde **bin**. — *weil* = subordinating → verb to the end.
-
-*weil* is the everyday choice in speech; *denn* is a touch more formal.
-
-### wenn vs. als vs. wann — the three "when"
-
-| German | use | example |
-|---|---|---|
-| **wann** | the **question** "when?" | **Wann** kommst du? — When are you coming? |
-| **wenn** | "if" / "whenever" — a condition or a repeated/future time | **Wenn** es regnet, bleibe ich. — If it rains, I stay. |
-| **als** | "when" for a **single event in the past** | **Als** ich klein war… — When I was little… |
-
-### wenn vs. ob — both can be "if"
-
-- **ob** = "whether" (a hidden yes/no question)
-  > Ich frage, **ob** er kommt. — I'm asking whether he's coming.
-- **wenn** = "if" (a condition)
-  > **Wenn** er kommt, freue ich mich. — If he comes, I'll be glad.
-
-Quick test: if you can swap in **"whether"** in English, use **ob**.
+### 5. Zweiteilige — connectors that come in a pair
+The two-part frames: *entweder…oder, weder…noch, sowohl…als auch, nicht nur…sondern auch*, and the
+special **je…desto** with its own word order.
+→ [[05 Zweiteilige]]
 
 ---
 
-## Kommas (commas)
+## The third bucket lives with the adverbs
 
-German puts a comma **before** a subordinating conjunction, and before **aber / sondern / denn**.
-Usually **no** comma before **und / oder**.
+*deshalb, trotzdem, dann, also, sonst…* **feel** like conjunctions but are grammatically **adverbs** —
+so they're taught where they belong, with the adverbs: → [[08 Konjunktionaladverbien]]. Just remember
+the trap: a "because/so/therefore" word can sit in **any** of the three buckets, and each does
+something different to the verb. The full sentence-order picture is in [[02 Word Order]].
 
-> Ich bleibe**,** weil ich müde bin. · Es ist klein**,** aber schön. · Brot und Butter *(no comma)*

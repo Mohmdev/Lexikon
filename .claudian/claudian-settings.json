@@ -29,9 +29,9 @@
       "cliPathsByHost": {},
       "loadUserSettings": true,
       "enableChrome": true,
-      "enableBangBash": false,
+      "enableBangBash": true,
       "enableOpus1M": true,
-      "enableSonnet1M": false,
+      "enableSonnet1M": true,
       "customModels": "",
       "lastModel": "opus[1m]",
       "environmentVariables": "",
@@ -47,7 +47,7 @@
       "environmentVariables": "",
       "environmentHash": "",
       "installationMethodsByHost": {
-        "device:62d13a6d-6762-4bfe-85aa-adbf257d8ae0": "native-windows"
+        "device:4999390a-2c7f-451c-9942-3d3d8b81b9dd": "native-windows"
       },
       "wslDistroOverridesByHost": {}
     },
@@ -93,6 +93,7 @@
   "tabBarPosition": "input",
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,
+  "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
   "hiddenProviderCommands": {}
 }

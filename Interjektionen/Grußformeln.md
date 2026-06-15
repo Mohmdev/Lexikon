@@ -1,4 +1,5 @@
 ---
+level: A1
 tags:
   - interjektionen
   - wortschatz
