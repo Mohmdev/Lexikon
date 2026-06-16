@@ -18,41 +18,41 @@ them.
 
 ## Die Wochentage (days) — all **der**
 
-| Deutsch | Englisch | Note |
+| Deutsch | Anmerkung | Englisch |
 |---|---|---|
-| der Montag | Monday | |
-| der Dienstag | Tuesday | |
-| der Mittwoch | Wednesday | the odd one — "mid-week," not "…tag" |
-| der Donnerstag | Thursday | |
-| der Freitag | Friday | |
-| der Samstag | Saturday | northern Germany: *der Sonnabend* |
-| der Sonntag | Sunday | |
+| der Montag | | Monday |
+| der Dienstag | | Tuesday |
+| der Mittwoch | the odd one — "mid-week," not "…tag" | Wednesday |
+| der Donnerstag | | Thursday |
+| der Freitag | | Friday |
+| der Samstag | northern Germany: *der Sonnabend* | Saturday |
+| der Sonntag | | Sunday |
 
 ## Die Monate (months) — all **der**
 
-| Deutsch | Englisch | Note |
+| Deutsch | Anmerkung | Englisch |
 |---|---|---|
-| der Januar | January | |
-| der Februar | February | |
-| der März | March | umlaut: ä |
-| der April | April | |
-| der Mai | May | |
-| der Juni | June | said "Juni" |
-| der Juli | July | often said "Julei" aloud, to not clash with Juni |
-| der August | August | |
-| der September | September | |
-| der Oktober | October | |
-| der November | November | |
-| der Dezember | December | |
+| der Januar | | January |
+| der Februar | | February |
+| der März | umlaut: ä | March |
+| der April | | April |
+| der Mai | | May |
+| der Juni | said "Juni" | June |
+| der Juli | often said "Julei" aloud, to not clash with Juni | July |
+| der August | | August |
+| der September | | September |
+| der Oktober | | October |
+| der November | | November |
+| der Dezember | | December |
 
 ## Die Jahreszeiten (seasons) — all **der**
 
-| Deutsch | Englisch | Note |
+| Deutsch | Anmerkung | Englisch |
 |---|---|---|
-| der Frühling | spring | also: *das Frühjahr* |
-| der Sommer | summer | |
-| der Herbst | autumn / fall | |
-| der Winter | winter | |
+| der Frühling | also: *das Frühjahr* | spring |
+| der Sommer | | summer |
+| der Herbst | | autumn / fall |
+| der Winter | | winter |
 
 ---
 

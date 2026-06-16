@@ -32,12 +32,12 @@ Switch-over point to remember: **-t below 20, -st from 20 on.**
 
 A handful don't follow the rule cleanly — and they're the most common ones, so learn them cold:
 
-| # | ordinal stem | not… |
-|---|---|---|
-| 1st | **erst-** | ~~eint-~~ |
-| 3rd | **dritt-** | ~~dreit-~~ |
-| 7th | **siebt-** | (siebent- exists but is old/formal) |
-| 8th | **acht-** | ~~achtt-~~ — *acht* already ends in -t, so just **one** t |
+| #   | ordinal stem | not…                                                      |
+| --- | ------------ | --------------------------------------------------------- |
+| 1st | **erst-**    | ~~eint-~~                                                 |
+| 3rd | **dritt-**   | ~~dreit-~~                                                |
+| 7th | **siebt-**   | (siebent- exists but is old/formal)                       |
+| 8th | **acht-**    | ~~achtt-~~ — *acht* already ends in -t, so just **one** t |
 
 2nd is regular: **zweit-**. After that, everything obeys the -t / -st rule.
 
