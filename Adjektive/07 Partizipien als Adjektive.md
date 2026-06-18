@@ -5,30 +5,31 @@ tags:
   - grammatik
 ---
 
-# Partizipien als Adjektive — verbs frozen into describing words
+# Partizipien als Adjektive — verbs used as adjectives
 
-Here's a generator that doubles your adjective supply for free: **any verb can be frozen into an
-adjective.** You already do this in English without thinking —
+**Any verb can be used as an adjective.** English does this too:
 
 > the **cooked** egg · the **playing** children · a **used** car · **boiling** water
 
-"cooked", "playing", "used", "boiling" all started as verbs (cook, play, use, boil) and got turned
-into describing words. German does the exact same thing, with two forms you mostly **already own**.
+"cooked", "playing", "used", "boiling" are verbs (cook, play, use, boil) used as adjectives. German
+works the same way, with two participle forms.
 
 ---
 
-## The two flavors (and they mean opposite things)
+## The two participles
 
-| | English clue | meaning | feel |
+The two forms carry opposite meanings:
+
+| | English clue | meaning | aspect |
 |---|---|---|---|
-| **Partizip I** (present) | the **-ing** one | the thing is **doing** the action | active, ongoing |
-| **Partizip II** (past) | the **-ed** one | the action was **done to** the thing | passive, finished |
+| **Partizip I** (present) | the **-ing** one | the noun is **doing** the action | active, ongoing |
+| **Partizip II** (past) | the **-ed** one | the action was **done to** the noun | passive, finished |
 
 > das **kochende** Wasser — the **boiling** water *(the water is doing the boiling)*
 > das **gekochte** Ei — the **cooked** egg *(the egg got cooked — someone did it to it)*
 
-Same root (*kochen* = to cook/boil), opposite roles. Pick by asking: **is the noun the doer or the
-done-to?**
+Same root (*kochen* = to cook/boil), opposite roles. Select by whether the noun is the doer or the
+done-to.
 
 ---
 
@@ -36,47 +37,47 @@ done-to?**
 
 ### Partizip I = infinitive **+ d**
 
-That's the whole rule. No exceptions worth your time as a beginner.
+That is the whole rule.
 
 > lachen → **lachend** (laughing) · schlafen → **schlafend** (sleeping) · weinen → **weinend** (crying)
 > fließen → **fließend** (flowing — also "fluent": *fließend Deutsch*)
 
-### Partizip II = the form you already learned for the perfect tense
+### Partizip II = the perfect-tense form
 
-You're **not** learning anything new here — it's the same *gekocht / gefahren / gemacht* you built in
-[[05 Perfekt]], reusing the weak/strong split from [[04 Schwache und starke Verben]].
+This is the same *gekocht / gefahren / gemacht* from [[05 Perfekt]], using the weak/strong split from
+[[04 Schwache und starke Verben]].
 
 > kochen → **gekocht** · brauchen → **gebraucht** · öffnen → **geöffnet** · schließen → **geschlossen**
 
-So Partizip II as an adjective costs you **zero** new memorization — you collected these for the past
-tense already.
+Partizip II as an adjective requires no new memorization — these forms are already learned for the
+past tense.
 
 ---
 
-## They're adjectives now — so they take adjective endings
+## Participles take adjective endings
 
-Once a participle sits in front of a noun, it declines like any other adjective (weak / mixed /
-strong — [[01 Warum Endungen]]). Nothing special:
+In front of a noun, a participle declines like any other adjective (weak / mixed / strong —
+[[01 Warum Endungen]]):
 
 > die **spielenden** Kinder — the playing children *(plural, weak → -en)*
 > ein **lachendes** Kind — a laughing child *(neut Nom, mixed → -es)*
 > mit dem **gebrauchten** Auto — with the used car *(neut Dat, weak → -en)*
 > **gekochte** Eier — cooked eggs *(plural, no article, strong → -e)*
 
-And **after *sein*** the Partizip II can stand bare, exactly like a normal predicative adjective:
+**After *sein*** the Partizip II can stand bare, like any predicative adjective:
 
 > Das Ei ist **gekocht**. — The egg is cooked.
 > Das Geschäft ist **geschlossen**. — The shop is closed.
 
-(Many of these have quietly become everyday adjectives in their own right: *bekannt* (known/famous),
-*verboten* (forbidden), *begeistert* (enthusiastic), *interessiert* (interested).)
+Many of these have become standalone everyday adjectives: *bekannt* (known/famous), *verboten*
+(forbidden), *begeistert* (enthusiastic), *interessiert* (interested).
 
 ---
 
-## ⚠️ One thing the -ing form does NOT do
+## Partizip I vs. infinitive-noun
 
-English uses **-ing** for two different jobs; German splits them. Partizip I covers only the
-*describing* job, **not** the *naming* job:
+English uses **-ing** for two different functions; German splits them. Partizip I covers only the
+*describing* function, **not** the *naming* function:
 
 > Swimming is healthy. → **Schwimmen** ist gesund. *(naming → use the plain infinitive as a noun, NOT schwimmend)*
 > the swimming dog → der **schwimmende** Hund *(describing → Partizip I ✓)*
@@ -86,9 +87,9 @@ So: *-ing as "the act of"* → infinitive-noun ([[06 Nominalisierung]] territory
 
 ---
 
-## Where this goes next (just so you've seen it)
+## Extended participle phrases
 
-German can stuff a whole phrase *in front* of the noun using a participle —
-*das **von mir gekochte** Ei* ("the egg cooked by me"). That's the **erweiterte Partizipialkonstruktion**,
-a C1 party trick. You don't need it now; just don't panic when you meet a sentence with five words
-piled before the noun. It's this same idea, scaled up.
+German can place a whole phrase in front of the noun using a participle —
+*das **von mir gekochte** Ei* ("the egg cooked by me"). This is the **erweiterte
+Partizipialkonstruktion** (C1 level): the same construction, with multiple words stacked before the
+noun.

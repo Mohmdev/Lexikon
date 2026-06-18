@@ -6,11 +6,11 @@ tags:
 
 # Modaladverbien (manner adverbs)
 
-*⚙️ Answer **wie?** (how) — only the pure adverbs that are NOT adjectives.*
+Answer **wie?** (how). This file covers only the pure adverbs, not adjectives.
 
-Most manner words are just **adjectives** used as adverbs (schnell, gut, leise); those live in
-`Adjektive/`, not here. This file holds only the real adverbs that are NOT adjectives — you can't
-place them in front of a noun.
+Most manner words are **adjectives** used as adverbs (schnell, gut, leise); those live in
+`Adjektive/`, not here. This file holds only the true adverbs, which cannot stand in front of a
+noun.
 
 | Deutsch | Anmerkung | Englisch |
 |---|---|---|

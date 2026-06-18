@@ -7,28 +7,26 @@ tags:
 
 # Schwache und starke Verben — the compute/memorize split
 
-This is the hinge of the whole folder. Before you can build any past tense, you have to know which of
-two camps a verb is in — because the two camps build their past forms in completely different ways.
-You already know this split from English:
+Building any past tense requires knowing which of two classes a verb belongs to; the two classes form
+their past forms differently. The same split exists in English:
 
-- **walk → walked → walked** — regular, predictable. Add *-ed*. (German calls these **weak**.)
-- **sing → sang → sung** — the vowel changes and you just *know* it. (German calls these **strong**.)
+- **walk → walked → walked** — regular, predictable. Add *-ed*. (German: **weak**.)
+- **sing → sang → sung** — the vowel changes and is memorized. (German: **strong**.)
 
-German works exactly the same way. The difference is which side is **compute** and which is
-**hardcode**.
+German works the same way. One class is **computed**, the other is **hardcoded**.
 
 ---
 
 ## Weak = compute (the default)
 
-Weak verbs **keep their stem** and signal the past with a **-t-**. The rule never varies, so you
-never store anything — you derive it:
+Weak verbs **keep their stem** and mark the past with a **-t-**. The rule is invariant, so the forms
+are derived, not stored:
 
 > **Präteritum** (simple past): stem **+ te** → machen → er **machte**
 > **Partizip II** (past participle): **ge-** + stem + **-t** → machen → ge**macht**
 
-This is the **open, growing** class. Every brand-new verb German invents (*googeln, downloaden*) is
-weak by default. So weak isn't a list to learn — it's a formula you run.
+This is the **open, growing** class. New verbs (*googeln, downloaden*) are weak by default. Weak is a
+formula, not a list.
 
 ---
 
@@ -40,13 +38,12 @@ Strong verbs **change their stem vowel** (the technical name is *ablaut*), and t
 > **Präteritum**: vowel change, **no -te** → singen → er **sang**
 > **Partizip II**: **ge-** + (often new vowel) + **-en** → singen → ge**sungen**
 
-You can't compute the vowel — *singen* goes *a*, but *finden* goes *fand/gefunden* and *gehen* goes
+The vowel is not computable — *singen* takes *a*, *finden* takes *fand/gefunden*, *gehen* takes
 *ging/gegangen*. This is **per-verb data**, the verb equivalent of a noun's gender. There are roughly
-**200** of them, but they're the *most common* verbs in the language, so you meet them constantly and
-they stick fast.
+**200** of them, and they are the most common verbs in the language, so they recur constantly.
 
-This is exactly why the word list stores the **principal parts** — infinitive → Präteritum →
-Partizip II — as the verb's "triple." That's the unguessable data; everything else is computed from
+For this reason the word list stores the **principal parts** — infinitive → Präteritum →
+Partizip II — as the verb's triple. That is the unguessable data; everything else is computed from
 it. → [[Verben 001-100]]
 
 ---
@@ -62,23 +59,23 @@ it. → [[Verben 001-100]]
 
 ---
 
-## The ablaut isn't pure chaos
+## Ablaut patterns
 
-Strong verbs aren't 200 random facts — they fall into **vowel-pattern families**. Spot the family and
-several verbs come as a set:
+Strong verbs are not 200 unrelated facts — they fall into **vowel-pattern families**. Identifying the
+family yields several verbs at once:
 
 - **ei → ie → ie**: bleiben → blieb → geblieben · schreiben → schrieb → geschrieben
 - **i → a → u**: finden → fand → gefunden · trinken → trank → getrunken · singen → sang → gesungen
 - **ie → o → o**: fliegen → flog → geflogen · ziehen → zog → gezogen
 
-You still memorize them, but in chords, not one note at a time.
+They are still memorized, but by family rather than individually.
 
 ---
 
-## The third camp: mixed verbs
+## Mixed verbs
 
-A small, closed group cheats — they take the **strong vowel change** *and* the **weak -t- ending** at
-the same time. Just memorize this short list; there aren't many:
+A small, closed group combines the **strong vowel change** with the **weak -t- ending**. The full
+list is short:
 
 | infinitive | Präteritum | Partizip II | English |
 | ---------- | ---------- | ----------- | ------- |
@@ -89,5 +86,5 @@ the same time. Just memorize this short list; there aren't many:
 
 ---
 
-With this split clear, the two past tenses are just two ways of *using* these forms:
-the spoken past ([[05 Perfekt]]) and the written past ([[06 Präteritum]]).
+The two past tenses are two ways of using these forms: the spoken past ([[05 Perfekt]]) and the
+written past ([[06 Präteritum]]).

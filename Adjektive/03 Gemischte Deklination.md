@@ -7,13 +7,12 @@ tags:
 
 # Gemischte Deklination — mixed endings (after ein / kein / mein)
 
-Good news: this is **the weak table with exactly three cells changed**. Learn weak
-([[02 Schwache Deklination]]) and you're 90% done here.
+This is **the weak table with exactly three cells changed**. Learn weak
+([[02 Schwache Deklination]]) and most of this follows.
 
-Why three cells change: *ein* is lazy. In three spots it shows **no ending at all** — masc Nom (*ein*),
-neut Nom and neut Akk (*ein*) — so it can't reveal the gender. The adjective steps up in exactly
-those three spots and takes the **strong, article-looking** ending to carry the missing signal.
-(The *why* in full: [[01 Warum Endungen]].)
+In three spots *ein* shows **no ending** — masc Nom (*ein*), neut Nom and neut Akk (*ein*) — so it
+cannot mark the gender. In those three spots the adjective takes the **strong, article-looking**
+ending instead, to carry the missing signal. (Full reasoning: [[01 Warum Endungen]].)
 
 ---
 
@@ -26,23 +25,23 @@ those three spots and takes the **strong, article-looking** ending to carry the 
 | **Dativ** | einem schnell**en** | einer schnell**en** | einem schnell**en** | keinen schnell**en** |
 | **Genitiv** | eines schnell**en** | einer schnell**en** | eines schnell**en** | keiner schnell**en** |
 
-## The only difference from weak — three cells
+## Difference from weak — three cells
 
 | cell | weak (der/das) | mixed (ein) | why |
 |---|---|---|---|
-| masc **Nom** | der schnell**e** | ein schnell**er** | *ein* didn't show masc → adj shows it (-er, like *der*) |
-| neut **Nom** | das schnell**e** | ein schnell**es** | *ein* didn't show neut → adj shows it (-es, like *das*) |
+| masc **Nom** | der schnell**e** | ein schnell**er** | *ein* unmarked for masc → adj marks it (-er, like *der*) |
+| neut **Nom** | das schnell**e** | ein schnell**es** | *ein* unmarked for neut → adj marks it (-es, like *das*) |
 | neut **Akk** | das schnell**e** | ein schnell**es** | same as above |
 
 Everywhere else, mixed = weak (mostly **-en**).
 
-## See it
+## Examples
 
-> Ein **schneller** Wagen fährt. — A fast car drives. *(masc Nom → -er, the adj carries it)*
+> Ein **schneller** Wagen fährt. — A fast car drives. *(masc Nom → -er, carried by the adj)*
 > Ich habe ein **schnelles** Auto. — I have a fast car. *(neut Akk → -es)*
 > mit meinem **schnellen** Auto — with my fast car *(neut Dat → -en, same as weak)*
 
 ⚠️ *schneller* here is **schnell + the -er ending**, not the comparative "faster." Same spelling, two
-jobs — see [[05 Steigerung]].
+functions — see [[05 Steigerung]].
 
-Next: **no article at all** — the adjective carries *everything*. [[04 Starke Deklination]].
+Next, no article at all: the adjective carries every ending. [[04 Starke Deklination]].

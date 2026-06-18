@@ -7,9 +7,9 @@ tags:
 
 # Relativpronomen (relative pronouns)
 
-A relative pronoun glues a describing clause onto a noun: "the man **who** lives here," "the book
-**that** I read." German does the same job with words you already know — they're **almost exactly the
-*der/die/das* grid** ([[01 Bestimmte]]).
+A relative pronoun attaches a describing clause to a noun: "the man **who** lives here," "the book
+**that** I read." The German forms are **almost identical to the *der/die/das* grid**
+([[01 Bestimmte]]).
 
 > Der Mann, **der** dort steht, ist mein Vater. — The man **who** is standing there is my father.
 
@@ -17,14 +17,13 @@ A relative pronoun glues a describing clause onto a noun: "the man **who** lives
 
 ## Two inputs decide the form
 
-This is the one idea that makes relative pronouns click. The pronoun's:
+The pronoun's:
 
 - **gender & number** come from the noun it refers back to (the *antecedent*) — *der Mann* → masculine
   singular;
-- **case** comes from the job it does **inside its own clause** — subject? object? receiver?
+- **case** comes from its role **inside its own clause** — subject, object, or dative receiver.
 
-So: **relativ = f(antecedent's gender/number, role-inside-the-clause case)**. Two separate questions,
-two separate inputs.
+These are two separate inputs: **relativ = f(antecedent's gender/number, role-inside-the-clause case)**.
 
 > Der Mann, **den** ich kenne … — The man **whom** I know … *(masc from "Mann", but Akkusativ because
 > he's the object of "kenne")*
@@ -43,7 +42,7 @@ Identical to the definite article **except** the bolded cells (Genitiv everywher
 | **Dativ** | dem | der | dem | **denen** |
 | **Genitiv** | **dessen** | **deren** | **dessen** | **deren** |
 
-Just four cells to flag: Dativ plural is **denen** (not *den*), and all four genitives are
+Four cells differ: Dativ plural is **denen** (not *den*), and all four genitives are
 **dessen / deren** (meaning "whose").
 
 > Das ist die Frau, **deren** Auto kaputt ist. — That's the woman **whose** car is broken.
@@ -51,7 +50,7 @@ Just four cells to flag: Dativ plural is **denen** (not *den*), and all four gen
 
 ---
 
-## The clause is subordinate → verb to the end
+## Word order: subordinate clause, verb last
 
 A relative clause is a subordinate clause, so two things follow from [[02 Word Order]]:
 
@@ -72,5 +71,5 @@ If the relative role needs a preposition, the preposition comes **first**, and i
 > Das Haus, **in dem** ich wohne … — The house **in which** I live …
 > Der Freund, **mit dem** ich spreche … — The friend **with whom** I'm talking …
 
-*(There's also a formal alternative — welcher / welche / welches — but it's stiff and rarely used in
-speech. Stick with der/die/das.)*
+There is a formal alternative — welcher / welche / welches — but it is stiff and rarely used in
+speech; prefer der/die/das.

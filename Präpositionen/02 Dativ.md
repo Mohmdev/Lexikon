@@ -9,8 +9,8 @@ tags:
 
 *These always force the **dative** on the noun behind them.*
 
-A **closed list** to grind once. The classic eight chant straight through:
-**aus – außer – bei – mit – nach – seit – von – zu** (with *gegenüber* tagging along).
+A **closed list**. The core eight:
+**aus – außer – bei – mit – nach – seit – von – zu** (plus *gegenüber*).
 
 | German | English | Note |
 |---|---|---|

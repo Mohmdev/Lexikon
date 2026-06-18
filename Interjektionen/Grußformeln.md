@@ -7,8 +7,8 @@ tags:
 
 # Grußformeln (greetings & social formulas)
 
-*Fixed social phrases — hellos, goodbyes, thanks, please. You don't build these from grammar, you just
-**know** them, so they live here as a list. Most have a formal and a casual version.*
+*Fixed social phrases — hellos, goodbyes, thanks, please. These are memorized, not built from grammar,
+so they are listed here. Most have a formal and a casual version.*
 
 | German | English | Note |
 |---|---|---|
@@ -54,5 +54,5 @@ tags:
 | **gern / gerne** | gladly | warm reply to thanks |
 | „Danke!" — **Gern!** | "Thanks!" — My pleasure! | |
 
-> ⚠️ **bitte** is a multi-tool: "please", "you're welcome", "here you go", and "pardon?" — the
-> situation tells you which.
+> ⚠️ **bitte** has several uses: "please", "you're welcome", "here you go", and "pardon?" — the
+> situation determines which.

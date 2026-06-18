@@ -7,13 +7,12 @@ tags:
 
 # Plural — making nouns plural
 
-English has it easy: slap on **-s** and you're done. German spreads the job across **five patterns**,
-and which one a noun takes is the *second* per-noun fact (the third slot in the triple). It's
-semi-predictable — enough to guess, risky enough to store.
+English uses **-s** for nearly all plurals. German has **five patterns**, and the pattern a noun
+takes is the second per-noun fact (the third slot in the triple). It is semi-predictable: enough to
+guess, irregular enough to store.
 
-One free simplification up front: **in the plural, the article is *die* for every gender.** Gender
-"disappears" once you go plural — *der Tisch / die Lampe / das Haus* all become **die** Tische /
-Lampen / Häuser.
+**In the plural, the article is *die* for every gender.** Gender is not marked in the plural — *der
+Tisch / die Lampe / das Haus* all become **die** Tische / Lampen / Häuser.
 
 ---
 
@@ -32,9 +31,9 @@ ending.
 
 ---
 
-## The tendencies (how to guess)
+## Tendencies for guessing
 
-Gender and the singular ending hint the plural surprisingly well:
+Gender and the singular ending predict the plural reasonably well:
 
 - **Feminine → almost always -(e)n.** This is the most reliable plural rule in German. *die
   Frau→Frauen, die Blume→Blumen, die Wohnung→Wohnungen.*
@@ -48,11 +47,11 @@ Gender and the singular ending hint the plural surprisingly well:
 
 ---
 
-## The strategy
+## Strategy
 
-Use the tendencies to make an **educated guess** when you're stuck, but because the misses are common
-(*der Mann → Männer*, not "Männe"), the plural is part of what you **store in the triple** at first
-contact: *das Haus, die Häuser*. → [[Nomen 001-100]]
+Use the tendencies to **guess** when needed, but because the exceptions are common (*der Mann →
+Männer*, not "Männe"), **store the plural in the triple** at first contact: *das Haus, die Häuser*.
+→ [[Nomen 001-100]]
 
-*(The plural also picks up an extra -n in the dative — die Kinder → den Kinder**n**. That's a case
-ending, covered in [[04 Deklination]].)*
+The plural also adds an extra -n in the dative — *die Kinder → den Kinder**n***. That is a case
+ending, covered in [[04 Deklination]].

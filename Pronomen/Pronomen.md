@@ -14,39 +14,37 @@ tags:
 
 %% End Waypoint %%
 
-# Pronomen (pronouns) — start here
+# Pronomen (pronouns)
 
-A pronoun is a **stand-in for a noun phrase** — instead of repeating "the man," you say "he"; instead
-of "the man's car," "his car." German has more types than English, but here's the payoff that makes
-the whole folder easy:
+A pronoun is a **stand-in for a noun phrase**: instead of "the man," *he*; instead of "the man's car,"
+*his car*. German has more types than English, but most reuse case grids covered elsewhere.
 
-> **Most pronouns just re-use case grids you already own.** The personal forms, and the *der/die/das*
-> grid. Pronouns are mostly "the grids again, plugged into [[01 Kasus|cases]]" — not a new pile to
-> memorize.
+> **Most pronouns reuse existing case grids:** the personal forms and the *der/die/das* grid, plugged
+> into [[01 Kasus|cases]]. They are not a separate set to memorize.
 
-Two things every pronoun cares about: the **case** (its job in the sentence) and, for many, the
-**gender/number** of whatever it refers to.
+Every pronoun is marked for **case** (its role in the sentence). Many are also marked for the
+**gender/number** of their referent.
 
 ---
 
-## The types, foundational-first
+## Types
 
 ### 1. Personal — he, him, them
 
-The base layer: *ich / mich / mir …*, learned **by case**. Includes the big beginner trap that "it"
-isn't always *es* (it tracks the noun's gender: *der Tisch → er*).
+The base layer: *ich / mich / mir …*, organized **by case**. Note that "it" is not always *es*; the
+form tracks the noun's gender (*der Tisch → er*).
 → [[01 Personal]]
 
 ### 2. Possessive — my, your, his
 
-*mein, dein, sein…* The trick is two layers: the **stem** picks the owner, the **ending** agrees with
-the thing owned (same endings as *ein/kein*).
+*mein, dein, sein…* Two layers: the **stem** marks the owner, the **ending** agrees with the thing
+owned (same endings as *ein/kein*).
 → [[02 Possessive]]
 
 ### 3. Reflexive — myself, yourself
 
-When the action loops back to the subject: *ich freue **mich***. The only new form is **sich** —
-everything else is the personal pronouns again.
+Used when the action refers back to the subject: *ich freue **mich***. The only new form is **sich**;
+the rest are the personal pronouns.
 → [[03 Reflexive]]
 
 ### 4. Relative — the man **who**, the book **that**
@@ -57,12 +55,12 @@ verb to the end.
 
 ### 5. Demonstrative — this one, that one
 
-Pointing words: *dieser* (this), and stressed *der/die/das* ("that one!"). Same grids again.
+Pointing words: *dieser* (this) and stressed *der/die/das* ("that one"). Same grids.
 → [[05 Demonstrative]]
 
 ### 6. Indefinite — someone, nothing, everyone
 
-Unspecified people and amounts: *man, jemand, etwas, nichts, alle, jeder*. The high-frequency one is
+Unspecified people and amounts: *man, jemand, etwas, nichts, alle, jeder*. The most frequent is
 **man** ("you / one / people in general").
 → [[06 Indefinite]]
 

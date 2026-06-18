@@ -6,7 +6,7 @@ tags:
 
 # Lokaladverbien (place adverbs)
 
-*📍 Answer **wo? / wohin?** (where / where to).*
+*Answer **wo? / wohin?** (where / where to).*
 
 | Deutsch | Anmerkung | Englisch |
 |---|---|---|

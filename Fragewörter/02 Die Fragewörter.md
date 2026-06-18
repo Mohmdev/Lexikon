@@ -7,10 +7,9 @@ tags:
 
 # Die Fragewörter — the W-word inventory
 
-A small **closed set** — almost all start with **W** (German's *wh-*). Learn these and you can open any
-question. Two of them need extra room and get their own pages: the declining **wer** ([[03 wer wen wem
-wessen]]) and the determiners **welcher / was für ein** ([[04 welcher und was für ein]]). Everything
-else is here.
+A **closed set**; almost all start with **W** (German's *wh-*). Two have their own pages: the declining
+**wer** ([[03 wer wen wem wessen]]) and the determiners **welcher / was für ein**
+([[04 welcher und was für ein]]). The rest are here.
 
 ---
 
@@ -30,10 +29,10 @@ else is here.
 
 ---
 
-## The "where" trio — wo / wohin / woher
+## wo / wohin / woher
 
 English uses one word ("where") for three ideas; German splits them by **direction of motion**. This is
-the exact question version of the *hin / her* logic in [[06 hin und her]]:
+the question form of the *hin / her* logic in [[06 hin und her]]:
 
 | word | asks about | example |
 |---|---|---|
@@ -41,17 +40,16 @@ the exact question version of the *hin / her* logic in [[06 hin und her]]:
 | **wohin** | motion **away / to** | **Wohin** gehst du? — Where are you going (to)? |
 | **woher** | motion **from / origin** | **Woher** kommst du? — Where are you from? |
 
-The *-hin/-her* can also split off to the end in speech: ***Wo** gehst du **hin**?* = *Wohin gehst du?*
-Same meaning.
+The *-hin/-her* can also split off to the end in speech: ***Wo** gehst du **hin**?* = *Wohin gehst du?*,
+same meaning.
 
-> Litmus: **standing still → wo**; **going there → wohin**; **coming from → woher**.
+> Test: **standing still → wo**; **going there → wohin**; **coming from → woher**.
 
 ---
 
-## The "how" family — wie + a partner word
+## wie + a partner word
 
-**wie** = "how" on its own, but it also teams up with another word to measure things. This combining
-trick covers a huge range of everyday questions:
+**wie** = "how" on its own. It also combines with another word to measure quantity or degree:
 
 | German | English | example |
 |---|---|---|
@@ -62,14 +60,13 @@ trick covers a huge range of everyday questions:
 | **wie oft** | how often | **Wie oft** kommst du? — How often…? |
 | **wie alt / groß / weit** | how old / tall / far | **Wie alt** bist du? — How old are you? |
 
-So *wie + adjective/quantity* asks "to what degree" — a tiny generator of its own.
+*wie + adjective/quantity* asks "to what degree".
 
 ---
 
-## The "why" cluster — four words, one meaning
+## The "why" words — four words, one meaning
 
-German has several "why"s; they're **interchangeable** in everyday use, so just recognize them all and
-pick one:
+German has several words for "why"; they are **interchangeable** in everyday use:
 
 > **warum** *(the default)* · **wieso** *(casual)* · **weshalb** / **weswegen** *(a touch more formal)*
 
@@ -78,18 +75,18 @@ pick one:
 
 ---
 
-## Don't confuse wann (question) with wenn/als
+## wann vs. wenn/als
 
-**wann** is *only* the question word "when?" — never the conjunction. The when/if family (wann vs wenn
-vs als vs ob) is sorted in [[04 wenn als wann ob]].
+**wann** is *only* the question word "when?", never the conjunction. The when/if family (wann vs wenn
+vs als vs ob) is covered in [[04 wenn als wann ob]].
 
 > **Wann** kommst du? — When are you coming? *(question → wann)*
-> **Wenn** du kommst, … — When/if you come, … *(condition → wenn, not wann!)*
+> **Wenn** du kommst, … — When/if you come, … *(condition → wenn, not wann)*
 
 ---
 
-## The shape in one line
+## Summary
 
-A closed W-set: **wer, was, wann, wie, warum** plus the **wo/wohin/woher** trio (split by motion) and
+A closed W-set: **wer, was, wann, wie, warum**, plus the **wo/wohin/woher** trio (split by motion) and
 the **wie + partner** family (wie viel, wie lange…). The two that decline — **wer** and **welcher** —
-get their own pages next.
+have their own pages.

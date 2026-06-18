@@ -7,17 +7,17 @@ tags:
 
 # Possessivpronomen (possessives) — "my, your, his…"
 
-These say who **owns** something: *my, your, his* → **mein, dein, sein**. There are two layers, and
-keeping them separate is the whole game:
+These mark who **owns** something: *my, your, his* → **mein, dein, sein**. A possessive has two
+independent layers:
 
-1. **The stem** picks the owner (*mein* = my, *dein* = your…). — a tiny closed list.
-2. **The ending** agrees with the **thing owned** (its gender, number, case) — *not* the owner.
+1. **The stem** marks the owner (*mein* = my, *dein* = your…). A small closed list.
+2. **The ending** agrees with the **thing owned** (its gender, number, case), not the owner.
 
 So: **possessive = stem(owner) + ein-word ending(owned noun's gender/case)**.
 
 ---
 
-## Layer 1 — the stems (the owner)
+## Layer 1 — stems (the owner)
 
 | owner | stem | English |
 | ----- | ---- | ------- |
@@ -32,11 +32,11 @@ So: **possessive = stem(owner) + ein-word ending(owned noun's gender/case)**.
 
 ---
 
-## Layer 2 — the endings (the thing owned)
+## Layer 2 — endings (the thing owned)
 
-The stems take the **exact same endings as *ein / kein*** ([[02 Unbestimmte]]) — that's why they're
-called "ein-words." Here's *mein* across all genders and cases; every other stem (dein, sein, ihr…)
-takes the identical endings:
+The stems take the **same endings as *ein / kein*** ([[02 Unbestimmte]]), hence the term
+"ein-words." Below is *mein* across all genders and cases; every other stem (dein, sein, ihr…) takes
+the identical endings:
 
 | | maskulin | feminin | neutrum | Plural |
 | ------------- | -------- | ------- | ------- | ------ |
@@ -51,10 +51,9 @@ takes the identical endings:
 
 ---
 
-## The classic mix-up: *sein* vs. *ihr*
+## *sein* vs. *ihr* (his vs. her)
 
-Because the **stem** = the owner but the **ending** = the owned thing, "his" and "her" trip people up.
-Keep the two layers apart:
+The **stem** marks the owner; the **ending** marks the owned thing. Keep the two layers apart:
 
 > **sein** Auto — his car · **seine** Katze — his cat *(owner = he → sein; ending tracks Auto/Katze)*
 > **ihr** Auto — her car · **ihre** Katze — her cat *(owner = she → ihr)*
@@ -64,7 +63,7 @@ owner is locked in the **stem**.
 
 ---
 
-## One spelling wrinkle: *euer* → *eur-*
+## Spelling: *euer* → *eur-*
 
 When *euer* (your, pl) takes an ending, it drops the middle **e**:
 
@@ -74,6 +73,5 @@ When *euer* (your, pl) takes an ending, it drops the middle **e**:
 
 ---
 
-These all sit **in front of a noun** here (technically "possessive articles"). They can also stand
-alone as true pronouns — *Das ist **meins*** (that's mine) — but that's a minor variation; get the
-in-front-of-a-noun use solid first.
+Used **in front of a noun**, these are technically "possessive articles." They can also stand alone
+as true pronouns — *Das ist **meins*** (that's mine) — a minor variation.

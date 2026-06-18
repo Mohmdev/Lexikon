@@ -5,19 +5,17 @@ tags:
   - grammatik
 ---
 
-# Ein Wort, viele Rollen — the same word, different jobs
+# Ein Wort, viele Rollen — one word, several roles
 
-The reason particles feel slippery: the most common ones are **homonyms across word classes**. *doch* is
-four different things; *denn, schon, nur, mal, ja* each wear several hats. Good news — **position and
-stress** tell them apart every time. This page is the untangler.
+The most common particles are **homonyms across word classes**. *doch* has four roles; *denn, schon,
+nur, mal, ja* each have several. **Position and stress** distinguish them.
 
-> Two clues do all the work: **where** the word sits in the clause, and **whether it's stressed.** A
-> modal particle is unstressed and lives in the middle; its homonym twins are stressed and/or sit
-> elsewhere.
+> Two cues disambiguate: **where** the word sits in the clause, and **whether it is stressed.** A
+> modal particle is unstressed and sits mid-clause; its homonyms are stressed and/or occur elsewhere.
 
 ---
 
-## doch — four jobs
+## doch — four roles
 
 | role | where / how | example |
 |---|---|---|
@@ -28,7 +26,7 @@ stress** tell them apart every time. This page is the untangler.
 
 ---
 
-## denn — two jobs
+## denn — two roles
 
 | role | where | example |
 |---|---|---|
@@ -39,7 +37,7 @@ Litmus: in a **question** → particle; **joining two clauses with a reason** �
 
 ---
 
-## schon — two jobs
+## schon — two roles
 
 | role | how | example |
 |---|---|---|
@@ -48,7 +46,7 @@ Litmus: in a **question** → particle; **joining two clauses with a reason** �
 
 ---
 
-## nur — two jobs
+## nur — two roles
 
 | role | how | example |
 |---|---|---|
@@ -57,7 +55,7 @@ Litmus: in a **question** → particle; **joining two clauses with a reason** �
 
 ---
 
-## mal — two jobs
+## mal — two roles
 
 | role | how | example |
 |---|---|---|
@@ -66,7 +64,7 @@ Litmus: in a **question** → particle; **joining two clauses with a reason** �
 
 ---
 
-## ja — two jobs
+## ja — two roles
 
 | role | how | example |
 |---|---|---|
@@ -75,21 +73,15 @@ Litmus: in a **question** → particle; **joining two clauses with a reason** �
 
 ---
 
-## The one test that always works
+## Disambiguation test
 
-When you meet one of these words, ask:
+For any of these words, ask:
 
-1. **Is it stressed?** Stressed → it's the "real" word (answer / adverb / focus). Unstressed → likely a
-   modal particle.
-2. **Where does it sit?** Front or joining two clauses → conjunction/adverb. Tucked in the **middle**,
-   adding tone → modal particle.
+1. **Is it stressed?** Stressed → the lexical word (answer / adverb / focus). Unstressed → modal
+   particle.
+2. **Where does it sit?** Front or joining two clauses → conjunction/adverb. Mid-clause, adding tone
+   → modal particle.
 
-Stress + position resolve every case.
+Stress + position resolve every case: unstressed and mid-clause = modal particle.
 
----
-
-## The shape in one line
-
-The frequent particles are **multi-class homonyms**; **stress** (unstressed = modal particle) and
-**position** (middle = modal particle) disambiguate them every time. That's the last piece of the
-particle puzzle. → back to [[Partikeln]]
+→ back to [[Partikeln]]

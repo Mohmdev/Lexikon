@@ -7,10 +7,9 @@ tags:
 
 # Konjunktiv II — the "would / could / if" mood
 
-This is the mood for everything **not real**: hypotheticals, wishes, polite requests, advice. English
-does it with **would, could, were** ("I *would* go," "if I *were* rich," "*could* you help?"). German
-has a dedicated verb form, and it's one of the highest-value things at B1 — **you cannot be polite in
-German without it.**
+The mood for everything **not real**: hypotheticals, wishes, polite requests, advice. English uses
+**would, could, were** ("I *would* go," "if I *were* rich," "*could* you help?"). German has a
+dedicated verb form. It is required for polite speech.
 
 ---
 
@@ -18,18 +17,18 @@ German without it.**
 
 ### Way 1 (default): würde + infinitive
 
-For almost any verb, just use **würde** (conjugated) + the infinitive at the end — exactly like
-English "would + verb." This always works:
+For almost any verb, use **würde** (conjugated) + the infinitive at the end, like English
+"would + verb." This always works:
 
 > Ich **würde** dir **helfen**. — I would help you.
 > Wir **würden** gern **kommen**. — We would like to come.
 
 *würde* conjugates: ich würde, du würdest, er würde, wir würden, ihr würdet, sie würden.
 
-### Way 2 (real forms): for the verbs where würde is clumsy
+### Way 2 (real forms): high-frequency verbs
 
-A few ultra-common verbs have their own Konjunktiv II form that Germans use *instead* of würde. These
-you **must** know as real forms:
+A few very common verbs have their own Konjunktiv II form, used *instead* of würde. Know these as
+real forms:
 
 | verb | Konjunktiv II | English |
 |---|---|---|
@@ -46,25 +45,23 @@ you **must** know as real forms:
 > Das **wäre** schön. — That would be nice.
 > **Könntest** du mir helfen? — Could you help me?
 
-**Where these forms come from:** take the **Präteritum** ([[06 Präteritum]]) and add an **umlaut** +
-the endings *-e, -est, -e, -en, -et, -en*. *hatte → hätte, war → wäre, konnte → könnte.* A handful of
-strong verbs do it too: *kam → käme, ging → ginge, wüsste, gäbe, bräuchte* — but for most strong verbs
-people just use **würde + infinitive**.
+**Formation:** take the **Präteritum** ([[06 Präteritum]]), add an **umlaut**, and add the endings
+*-e, -est, -e, -en, -et, -en*. *hatte → hätte, war → wäre, konnte → könnte.* A handful of strong
+verbs also form it this way: *kam → käme, ging → ginge, wüsste, gäbe, bräuchte*. For most strong
+verbs, use **würde + infinitive**.
 
-### The division of labour
+### Choosing between the two
 
-> **wäre, hätte, and the modals (könnte, müsste, möchte, sollte…) → use the real form.**
+> **wäre, hätte, and the modals (könnte, müsste, möchte, sollte…) → real form.**
 > **Everything else → würde + infinitive.**
-
-Get that split right and you sound native.
 
 ---
 
 ## What you use it for
 
-### 1. Politeness (the daily payoff)
+### 1. Politeness
 
-This is the #1 reason to learn it. Konjunktiv II turns blunt into polite:
+Konjunktiv II turns a blunt statement into a polite one:
 
 > Ich **hätte** gern einen Kaffee. — I'd like a coffee. *(vs. blunt "ich will")*
 > **Könnten** Sie mir helfen? — Could you help me?
@@ -93,26 +90,24 @@ in a real form, the result with *würde*:
 
 ---
 
-## The past version: "would have / had been" (hätte/wäre + Partizip II)
+## Past form: hätte/wäre + Partizip II
 
-To make any of this refer to the **past** ("would have done," "if I had known"), use **hätte / wäre +
-Partizip II** — the same participle as ever, with the Konjunktiv helper. (It's the [[12 Plusquamperfekt]]
-shape, but with *hätte/wäre* instead of *hatte/war*.)
+To refer to the **past** ("would have done," "if I had known"), use **hätte / wäre + Partizip II** —
+the same participle, with the Konjunktiv helper. (Same shape as the [[12 Plusquamperfekt]], but with
+*hätte/wäre* instead of *hatte/war*.)
 
 > **Wenn** ich Zeit **gehabt hätte**, **wäre** ich **gekommen**.
 > — If I had had time, I would have come.
 > Das **hätte** ich nicht **gedacht**. — I wouldn't have thought that.
 
-One form covers all past unreality: **hätte/wäre + P2.**
+This one form covers all past unreality: **hätte/wäre + P2.**
 
 ---
 
 ## Strategy
 
-1. Memorize the real forms: **wäre, hätte, könnte, müsste, dürfte, sollte, möchte** — they're tiny and
-   constant.
+1. Memorize the real forms: **wäre, hätte, könnte, müsste, dürfte, sollte, möchte**.
 2. For every other verb, default to **würde + infinitive**.
-3. For the past, it's always **hätte/wäre + Partizip II**.
+3. For the past, use **hätte/wäre + Partizip II**.
 
-Drill the polite phrases first (*ich hätte gern, könnten Sie, ich würde gern*) — they're the ones
-you'll say every single day.
+Drill the polite phrases first: *ich hätte gern, könnten Sie, ich würde gern*.

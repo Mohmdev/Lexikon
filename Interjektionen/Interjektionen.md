@@ -13,9 +13,9 @@ tags:
 
 # Interjektionen — Grammatik
 
-Interjections barely have grammar — that's the point. They **don't inflect** (no endings, no case, no
-gender), and they stand **outside** the sentence's structure rather than filling a slot in it. So the
-only two things worth learning are the **doch** answer-matrix and the **punctuation**.
+Interjections **do not inflect** (no endings, no case, no gender) and stand **outside** the sentence's
+structure rather than filling a slot in it. The two points to learn are the **doch** answer-matrix and
+the **punctuation**.
 
 The word lists live in [[Antwortwörter]], [[Grußformeln]], and
 [[Gefühlslaute]].
@@ -24,7 +24,7 @@ The word lists live in [[Antwortwörter]], [[Grußformeln]], and
 
 ## ja / nein / doch — the answer-matrix
 
-English answers a question with two words (yes/no). German uses **three**, because it splits the
+English answers a question with two words (yes/no). German uses **three**, splitting the
 answer to a *negative* question. The rule: **doch** = "yes, contradicting your negative".
 
 | The question is… | You agree → | You disagree → |
@@ -32,8 +32,8 @@ answer to a *negative* question. The rule: **doch** = "yes, contradicting your n
 | **positive** — „Kommst du?" (Are you coming?) | **Ja.** (Yes, I am.) | **Nein.** (No, I'm not.) |
 | **negative** — „Kommst du **nicht**?" (Aren't you coming?) | **Nein.** (No, I'm not.) | **Doch!** (Yes, I am!) |
 
-So the trap is the bottom-right cell: when someone asks a **negative** question and you want to say
-"yes I *am*", you **cannot** use *ja* — you must use **doch**.
+Note the bottom-right cell: to answer a **negative** question with "yes I *am*", *ja* is **not**
+possible — use **doch**.
 
 > „Hast du **keinen** Hunger?" — **Doch**, ich habe Hunger! — "Aren't you hungry?" — Yes I am, I'm hungry!
 
@@ -45,10 +45,10 @@ So the trap is the bottom-right cell: when someone asks a **negative** question 
 
 ## Satzzeichen (punctuation)
 
-An interjection is grammatically detached, so it's always **cut off** from the rest by punctuation —
+An interjection is grammatically detached and is always **separated** from the rest by punctuation —
 either a comma (mild) or an exclamation mark (strong):
 
 > **Ach,** so ist das. — Oh, so that's how it is. *(comma — quiet)*
 > **Aua!** Das tut weh. — Ouch! That hurts. *(exclamation — loud)*
 
-It never takes an ending and never agrees with anything — *aua* is *aua* whoever is in pain.
+It never takes an ending and never agrees with anything: *aua* stays *aua* regardless of who is in pain.

@@ -7,9 +7,8 @@ tags:
 
 # Gefühlslaute (emotion sounds)
 
-*The raw noises you make at a feeling — surprise, pain, disgust, relief — plus the everyday
-conversation fillers. They sit **outside** the sentence (set off by a comma or an exclamation mark)
-and never change form.*
+*Sounds expressing a feeling — surprise, pain, disgust, relief — plus common conversation fillers.
+They sit **outside** the sentence (set off by a comma or an exclamation mark) and never change form.*
 
 | German | English | Note |
 |---|---|---|

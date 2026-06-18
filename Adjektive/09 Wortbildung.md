@@ -5,25 +5,21 @@ tags:
   - grammatik
 ---
 
-# Wortbildung — building adjectives instead of memorizing them
+# Wortbildung — building adjectives from known bases
 
-This is the highest-leverage page in the folder. Most adjectives aren't atoms to memorize — they're
-**built from a noun or verb you already know, plus a standard ending.** Learn the handful of endings
-and two things happen:
-
-1. You can **decode** an adjective you've never seen.
-2. You can **guess** the right word when you don't know it.
+Most adjectives are **built from a noun or verb plus a standard ending**, not memorized as units.
+Learning the endings lets you **decode** an unfamiliar adjective and **guess** a needed one.
 
 > *Arbeit* (work) + **los** (-less) → **arbeitslos** = jobless
 > *machen* (to do) + **bar** (-able) → **machbar** = doable
 
-You didn't memorize either word. You computed it.
+Both words are derived from their parts, not learned separately.
 
 ---
 
-## The three near-perfect "free wins"
+## Three high-reliability suffixes
 
-These three map onto English almost 1:1 — reliable enough to trust on sight:
+These three map onto English almost 1:1 and are reliable on sight:
 
 | German | English | recipe | example |
 |---|---|---|---|
@@ -31,15 +27,15 @@ These three map onto English almost 1:1 — reliable enough to trust on sight:
 | **-los** | -less | noun + los = "without X" | Hoffnung → **hoffnungslos** (hopeless), Sinn → **sinnlos** (senseless), Kosten → **kostenlos** (free) |
 | **un-** | un- / not | un- + adjective = flip it | möglich → **unmöglich**, bekannt → **unbekannt**, freundlich → **unfreundlich** |
 
-*un-* is a prefix, so it stacks on anything — including the others: *un-* + *bezahl-bar* →
-**unbezahlbar** (priceless). That's three known pieces → one new word.
+*un-* is a prefix, so it stacks on anything, including the other suffixes: *un-* + *bezahl-bar* →
+**unbezahlbar** (priceless).
 
 ---
 
-## The full suffix toolkit
+## Full suffix list
 
-Each turns a noun or verb into an adjective. Meanings are reliable enough to **decode** with; pair the
-ending with its base and the word usually gives itself away.
+Each turns a noun or verb into an adjective. The meanings are reliable enough to **decode** with:
+combine the ending with its base to recover the word's sense.
 
 | suffix | rough meaning | from | example |
 |---|---|---|---|
@@ -56,30 +52,28 @@ ending with its base and the word usually gives itself away.
 
 ## Two useful contrasts
 
-**-los vs -frei** — both mean "without," but opposite *attitude*:
+**-los vs -frei** — both mean "without," but differ in connotation:
 
-> **arbeitslos** = jobless *(bad — you lack work)* · **alkoholfrei** = alcohol-free *(good — happily without)*
+> **arbeitslos** = jobless *(negative — lacking work)* · **alkoholfrei** = alcohol-free *(positive — without it by choice)*
 
-Rule of thumb: **-los** = missing something you'd want; **-frei** = rid of something you don't.
+**-los** = missing something wanted; **-frei** = rid of something unwanted.
 
-**-voll vs -los** — the same noun, flipped:
+**-voll vs -los** — same noun, opposite meanings:
 
 > **sinnvoll** = meaningful · **sinnlos** = pointless · **wertvoll** = valuable · **wertlos** = worthless
 
-One noun (*Sinn*, *Wert*), two endings, two opposite adjectives. Cheap vocabulary.
+One noun (*Sinn*, *Wert*) plus two endings yields two opposite adjectives.
 
 ---
 
-## The honest limits
+## Limits
 
-- **Decoding is reliable; inventing is riskier.** The meanings above hold when you *read* a word. But
-  you can't freely bolt any ending onto any base and assume it exists — native usage decided which
-  combinations are real. Use this mostly to **understand** and to make **educated guesses**, then
-  confirm.
-- **Watch for the umlaut.** *-ig* and *-lich* sometimes umlaut the stem: *Tag → täglich*, *Saft →
-  saftig*. No surprise once you expect it.
+- **Decoding is reliable; inventing is not.** The meanings above hold when you *read* a word, but not
+  every ending combines with every base — usage decides which combinations exist. Use this to
+  **understand** and to make **educated guesses**, then confirm.
+- **Umlaut.** *-ig* and *-lich* sometimes umlaut the stem: *Tag → täglich*, *Saft → saftig*.
 - **The result is a normal adjective.** It takes endings ([[01 Warum Endungen]]), compares
-  ([[05 Steigerung]]), and can be negated with *un-*. Nothing special downstream.
+  ([[05 Steigerung]]), and can be negated with *un-*.
 
-(One more builder — the city **-er** form like *Berliner* — lives in [[10 Undeklinierbare Adjektive]],
-because it behaves differently: it never takes an ending.)
+The city **-er** form like *Berliner* is in [[10 Undeklinierbare Adjektive]], because it never takes
+an ending.

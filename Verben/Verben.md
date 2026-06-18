@@ -25,127 +25,124 @@ tags:
 
 %% End Waypoint %%
 
-# Verben (verbs) — start here
+# Verben (verbs)
 
 A verb is the **engine** of the sentence — the action or state: *machen* (do), *gehen* (go), *sein*
-(be). Verbs are where German makes you do the most **computing** *and* the most **memorizing**, so
-this folder keeps the two apart: the patterns you run once (endings, tense recipes, the bracket) vs.
-the per-verb facts you just have to store (which vowel a strong verb takes, which helper verb it
-uses).
+(be). The verb system
+splits into two kinds of knowledge: rules you apply (endings, tense formulas, the bracket) and
+per-verb facts you store (which vowel a strong verb takes, which auxiliary it uses). This folder
+keeps the two apart.
 
-The signature of a **finite** (conjugated) verb:
+A **finite** (conjugated) verb form is determined by four inputs:
 
 > **verb form = f(stem, person/number, tense, mood)**
 
-Everything below is one of those inputs. Here's the climb, foundational-first.
+The notes below are ordered foundational-first.
 
 ---
 
-## The shape in one breath
+## Overview
 
-- Every verb is **stem + -en**: *machen* → stem **mach-**. All endings glue onto the stem.
-- **Present tense** is a tiny closed ending-table — learn it once and you can conjugate almost any
-  verb.
-- Three verbs — **sein, haben, werden** — are irregular *and* double as the **auxiliaries** (helper
-  verbs) that build the other tenses. Tiny set, maximum leverage.
-- The **modal verbs** (*können, müssen…*) are a closed set of six that shove the main verb to the
+- Every verb is **stem + -en**: *machen* → stem **mach-**. All endings attach to the stem.
+- **Present tense** uses one closed ending-table that conjugates almost any verb.
+- Three verbs — **sein, haben, werden** — are irregular and also serve as the **auxiliaries**
+  (helper verbs) that build the other tenses.
+- The **modal verbs** (*können, müssen…*) are a closed set of six that send the main verb to the
   end of the clause — the **bracket** from [[02 Word Order]].
-- The past splits the whole verb world in two: **weak** verbs are predictable (compute), **strong**
-  verbs change their stem vowel and must be memorized (hardcode). That single split powers both past
-  tenses.
+- The past divides verbs into two classes: **weak** verbs are predictable (rule-based), **strong**
+  verbs change their stem vowel and must be memorized. This split governs both past tenses.
 
 ---
 
-## The pieces, in learning order
+## Core topics, in learning order
 
-### 1. The stem and the present tense
+### 1. Stem and present tense
 
-Strip *-en* off the infinitive to get the **stem**, then add the personal endings
-(**-e / -st / -t / -en / -t / -en**). This one table gets you talking on day one. A handful of verbs
-also flip their stem vowel in *du*/*er* (*fahren → du fährst*) — flagged as you meet them.
+Remove *-en* from the infinitive to get the **stem**, then add the personal endings
+(**-e / -st / -t / -en / -t / -en**). A few verbs also change their stem vowel in *du*/*er*
+(*fahren → du fährst*), flagged individually.
 → [[01 Präsens]]
 
-### 2. sein, haben, werden — the three pillars
+### 2. sein, haben, werden
 
-Wildly irregular, the three most common verbs in the language, and the **auxiliaries** that build
-everything else: *haben/sein* → the perfect tense, *werden* → future and passive. Grind these three
-first.
+The three most common verbs, highly irregular, and the **auxiliaries** for the rest of the system:
+*haben/sein* → perfect tense, *werden* → future and passive. Learn these first.
 → [[02 Sein haben werden]]
 
 ### 3. Modalverben — wanting, having to, being able to
 
 Six verbs (*können, müssen, wollen, sollen, dürfen, mögen*) that express attitude toward an action.
-They sit in slot 2 and send the **main verb, as a bare infinitive, to the very end** — your first
-real use of the sentence bracket.
+They occupy slot 2 and send the **main verb, as a bare infinitive, to the end** of the clause — the
+first use of the sentence bracket.
 → [[03 Modalverben]]
 
 ### 4. Weak vs. strong — the compute/memorize split
 
-The hinge of the whole folder. **Weak** verbs build their past forms by a fixed rule (add a *-t-*);
-**strong** verbs change their vowel (*singen → sang → gesungen*) and you memorize them like
-irregular English verbs (*sing → sang → sung*). Everything in 5 and 6 depends on knowing which
-camp a verb is in.
+The central distinction in this folder. **Weak** verbs form their past by a fixed rule (add *-t-*);
+**strong** verbs change their stem vowel (*singen → sang → gesungen*) and are memorized like
+irregular English verbs (*sing → sang → sung*). Topics 5 and 6 depend on knowing which class a verb
+belongs to.
 → [[04 Schwache und starke Verben]]
 
-### 5. Perfekt — the everyday past (spoken)
+### 5. Perfekt — spoken past
 
-How Germans actually talk about the past: **haben/sein (present) + the past participle** at the end.
+The standard spoken past: **haben/sein (present) + past participle** at the end.
 *Ich habe gegessen* (I ate / I have eaten).
 → [[05 Perfekt]]
 
-### 6. Präteritum — the written/narrative past
+### 6. Präteritum — written/narrative past
 
-The simple past used in writing and storytelling — *ich ging* (I went). In **speech**, though,
-only *sein, haben* and the modals use it (*war, hatte, konnte*); everything else goes Perfekt.
+The simple past, used in writing and narration — *ich ging* (I went). In **speech**, only
+*sein, haben* and the modals use it (*war, hatte, konnte*); other verbs use the Perfekt.
 → [[06 Präteritum]]
 
-### 7. Futur — talking about the future
+### 7. Futur — future tense
 
-**werden (present) + infinitive** at the end. Often optional — present tense plus a time word
-(*morgen*) usually does the job already.
+**werden (present) + infinitive** at the end. Often optional: present tense plus a time word
+(*morgen*) usually suffices.
 → [[07 Futur]]
 
-### 8. Trennbare Verben — verbs that split apart
+### 8. Trennbare Verben — separable verbs
 
-Separable-prefix verbs break in half: the prefix flies to the **end** of the clause —
+Separable-prefix verbs split: the prefix moves to the **end** of the clause —
 *aufstehen → ich stehe **auf*** (I get up). A closed set of prefixes, plus the inseparable ones
 (*be-, ver-, ent-…*) that never split.
 → [[08 Trennbare Verben]]
 
-### 9. Imperativ — giving commands
+### 9. Imperativ — commands
 
-Drop the subject and lead with the verb: *Komm!* (Come!), *Kommen Sie!* (Come! — formal).
+Drop the subject and place the verb first: *Komm!* (Come!), *Kommen Sie!* (Come! — formal).
 → [[09 Imperativ]]
 
-### 10. Reflexive Verben — verbs that point back at the subject
+### 10. Reflexive Verben — verbs with a reflexive pronoun
 
-Some verbs need a pronoun that loops back to the doer: *sich freuen → ich freue **mich*** (I'm
-glad). The pronoun forms live with [[Pronomen]]; this note is which verbs need them and why.
+Some verbs require a pronoun referring back to the subject: *sich freuen → ich freue **mich*** (I'm
+glad). The pronoun forms are in [[Pronomen]]; this note covers which verbs need them and why.
 → [[10 Reflexive Verben]]
 
 ---
 
-## The advanced layer (B1–B2)
+## Advanced topics (B1–B2)
 
-Once the core above is solid, these finish the verb system — the rest of the **tense, mood, and voice**
-dials.
+Once the core is solid, these complete the verb system — the remaining **tense, mood, and voice**
+distinctions.
 
-### 11. Verben und Kasus — which case the object takes
+### 11. Verben und Kasus — case of the object
 
-Most verbs take Akkusativ, but a closed set demands **Dativ** (*helfen, danken, gefallen*) and some take
-**both** (geben dem Kind den Ball). Foundational — you can read this early.
+Most verbs take Akkusativ, but a closed set requires **Dativ** (*helfen, danken, gefallen*) and some take
+**both** (geben dem Kind den Ball). Foundational; can be read early.
 → [[11 Verben und Kasus]]
 
-### 12. Plusquamperfekt — the "had done" past
+### 12. Plusquamperfekt — past perfect
 
-Perfekt with the helper in the past: **hatte/war + Partizip II**. Marks the earlier of two past events;
-the *nachdem* tense.
+Perfekt with the auxiliary in the past: **hatte/war + Partizip II**. Marks the earlier of two past
+events; the *nachdem* tense.
 → [[12 Plusquamperfekt]]
 
-### 13. Passiv — the action, not the doer
+### 13. Passiv — passive voice
 
-**werden + Partizip II** (*Das Haus wird gebaut*), the *sein*-state passive, and naming the doer with
-*von/durch*. Also resolves the three jobs of *werden*.
+**werden + Partizip II** (*Das Haus wird gebaut*), the *sein*-state passive, and naming the agent with
+*von/durch*. Also covers the three functions of *werden*.
 → [[13 Passiv]]
 
 ### 14. Konjunktiv II — would / could / if
@@ -156,15 +153,15 @@ wishes, and unreal conditionals (*Wenn ich Zeit hätte…*). The highest-value B
 
 ### 15. Konjunktiv I — reported speech
 
-The *„he said it, not me"* mood (*er sei, er habe*) for indirect speech. Mostly a **reading** skill —
+The reported-speech mood (*er sei, er habe*) for indirect speech. Primarily a **reading** skill —
 news and formal writing.
 → [[15 Konjunktiv I]]
 
 ---
 
-## The per-verb data — Wörter
+## Per-verb data — Wörter
 
 The verb equivalent of the noun triple is its **principal parts**: infinitive → (stem-change, if
-any) → Präteritum → past participle, plus which auxiliary it takes.
-*gehen — geht — ging — ist gegangen.* Learn those four and the verb runs in every tense.
+any) → Präteritum → past participle, plus the auxiliary it takes.
+*gehen — geht — ging — ist gegangen.* These four forms generate the verb in every tense.
 → [[Verben 001-100]]

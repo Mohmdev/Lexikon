@@ -5,23 +5,23 @@ tags:
   - grammatik
 ---
 
-# Reflexive Verben — verbs that point back at the subject
+# Reflexive Verben — verbs referring back to the subject
 
-Some verbs need a pronoun that loops back to the **same person who's doing the action** — a
-**reflexive pronoun**. English does this with "-self" (*I wash **myself***); German does it far more
+Some verbs take a pronoun referring to the **same person performing the action** — a
+**reflexive pronoun**. English marks this with "-self" (*I wash **myself***); German uses it far more
 often, and frequently where English uses nothing at all.
 
 > Er wäscht **sich**. — He washes (himself).
 > Ich freue **mich**. — I'm glad / I'm looking forward.
 
-The dictionary marks these verbs with **sich** — the catch-all reflexive marker — so you'll see them
+The dictionary marks these verbs with **sich** — the reflexive marker — so they are
 listed as *sich freuen, sich waschen, sich beeilen*.
 
 ---
 
 ## The reflexive pronouns
 
-They're almost identical to the normal object pronouns ([[Pronomen]]) — the **only** new thing is that
+They are almost identical to the normal object pronouns ([[Pronomen]]). The one difference:
 **every third person (and the formal Sie) becomes *sich***:
 
 | subject | reflexive | subject | reflexive |
@@ -36,9 +36,9 @@ They're almost identical to the normal object pronouns ([[Pronomen]]) — the **
 
 ---
 
-## Why these are a *memorize* item
+## Reflexivity is a per-verb fact
 
-The trap is that German verbs are reflexive where English ones aren't. You can't predict it — it's a
+German verbs are reflexive where English ones are not. This is not predictable; it is a
 **per-verb fact**, stored with the verb in [[Verben 001-100]]:
 
 | German (reflexive) | English (not reflexive) |
@@ -62,6 +62,6 @@ and only *mich/dich* change shape (→ *mir/dir*); the rest stay the same:
 > Ich wasche **mich**. — I wash (myself). *(reflexive = the object → accusative)*
 > Ich wasche **mir** die Hände. — I wash my hands. *(die Hände is the object, so "to myself" → dative)*
 
-This is the same accusative/dative logic as everywhere else ([[01 Kasus]]) — the reflexive pronoun
-just plugs into it. Common dative-reflexive cases: doing something to a **body part** or putting on
+This is the same accusative/dative logic as everywhere else ([[01 Kasus]]), applied to the reflexive
+pronoun. Common dative-reflexive cases: doing something to a **body part** or putting on
 **clothes** (*Ich ziehe mir die Jacke an* — I put my jacket on).

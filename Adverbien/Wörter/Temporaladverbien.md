@@ -6,7 +6,7 @@ tags:
 
 # Temporaladverbien (time adverbs)
 
-*⏰ Answer **wann?** (when).*
+*Answer **wann?** (when).*
 
 | Deutsch                          | Anmerkung                                  | Englisch                              |
 | -------------------------------- | ------------------------------------------ | ------------------------------------- |

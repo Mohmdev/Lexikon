@@ -5,21 +5,20 @@ tags:
   - grammatik
 ---
 
-# Pronominaladverbien — fusing "preposition + it"
+# Pronominaladverbien — preposition + "it" fused
 
-## The everyday situation
+## Function
 
-In English, to talk about a thing you already mentioned, you say **preposition + "it"**:
+English uses **preposition + "it"** to refer back to a thing already mentioned:
 
 > I cut **with it**. · I'm waiting **for it**. · We talked **about it**.
 
-Two words: a preposition + "it." German handles this differently — **for things, it fuses them into
-one word.**
+German fuses these two words into one for things.
 
-## The recipe: da- + preposition
+## Formation: da- + preposition
 
-- the glue piece **da-** means roughly **"it / that"**
-- stick the preposition on the **end**: **da** + **mit** → **damit** = "with it"
+- **da-** means **"it / that"**
+- the preposition attaches to the **end**: **da** + **mit** → **damit** = "with it"
 
 | English | German (fused) |
 |---|---|
@@ -33,11 +32,11 @@ one word.**
 > Das Messer ist scharf. Ich schneide **damit**. — The knife is sharp. I cut **with it**.
 > Das Problem ist groß. Wir sprechen **darüber**. — The problem is big. We talk **about it**.
 
-⚠️ Note the order flips vs English: English = *with + it*; German = *it(da) + with(mit)* → **damit**.
+⚠️ The order is reversed vs. English: English = *with + it*; German = *it(da) + with(mit)* → **damit**.
 
-## The question version: swap da- ("it") → wo- ("what")
+## Question form: da- → wo-
 
-Same trick, different glue piece. **wo-** means **"what"**, turning it into a question:
+Replace **da-** with **wo-**, meaning **"what"**, to form a question:
 
 | statement (da- = it) | question (wo- = what) |
 |---|---|
@@ -48,10 +47,10 @@ Same trick, different glue piece. **wo-** means **"what"**, turning it into a qu
 > **Womit** schneidest du? — With what are you cutting?
 > **Worüber** sprecht ihr? — What are you talking about?
 
-## The little -r- (pronunciation bumper)
+## Inserted -r- before vowels
 
-When the preposition starts with a **vowel** (auf, an, in, über, um), jam an **-r-** in the middle so
-two vowels don't crash:
+When the preposition starts with a **vowel** (auf, an, in, über, um), insert an **-r-** between the
+parts to separate the two vowels:
 
 | preposition | da- form | wo- form |
 |---|---|---|
@@ -60,11 +59,11 @@ two vowels don't crash:
 | über | da**r**über | wo**r**über |
 | um | da**r**um | wo**r**um |
 
-That's all the -r- is — a sound bumper, no meaning.
+The -r- has no meaning; it serves only to separate the vowels.
 
-## The ONE rule for when to use it: things, not people
+## Things, not people
 
-This fusion is **only for things and ideas.** For **people**, you keep the normal two-word form
+This fusion applies **only to things and ideas.** For **people**, keep the two-word form
 (preposition + him/her/them):
 
 | | a thing | a person |
@@ -73,18 +72,18 @@ This fusion is **only for things and ideas.** For **people**, you keep the norma
 | about | **darüber** (about it) | **über sie** (about her) |
 | for | **dafür** (for it) | **für ihn** (for him) |
 
-Deciding question: **thing → fuse it (damit); person → don't (mit ihm).**
+Test: **thing → fuse (damit); person → two words (mit ihm).**
 
-## Where you'll lean on this most
+## Use with fixed-preposition verbs and adjectives
 
-Tons of verbs and adjectives demand a fixed preposition (*warten **auf**, denken **an**, stolz
-**auf*** — see [[08 Adjektive mit Präposition]]). To ask or refer back about the *thing* involved, you
-reach for exactly these forms:
+Many verbs and adjectives take a fixed preposition (*warten **auf**, denken **an**, stolz
+**auf*** — see [[08 Adjektive mit Präposition]]). Use these forms to ask or refer back to the *thing*
+involved:
 
 > Ich warte **auf den Bus**. → **Worauf** wartest du? — Ich warte **darauf**.
 > *(I'm waiting for the bus. → What are you waiting for? — I'm waiting for it.)*
 
-## Recap (the whole thing in four lines)
+## Summary
 
 - **da-** + preposition = "preposition + **it**" (damit = with it)
 - **wo-** + preposition = "preposition + **what**" (womit = with what?)

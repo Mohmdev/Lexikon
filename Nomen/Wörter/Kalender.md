@@ -6,13 +6,11 @@ tags:
 
 # Kalender — days, months, seasons
 
-These are time **nouns**, and they're the friendliest vocabulary in German: a small **closed set**
-(7 + 12 + 4) you can grind once and own forever, wrapped in a grammar bundle that's *more regular than
-almost anything else in the language*. Learn the words below, then the three rules that govern all of
-them.
+These are time **nouns**: a small **closed set** (7 + 12 + 4) with highly regular grammar. Learn the
+words below, then the three rules that govern all of them.
 
-*(Time **adverbs** — heute, morgen, gestern, oft — are a separate group and live in
-[[Temporaladverbien]].)*
+Time **adverbs** — heute, morgen, gestern, oft — are a separate group; see
+[[Temporaladverbien]].
 
 ---
 
@@ -56,19 +54,18 @@ them.
 
 ---
 
-## What's special about time words — three rules
+## Three rules for time words
 
-### 1. They're all masculine — *der*
+### 1. All masculine — *der*
 
-Every day, every month, every season is **der**. No exceptions to memorize per word — see a day,
-month, or season, and the article is *der*. (It's the strongest of the gender meaning-groups in
-[[01 Genus]].)
+Every day, every month, and every season is **der**, with no per-word exceptions. (This is the
+strongest of the gender meaning-groups in [[01 Genus]].)
 
 > der Montag · der Januar · der Sommer
 
 ### 2. "on / in" a time → *am* / *im*
 
-This falls straight out of the preposition rules ([[Präpositionen]]): *an* and *in* take **Dativ** for
+This follows from the preposition rules ([[Präpositionen]]): *an* and *in* take **Dativ** for
 time, and masculine *dem* fuses into **am** (an dem) and **im** (in dem).
 
 - **am** + a **day** (and parts of day): *am Montag, am Wochenende, am Morgen, am Abend*
@@ -76,27 +73,25 @@ time, and masculine *dem* fuses into **am** (an dem) and **im** (in dem).
 - **im** + a **month** or **season**: *im Januar, im Sommer*
   > Ich habe **im Mai** Geburtstag. — My birthday is in May.
 
-Quick test (answer *Wann?*): a **day** → *am*, a **month/season** → *im*.
+Test (*Wann?*): a **day** → *am*, a **month/season** → *im*.
 
 > ⚠️ One break: "at night" is **in der Nacht**, not *im* — because *die Nacht* is feminine, so it's
 > *in der*, not *in dem*.
 
-### 3. lowercase + *-s* → an adverb meaning "on ~s / every ~"
+### 3. lowercase + *-s* → adverb meaning "on ~s / every ~"
 
-Take a day, make it **lowercase**, add **-s**, and the noun becomes a time adverb:
+Make a day **lowercase** and add **-s** to form a time adverb:
 
 | noun (capital) | adverb (lowercase + -s) | meaning |
 |---|---|---|
 | der Montag | montags | on Mondays |
 | der Sonntag | sonntags | on Sundays |
 
-The same trick works on parts of the day — *morgens* (in the mornings), *abends* (in the evenings),
-*nachts* (at night). This is really a time adverb built from a noun, so it also lives with
-[[Temporaladverbien]].
+The same applies to parts of the day — *morgens* (in the mornings), *abends* (in the evenings),
+*nachts* (at night). These are time adverbs built from nouns; see also [[Temporaladverbien]].
 
 > Ich arbeite **sonntags** nicht. — I don't work on Sundays.
 
 ---
 
-The whole bundle in one line: **der + am/im + lowercase-s.** Three rules, no exceptions worth
-worrying about (besides *die Nacht*).
+Summary: **der + am/im + lowercase-s.** The only exception is *die Nacht*.

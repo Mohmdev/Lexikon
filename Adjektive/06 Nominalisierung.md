@@ -5,22 +5,21 @@ tags:
   - grammatik
 ---
 
-# Nominalisierung — turning an adjective into a noun
+# Nominalisierung — adjective used as a noun
 
-German lets you take an adjective and **use it directly as a noun** — no new word needed. English
-usually has to add a word ("the **old one**", "something **good**"); German just capitalizes the
-adjective and keeps its normal ending.
+German uses an adjective **directly as a noun**, with no new word. English adds a word ("the **old
+one**", "something **good**"); German capitalizes the adjective and keeps its normal ending.
 
 > **der Deutsche** — the German (man) · **etwas Gutes** — something good · **das Beste** — the best
 
-The ending still follows the same three tables you already learned (weak / mixed / strong) — because
-there's still an article, or there isn't.
+The ending follows the same three tables (weak / mixed / strong), depending on whether an article is
+present.
 
 ---
 
-## The everyday patterns
+## Common patterns
 
-**A person, from an adjective** — capitalize, ending follows the article:
+**A person, from an adjective** — capitalize; ending follows the article:
 
 | | with der/die | with ein |
 |---|---|---|
@@ -37,16 +36,15 @@ there's still an article, or there isn't.
 > **nichts Neues** — nothing new
 > **viel Schönes** — much that's beautiful
 
-(Exception worth noting: after **alles** it's -e → *alles Gut**e*** "all the best.")
+(Exception: after **alles** the ending is -e → *alles Gut**e*** "all the best.")
 
-**Superlatives as nouns** — extremely common:
+**Superlatives as nouns**:
 
 > **das Beste** — the best · **das Wichtigste** — the most important thing · **mein Bestes** — my best
 
 ---
 
-## Why it's worth knowing early
+## Notes
 
-It's cheap — no new vocabulary, just adjectives you already have, run through the ending rules you
-already learned. And you'll hear it constantly (*das Gute, die Kleine, etwas Warmes*). One trick,
-big reach.
+This adds no new vocabulary: it reuses known adjectives with the standard ending rules. It is
+high-frequency in speech (*das Gute, die Kleine, etwas Warmes*).

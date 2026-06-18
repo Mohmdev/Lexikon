@@ -5,15 +5,14 @@ tags:
   - grammatik
 ---
 
-# Die wichtigsten Modalpartikeln — the catalog
+# Die wichtigsten Modalpartikeln — catalog
 
-The high-frequency flavor words, each with its **attitude**, its **home sentence type**, and an example.
-Read the rules first ([[02 Modalpartikeln]]); this is the reference you come back to. Remember: the
-middle column is the **feel**, not a translation.
+The high-frequency particles, each with its **attitude**, its **home sentence type**, and an example.
+For the rules, see [[02 Modalpartikeln]]. The middle column states the **feel**, not a translation.
 
 ---
 
-## The top tier — learn these first
+## Top tier — learn first
 
 ### ja — "as you know" / mild surprise *(statements)*
 Signals the info is **obvious or shared**, or marks surprise:
@@ -28,13 +27,13 @@ Pushes back against an expectation, or warms up a command:
 > Das hab ich dir **doch** gesagt! — But I *did* tell you! *(contradicting)*
 
 ### mal — "just" / softener *(requests & commands)*
-Makes an order casual and low-pressure — the single most useful particle for not sounding bossy:
+Makes a command casual and low-pressure:
 
 > Kannst du mir **mal** helfen? — Could you just help me a sec?
 > Warte **mal**! — Hang on a moment!
 
 ### denn — warmth in a question *(questions only)*
-Turns a bald question into a friendly/curious one. Without it, questions can sound like interrogation:
+Turns a bald question into a friendly or curious one; without it, a question can sound like interrogation:
 
 > Was machst du **denn**? — So what are you up to? *(curious, warm)*
 > Wo ist er **denn**? — Where *is* he, then?
@@ -47,7 +46,7 @@ Resignation, accepting an unchangeable fact. *halt* is more southern/casual, *eb
 
 ---
 
-## The second tier — add these next
+## Second tier — add next
 
 ### schon — reassurance / "it'll be fine" *(statements)*
 > Das wird **schon**. — It'll work out. · Er kommt **schon** noch. — He'll come, don't worry.
@@ -98,8 +97,8 @@ Signals the speaker **fears/expects a yes** and hopes for no:
 
 ---
 
-## The shape in one line
+## Summary
 
-A dozen high-value words, each = **one attitude in one sentence type**. Master *ja, doch, mal, denn,
-halt, wohl* first — they cover most everyday tone. Then watch out for their **other jobs** →
+A dozen high-value particles, each = **one attitude in one sentence type**. Learn *ja, doch, mal, denn,
+halt, wohl* first; they cover most everyday tone. For their **other functions**, see
 [[05 Ein Wort, viele Rollen]].

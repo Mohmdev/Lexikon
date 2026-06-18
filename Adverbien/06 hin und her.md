@@ -7,8 +7,7 @@ tags:
 
 # hin und her — direction relative to you
 
-German is fussy about *which way* movement points — and it tracks it against **you, the speaker**. Two
-tiny words carry the whole system:
+German marks the direction of movement relative to **the speaker**. Two words carry the system:
 
 | word | direction | mnemonic |
 |---|---|---|
@@ -18,14 +17,13 @@ tiny words carry the whole system:
 > Komm **her**! — Come here! *(toward me)*
 > Geh **hin**! — Go there! *(away from me)*
 
-Lock the mnemonic: **her = here = toward me.** Everything else follows.
+Mnemonic: **her = here = toward me.**
 
 ---
 
-## The question words you already half-know
+## Directional question words
 
-English has one word "where"; German splits it by direction — and it's just *wo* with *hin* or *her*
-bolted on:
+English has one word "where"; German splits it by direction, combining *wo* with *hin* or *her*:
 
 | German | meaning | direction |
 |---|---|---|
@@ -37,20 +35,19 @@ bolted on:
 > **Wohin** gehst du? — Where are you going (to)?
 > **Woher** kommst du? — Where do you come from?
 
-**Cool trick:** Germans love to *split* these and drop hin/her at the end of the sentence — same
-meaning, more casual:
+These often split, with hin/her moving to the end of the sentence — same meaning, more colloquial:
 
 > **Wohin** gehst du? = **Wo** gehst du **hin**?
 > **Woher** kommst du? = **Wo** kommst du **her**?
 
-Both are correct. You'll hear the split version constantly.
+Both are correct; the split version is common in speech.
 
 ---
 
 ## Building directional adverbs: hin/her + preposition
 
-Glue **her-** or **hin-** onto a direction word and you get "in/out/up/down/across" *with a built-in
-toward-me / away-from-me*:
+Prefix **her-** or **hin-** onto a direction word to get "in/out/up/down/across" with a built-in
+toward-me / away-from-me distinction:
 
 | | **her-** (toward me) | **hin-** (away from me) |
 |---|---|---|
@@ -63,14 +60,14 @@ toward-me / away-from-me*:
 > Komm **herein**! — Come in! *(toward me — I'm inside)*
 > Er geht **hinaus**. — He goes out. *(away from me)*
 
-The prefix tells you the camera angle: **her-** = the movement comes to where I am; **hin-** = it heads
-off somewhere else.
+The prefix marks perspective: **her-** = movement toward the speaker; **hin-** = movement away from the
+speaker.
 
 ---
 
-## How people actually say it: rein, raus, rauf, runter
+## Spoken contractions: rein, raus, rauf, runter
 
-In everyday speech Germans **crush hin/her down to r-** and stop worrying about the direction:
+In everyday speech, hin/her reduce to **r-**, dropping the direction distinction:
 
 | full forms | spoken contraction | meaning |
 |---|---|---|
@@ -82,7 +79,7 @@ In everyday speech Germans **crush hin/her down to r-** and stop worrying about 
 
 > Komm **rein**! — Come in! · Geh **raus**! — Get out! · Komm **rüber**! — Come over!
 
-So in casual German you'll mostly just say **rein / raus / rauf / runter** and let context handle the
+In casual German, **rein / raus / rauf / runter** are the default forms; context supplies the
 direction.
 
 ---
@@ -97,8 +94,8 @@ hin/her attach to motion verbs as separable prefixes — *hingehen* (go there), 
 
 ---
 
-## The honest take
+## Summary
 
-The hin/her logic is real and makes you sound precise — and it's essential for *reading* and the
-question words (*wohin/woher*). But natives are loose with it in casual speech, leaning on
-*rein/raus/rauf/runter*. So: **learn the logic, use the contractions, don't agonize.**
+The hin/her distinction is essential for reading and for the question words (*wohin/woher*). In casual
+speech, natives often use the reduced forms *rein/raus/rauf/runter* instead. Learn the logic; use the
+contractions in conversation.

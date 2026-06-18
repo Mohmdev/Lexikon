@@ -5,33 +5,32 @@ tags:
   - grammatik
 ---
 
-# Wortbildung — building nouns (and getting gender for free)
+# Wortbildung — building nouns and their gender
 
-This is the highest-leverage page in the folder. Most nouns aren't atoms to memorize — they're **built
-from a verb or adjective you already know, plus a standard suffix.** Learn the handful of suffixes and
-you get **three things at once**:
+Most nouns are **built from a verb or adjective plus a standard suffix.** Knowing the suffixes gives
+three things:
 
-1. **10× vocabulary** — know a verb → know its noun: *wohnen → die Wohnung.*
-2. **Gender for free** — every building suffix *also* fixes der/die/das (*-ung* is **always** *die*).
-   So this page and [[01 Genus]] are two views of the same suffixes.
-3. **Decoding** — meet *die Möglichkeit*, recognize *möglich + -keit* = "the quality of being possible."
+1. **Vocabulary** — a known verb yields its noun: *wohnen → die Wohnung.*
+2. **Gender** — every building suffix also fixes der/die/das (*-ung* is **always** *die*).
+   This page and [[01 Genus]] are two views of the same suffixes.
+3. **Decoding** — *die Möglichkeit* parses as *möglich + -keit* = "the quality of being possible."
 
-The headline insight: **a suffix builds the noun AND stamps its gender in one move.**
+A suffix sets both the noun and its gender.
 
 ---
 
 ## Verb → noun
 
-### The free one: infinitive as a neuter noun
+### Infinitive as a neuter noun
 
-Take *any* verb's infinitive, capitalize it, put **das** in front — you get "the act of X." Always
+Capitalize any verb's infinitive and put **das** in front — this gives "the act of X," always
 **neuter**, no exceptions:
 
 > essen → **das Essen** (eating / food) · schwimmen → **das Schwimmen** (swimming) ·
 > leben → **das Leben** (life) · rauchen → **das Rauchen** (smoking)
 
-This is also how German says the English "-ing" *as a thing*: *Swimming is healthy* → **Das Schwimmen**
-ist gesund. (Costs you nothing — every verb you know is already a neuter noun.)
+This also renders the English "-ing" *as a thing*: *Swimming is healthy* → **Das Schwimmen**
+ist gesund. Every verb is already a neuter noun.
 
 ### -ung → die (the action/result)
 
@@ -66,16 +65,16 @@ move, in [[06 Nominalisierung]].)*
 
 ---
 
-## Diminutives: -chen / -lein → das (small & cute)
+## Diminutives: -chen / -lein → das (small)
 
-Add **-chen** (or the more poetic **-lein**), umlaut the vowel, and you get a "little/cute" version —
+Add **-chen** (or the more literary **-lein**) and umlaut the vowel for a "little" version —
 **always neuter**, plural **-∅**:
 
 > der Hund → das **Hündchen** (little dog) · die Katze → das **Kätzchen** (kitten) ·
 > die Stadt → das **Städtchen** · der Bruder → das **Brüderchen**
 
-⚠️ The diminutive **overrides natural gender** — that's the famous *das Mädchen* (girl), literally
-"little maid." If a noun ends in *-chen*, it's neuter, full stop.
+The diminutive **overrides natural gender** — hence *das Mädchen* (girl), literally
+"little maid." A noun ending in *-chen* is neuter.
 
 ---
 
@@ -90,7 +89,7 @@ Always **die**. This is how most job/role/relationship words make their feminine
 
 ---
 
-## The suffix → gender cheat sheet
+## Suffix → gender table
 
 Because every suffix carries a gender, this doubles as a gender table (full version in [[01 Genus]]):
 
@@ -106,12 +105,12 @@ Because every suffix carries a gender, this doubles as a gender table (full vers
 
 ---
 
-## The honest limits
+## Limits
 
-- **Decoding is reliable; inventing is riskier.** The gender + meaning hold when you *read* a word, but
-  you can't bolt any suffix onto any base and assume the result exists — usage decided which are real.
+- **Decoding is reliable; inventing is riskier.** Gender and meaning hold when you *read* a word, but
+  not every suffix attaches to every base — usage determines which forms exist.
   Use this to **understand** and to make **educated guesses**, then confirm.
 - **Not every verb→noun uses -ung.** Some nominalize differently (*gehen → der Gang*, *fahren → die
-  Fahrt*). When the formula doesn't obviously apply, fall back to storing the triple ([[02 Plural]]).
-- **The result is a normal noun.** It still takes a plural and a case ([[04 Deklination]]) — but its
-  gender is already solved by the suffix, which is the whole win.
+  Fahrt*). When the formula doesn't apply, store the triple ([[02 Plural]]).
+- **The result is a normal noun.** It still takes a plural and a case ([[04 Deklination]]); its
+  gender is already fixed by the suffix.

@@ -5,14 +5,14 @@ tags:
   - grammatik
 ---
 
-# Fokuspartikeln — the spotlight words
+# Fokuspartikeln — focus particles
 
-A different job from the flavor particles: a **focus particle** shines a spotlight on **one element** of
-the sentence — "**even** Peter", "**only** on Sundays", "Peter **too**". It doesn't color the whole
-sentence's tone (that's [[02 Modalpartikeln]]); it **scopes one part** and changes the meaning.
+A **focus particle** scopes **one element** of the sentence — "**even** Peter", "**only** on Sundays",
+"Peter **too**". Unlike a [[02 Modalpartikeln]], it does not color the whole sentence's
+tone; it **scopes one part** and changes the meaning.
 
-> The rule that makes them work: a focus particle attaches to the word it spotlights — usually sitting
-> **right in front of it** — and **moving the particle changes the meaning.**
+> A focus particle attaches to the word it scopes — usually **directly in front of it** — and **moving
+> the particle changes the meaning.**
 
 ---
 
@@ -35,20 +35,20 @@ sentence's tone (that's [[02 Modalpartikeln]]); it **scopes one part** and chang
 
 ## Position carries the meaning
 
-Because the particle scopes the word **after** it, sliding it across the sentence re-aims the spotlight.
-Same words, different claim:
+The particle scopes the word **after** it, so moving it across the sentence re-targets the focus. Same
+words, different claim:
 
 > **Nur** ich habe ihm geholfen. — *Only I* helped him *(nobody else helped)*.
 > Ich habe **nur ihm** geholfen. — I helped *only him* *(and no one else)*.
 > Ich habe ihm **nur geholfen**. — I *only helped* him *(didn't do more than help)*.
 
-This is the whole skill: **put the particle directly before the thing you mean to highlight.**
+Place the particle directly before the element you mean to focus.
 
 ---
 
-## The pair that traps everyone: nur vs. erst
+## nur vs. erst
 
-Both translate as "only", but they measure differently — *erst* implies **"and more is coming / it's
+Both translate as "only", but they measure differently: *erst* implies **"and more is coming / it's
 earlier than expected"**, *nur* implies **"and that's all there is."**
 
 | | nur (only — that's all) | erst (only — so far / not until) |
@@ -62,16 +62,15 @@ Test: if "only… **so far**, with more expected" fits → **erst**; if it's a f
 
 ## auch vs. sogar
 
-Both add an element to a set; **sogar** adds the extra punch of *"surprisingly, even this one"*:
+Both add an element to a set; **sogar** adds the sense of *"surprisingly, even this one"*:
 
 > Peter war **auch** da. — Peter was there too. *(neutral addition)*
 > **Sogar** Peter war da. — Even Peter was there. *(and you'd not have expected him)*
 
 ---
 
-## The shape in one line
+## Summary
 
-Focus particles **spotlight one element** — *auch* (too), *sogar/selbst* (even), *nur* (only-that's-all),
-*erst* (only-so-far). **Position = meaning:** place the particle right before the word you're
-highlighting. Don't confuse the **nur/erst** "only". → the disambiguation capstone: [[05 Ein Wort, viele
-Rollen]]
+Focus particles **scope one element** — *auch* (too), *sogar/selbst* (even), *nur* (only-that's-all),
+*erst* (only-so-far). **Position = meaning:** place the particle directly before the word you focus.
+Keep the **nur/erst** "only" distinction. See [[05 Ein Wort, viele Rollen]]

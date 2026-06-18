@@ -13,23 +13,22 @@ tags:
 
 # Fragewörter — asking questions
 
-Two things make a German question: a **structure** (where the verb sits) and, for open questions, a
-**W-word**. Both are small, closed, and rule-based — learn them once and you can ask anything.
+A German question requires a **structure** (the verb's position) and, for open questions, a
+**W-word**. Both sets are small, closed, and rule-based.
 
 > **The frame:** yes/no question → **verb first** (*Kommst du?*). Open question → **W-word first, verb
-> second** (*Wann kommst du?*). German signals "question" by fronting the verb.
+> second** (*Wann kommst du?*). German signals a question by fronting the verb.
 
-Almost every question word starts with **W** (German's *wh-*), and the set is tiny. Only two of them do
-anything fancy: **wer** declines for case, and **welcher / was für ein** behave like determiners.
+Almost every question word starts with **W** (German's *wh-*), and the set is small. Two are irregular:
+**wer** declines for case, and **welcher / was für ein** behave like determiners.
 
 ---
 
-## The climb
+## Topics
 
 ### 1. W-Fragen und Ja-Nein-Fragen — the two question structures
 The verb-position rules for both question types, the absence of any German "do", how a **preposition
-rides up front** with the question word, and **doch** for answering a negative. The frame for
-everything else.
+fronts** with the question word, and **doch** for answering a negative. The base frame.
 → [[01 W-Fragen und Ja-Nein-Fragen]]
 
 ### 2. Die Fragewörter — the W-word inventory
@@ -38,8 +37,8 @@ The closed set: **wer, was, wann, wie, warum**, the **wo/wohin/woher** trio (spl
 → [[02 Die Fragewörter]]
 
 ### 3. wer wen wem wessen — the question word that declines
-**wer** is the one W-word with cases — **wer/wen/wem/wessen**, echoing **der/den/dem/dessen**. Case set
-by the verb or preposition; its thing-twin **was** hands prepositions to the *wo(r)-* forms.
+**wer** is the only W-word with cases — **wer/wen/wem/wessen**, paralleling **der/den/dem/dessen**. Case
+set by the verb or preposition; its thing-counterpart **was** uses the *wo(r)-* forms after prepositions.
 → [[03 wer wen wem wessen]]
 
 ### 4. welcher und was für ein — "which" vs "what kind of"
@@ -58,7 +57,7 @@ type (only *ein* declines; *für* is not a case-setter here).
 
 ---
 
-## The one-line takeaway
+## Summary
 
-**Verb-first for yes/no, W-word-first for open questions.** The W-set is tiny and closed; the only
-moving parts are **wer** (declines) and **welcher / was für ein** (determiners).
+**Verb-first for yes/no, W-word-first for open questions.** The W-set is small and closed; the only
+irregular members are **wer** (declines) and **welcher / was für ein** (determiners).

@@ -7,13 +7,12 @@ tags:
 
 # Zahlwörter im Alltag — number-words in everyday use
 
-Beyond counting and ranking, German spins numbers into a small family of **derived words** — "twice",
-"threefold", "in pairs", "the eighties". Each is a tidy suffix on a number you already know. Collect
-them and your speech instantly sounds more native.
+Beyond counting and ranking, German derives a family of **derived words** from cardinals — "twice",
+"threefold", "in pairs", "the eighties". Each is a suffix on a known number.
 
 ---
 
-## How many times → -mal
+## Number of times — -mal
 
 Add **-mal** to a cardinal for "× times". One word, no spaces:
 
@@ -25,7 +24,7 @@ Related: **das erste Mal** (the first time — with an **ordinal**, here *Mal* i
 
 ---
 
-## How many fold → -fach
+## Multiples — -fach
 
 **-fach** = "-fold / times as much":
 
@@ -36,9 +35,9 @@ Related: **das erste Mal** (the first time — with an **ordinal**, here *Mal* i
 
 ---
 
-## In a group of → zu + collective
+## Groups — zu + collective form
 
-For "(all) together in a group of N", use **zu** + a special form:
+For "(all) together in a group of N", use **zu** + a collective form:
 
 > **zu zweit** (the two of us / in twos) · **zu dritt** (in threes) · **zu viert** (in fours)
 > Wir waren **zu viert**. — There were four of us.
@@ -48,7 +47,7 @@ drittens…*.)*
 
 ---
 
-## Of N kinds → -erlei
+## Kinds — -erlei
 
 **-erlei** = "of N different sorts" (invariable):
 
@@ -56,7 +55,7 @@ drittens…*.)*
 
 ---
 
-## Decades and eras → -er
+## Decades and eras — -er
 
 For "the eighties" etc., add **-er** to the ten (invariable):
 
@@ -66,9 +65,9 @@ For "the eighties" etc., add **-er** to the ten (invariable):
 
 ---
 
-## Rough quantities (not exact)
+## Rough quantities
 
-Handy "fuzzy number" words for when you don't count precisely:
+Words for approximate quantities:
 
 | German | meaning |
 |---|---|
@@ -83,8 +82,8 @@ Handy "fuzzy number" words for when you don't count precisely:
 
 ---
 
-## The shape in one line
+## Summary
 
-Number + suffix gives you the everyday family: **-mal** (times), **-fach** (-fold), **zu + -t** (in a
-group), **-erlei** (kinds), **-er** (decades) — plus the fuzzy words (*ein paar, etwa, knapp*). All
-built on the cardinals from [[01 Kardinalzahlen]].
+Number + suffix forms the everyday family: **-mal** (times), **-fach** (-fold), **zu + -t** (in a
+group), **-erlei** (kinds), **-er** (decades) — plus the approximate words (*ein paar, etwa, knapp*).
+All built on the cardinals from [[01 Kardinalzahlen]].

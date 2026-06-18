@@ -7,8 +7,8 @@ tags:
 
 # Adverbtypen — sorting adverbs by the question they answer
 
-Every adverb answers **one question** about the action. Sort by the question and you've filed it — and
-(bonus) the file *also tells you where the word sits in a sentence*. Five types:
+Every adverb answers **one question** about the action. The question determines the type, and for four
+of the five types the type also determines the word's position in the sentence. Five types:
 
 | | Type | Question | Core words | Word list |
 |---|---|---|---|---|
@@ -20,43 +20,41 @@ Every adverb answers **one question** about the action. Sort by the question and
 
 ---
 
-## The four "slot" types
+## The four slot types
 
-⏰ Temporal, 🔗 Kausal, ⚙️ Modal, 📍 Lokal each describe the **action**, so each takes a real
-**position** in the sentence. And here's the efficient part: their order is fixed —
-**Te → Ka → Mo → Lo** — so the *type label is literally the word's slot number*. File a word by type
-and you already know where it goes. (Full rule: [[04 TeKaMoLo]].)
+⏰ Temporal, 🔗 Kausal, ⚙️ Modal, 📍 Lokal each describe the **action**, so each takes a
+**position** in the sentence. Their order is fixed — **Te → Ka → Mo → Lo** — so the type label also
+gives the word's slot. (Full rule: [[04 TeKaMoLo]].)
 
 > Ich fahre **heute** ⏰ **mit dem Bus** ⚙️ **nach Hause** 📍.
 > — Today I'm going home by bus.
 
-## The odd one out: 🔆 Grad (degree)
+## 🔆 Grad (degree)
 
-Degree adverbs don't describe the action — they **cling to another word** (an adjective or another
-adverb) and crank its intensity up or down:
+Degree adverbs don't describe the action — they **modify another word** (an adjective or another
+adverb), raising or lowering its intensity:
 
-> Es ist **sehr** kalt. — It's **very** cold. *(sehr pumps up "kalt", not the verb)*
+> Es ist **sehr** kalt. — It's **very** cold. *(sehr modifies "kalt", not the verb)*
 > Sie fährt **ziemlich** schnell. — She drives **quite** fast. *(ziemlich modifies "schnell")*
 
-Because it glues to a word rather than taking a sentence slot, Grad sits **outside** TeKaMoLo entirely.
+Because it attaches to a word rather than taking a sentence slot, Grad sits **outside** TeKaMoLo.
 
 ---
 
-## One word can carry a second job (a "behavior flag")
+## Type vs. behavior
 
-Type is about **meaning**. Some adverbs *also* have a structural **behavior** stacked on top — and
-that behavior is what earns them their own pages:
+Type is about **meaning**. Some adverbs also have a structural **behavior** on top, and that behavior
+is what earns them their own pages:
 
 - 🧩 **fused da-/wo- words** (damit, worauf) → these point at a *thing*. See [[07 Pronominaladverbien]].
-- ⛓️ **clause-connectors that flip word order** (deshalb, trotzdem, dann) → see
+- ⛓️ **clause-connectors that change word order** (deshalb, trotzdem, dann) → see
   [[08 Konjunktionaladverbien]].
 
 Example: **deshalb** is 🔗 Kausal by *meaning* (it answers *warum?*) **and** ⛓️ a connector by
-*behavior* (it flips the verb in front of the subject). Two separate facts about one word — that's why
-it needs a type *and* a flag.
+*behavior* (it puts the verb in front of the subject). These are two separate facts about one word, so
+it needs both a type and a behavior flag.
 
 ---
 
-The takeaway: **every adverb gets a type** (one of the five), and the four action-types double as your
-word-order map. The vocab itself lives in the five `Wörter` lists linked above — that's your memory's
-playground.
+**Every adverb gets a type** (one of the five), and the four action-types also map word order. The
+vocab itself lives in the five `Wörter` lists linked above.

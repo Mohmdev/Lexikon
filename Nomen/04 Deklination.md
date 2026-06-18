@@ -7,18 +7,18 @@ tags:
 
 # Deklination — cases on the noun itself
 
-Here's the relief: when a noun changes case ([[01 Kasus]]), the work is mostly done by the **article**
-(*der → den → dem → des*, see [[01 Bestimmte]]), **not** the noun. The noun usually just sits there
+When a noun changes case ([[01 Kasus]]), the case is mostly marked by the **article**
+(*der → den → dem → des*, see [[01 Bestimmte]]), **not** the noun. The noun itself usually stays
 unchanged.
 
-But there are **three spots** where the noun *itself* takes an ending. That's the whole list — learn
-these and you've covered the noun side of cases.
+There are **three positions** where the noun itself takes an ending. These three cover the noun side
+of cases.
 
 ---
 
 ## 1. Genitiv singular: masculine & neuter add -(e)s
 
-In the genitive (the "owner" case), masculine and neuter nouns tack on **-s** or **-es**:
+In the genitive (the possessive case), masculine and neuter nouns add **-s** or **-es**:
 
 > das Auto **des Mannes** — the man's car · der Motor **des Autos** — the car's engine
 > das Dach **des Hauses** — the roof of the house
@@ -43,14 +43,14 @@ Already covered (no extra -n):
 > die Frauen → mit den Frauen *(plural already ends in -n)*
 > die Autos → in den Autos *(plural ends in -s)*
 
-This is the one place a plural noun visibly changes for case, so it's easy to forget — watch for it.
+This is the only place a plural noun visibly changes for case.
 
 ---
 
 ## 3. N-declension (weak masculine nouns)
 
 A specific group of **masculine** nouns adds **-(e)n** in **every case except the nominative
-singular** — not just the genitive. They're often called "weak nouns":
+singular** — not just the genitive. These are called **weak nouns**:
 
 | case | normal noun (der Tisch) | n-noun (der Junge) |
 | ---- | ----------------------- | ------------------ |
@@ -62,6 +62,6 @@ singular** — not just the genitive. They're often called "weak nouns":
 > Ich kenne **den Studenten**. — I know the student. *(not "den Student")*
 > Ich helfe **dem Jungen**. — I'm helping the boy.
 
-Who's in this club? Mostly **masculine nouns for people/animals**, especially those ending in **-e**:
-der Junge, der Kollege, der Kunde, der Name, der Mensch, der Herr, der Student, der Nachbar. When you
-learn one, store the *-(e)n* as part of its fingerprint in [[Nomen 001-100]].
+Members of this group: mostly **masculine nouns for people and animals**, especially those ending
+in **-e**: der Junge, der Kollege, der Kunde, der Name, der Mensch, der Herr, der Student, der
+Nachbar. Store the *-(e)n* as part of each noun's entry in [[Nomen 001-100]].

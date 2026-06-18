@@ -4,17 +4,17 @@ tags:
 level: A1
 ---
 
-# Negation — saying "not" and "no"
+# Negation — "not" and "no"
 
-German negates with **two main tools**, and picking the right one is the whole game:
+German negates with two words:
 
-- **kein** — negates a **noun** (one that would otherwise take *ein* or no article)
+- **kein** — negates a **noun** that would otherwise take *ein* or no article
 - **nicht** — negates **everything else** (verbs, adjectives, adverbs, or a noun with a definite
   article / possessive)
 
 ---
 
-## kein vs. nicht — the fork
+## kein vs. nicht
 
 > Ich habe **kein** Auto. — I have no car. *(noun with ein → kein)*
 > Ich habe **keine** Zeit. — I have no time. *(noun, no article → kein)*
@@ -26,9 +26,9 @@ German negates with **two main tools**, and picking the right one is the whole g
 
 ---
 
-## Where nicht goes
+## Position of nicht
 
-This trips up English speakers, because *nicht* usually sits **late**, not right after the verb.
+Unlike English, *nicht* usually sits **late** in the clause, not right after the verb.
 
 - **Whole sentence / the verb → nicht at the end:**
   > Ich kenne ihn **nicht**. — I don't know him.
@@ -42,10 +42,9 @@ This trips up English speakers, because *nicht* usually sits **late**, not right
 
 ---
 
-## The negation words (and their positive twins)
+## Inherently negative words
 
-Beyond *nicht/kein*, a tidy set of words is inherently negative. Each has a positive counterpart it
-"cancels":
+Beyond *nicht/kein*, a set of words is inherently negative. Each has a positive counterpart:
 
 | positive | negative | |
 |---|---|---|
@@ -58,9 +57,9 @@ Beyond *nicht/kein*, a tidy set of words is inherently negative. Each has a posi
 
 ---
 
-## Two quick notes
+## Notes
 
 - **No double negatives.** Standard German uses *one* negative per idea — *Ich habe **nichts**
   gesehen* = "I saw nothing" (not "I didn't see nothing"). Stacking them is non-standard.
-- **doch** beats *nein* when contradicting a negative question — *"Kommst du nicht?" — "**Doch**!"*
+- **doch**, not *nein*, contradicts a negative question — *"Kommst du nicht?" — "**Doch**!"*
   (Yes I am!). Full matrix in [[Interjektionen]].

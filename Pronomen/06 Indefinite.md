@@ -8,22 +8,21 @@ tags:
 # Indefinitpronomen (indefinite pronouns)
 
 These stand in for **unspecified** people, things, or amounts — *someone, nothing, everyone, some*.
-You don't need the whole catalogue; a handful are extremely common and the rest you'll pick up by
-exposure.
+A handful are high-frequency; the rest are less common.
 
 ---
 
-## man — the generic "you / one / they / people"
+## man — generic "you / one / they / people"
 
-The single most useful word here, and English has no clean equivalent. **man** is a generic subject:
-"people in general." It conjugates like **er** (3rd person singular):
+**man** is a generic subject meaning "people in general"; English has no single equivalent. It
+conjugates like **er** (3rd person singular):
 
 > **Man** sagt, … — They say, … / People say, …
 > Hier **darf man** nicht rauchen. — You're not allowed to smoke here. *(no specific "you")*
 > Wie schreibt **man** das? — How do you spell that?
 
-Don't confuse it with *der Mann* (the man) — *man* is lowercase and has one **n**. It's nominative
-only; if you need it as an object it borrows from *ein*: Akkusativ **einen**, Dativ **einem**.
+Not to be confused with *der Mann* (the man): *man* is lowercase and has one **n**. It is nominative
+only; as an object it borrows from *ein*: Akkusativ **einen**, Dativ **einem**.
 
 ---
 
@@ -33,7 +32,7 @@ only; if you need it as an object it borrows from *ein*: Akkusativ **einen**, Da
 > **Niemand** ist da. — No one is here.
 
 Both are singular and usually used bare; in careful German they can take endings (jemand**en**,
-jemand**em**), but the plain form is fine to start.
+jemand**em**), but the plain form is standard.
 
 ---
 
@@ -48,7 +47,7 @@ jemand**em**), but the plain form is fine to start.
 
 ---
 
-## the quantity words — alles, alle, viele, einige…
+## Quantity words — alles, alle, viele, einige…
 
 These cover "all / many / some / few." *alles* = everything (one mass); *alle* = everyone / all (the
 countable plural):

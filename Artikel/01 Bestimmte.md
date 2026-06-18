@@ -7,11 +7,11 @@ tags:
 
 # Bestimmter Artikel (definite article)
 
-*"the" — one little word that bends to gender and case.*
+*"the" — inflected for gender and case.*
 
-English has it easy: **the** is *the*, always. German's "the" changes shape for two reasons — the
-noun's **gender / number** (der / die / das / die) and its **case**, the job it's doing
-([[01 Kasus]]). It's the same instinct as English **he / him / his**, just applied to the word "the."
+English **the** is invariant. The German definite article changes form for two reasons: the noun's
+**gender / number** (der / die / das / die) and its **case** ([[01 Kasus]]). This parallels English
+**he / him / his**, applied to the word "the."
 
 So **Artikel = f(gender, case)**:
 
@@ -29,26 +29,26 @@ So **Artikel = f(gender, case)**:
 > Ich gebe **dem** Mann das Buch. — I give the man the book. *(Dativ — the receiver)*
 > das Auto **des** Mannes — the man's car *(Genitiv — the owner)*
 
-## It's mostly recycling — 16 cells, ~6 words
+## 16 cells, ~6 distinct words
 
-The table looks like 16 things to learn; it's really about six, because the cells repeat:
+The table has 16 cells but only about six distinct forms, because cells repeat:
 
-- **Only masculine flips between Nom and Akk** (der → den). Feminine, neuter, plural are **identical**
-  in Nominativ and Akkusativ — so Akkusativ is almost free.
+- **Only masculine differs between Nom and Akk** (der → den). Feminine, neuter, and plural are
+  **identical** in Nominativ and Akkusativ.
 - **Masculine and neuter are identical** in Dativ (dem) and Genitiv (des).
 - **Feminine and plural look the same** everywhere except Dativ (der vs den).
 - **Dativ plural** also tacks an **-n** onto the noun: *den Kinder**n*** ([[04 Deklination]]).
 
-## This grid is reused — the "der-words"
+## The der-words reuse this grid
 
-The endings here aren't just for *der/die/das*. A whole group of determiners copies them exactly —
-the **der-words**: **dieser** (this), **jeder** (every), **welcher** (which), **mancher** (some),
+These endings apply beyond *der/die/das*. A group of determiners takes them exactly — the
+**der-words**: **dieser** (this), **jeder** (every), **welcher** (which), **mancher** (some),
 **aller** (all). Same endings, different stem:
 
 > **dieser** Mann (this man) · **diesen** Mann (Akk) · **diesem** Mann (Dat) — *dies-* + the der-grid
 > **welche** Frau? (which woman?) · in **jedem** Haus (in every house)
 
-Learn this table once and you've got all of them ([[05 Demonstrative]], [[06 Indefinite]]).
+One table covers all of them ([[05 Demonstrative]], [[06 Indefinite]]).
 
 ---
 

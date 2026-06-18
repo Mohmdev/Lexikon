@@ -13,44 +13,43 @@ tags:
 
 %% End Waypoint %%
 
-# Zahlen — numbers, the most computable system in German
+# Zahlen — numbers
 
-Numbers are where German is at its **most generative**. You don't memorize a list — you memorize a tiny
-set of roots and a few assembly rules, and they **generate every number there is**. Nail the machine
-once and this whole folder is yours.
+German numbers are rule-based: a small set of **roots** plus a few **build rules** generate every
+number. Memorize the roots and rules rather than a list of outputs.
 
-> **number = roots + build rules** — learn the machine, not the output.
+> **number = roots + build rules**
 
-The one thing that genuinely needs drilling is the **backwards build**: 21–99 say the **unit first**
-(*einundzwanzig* = "one-and-twenty"), and it's written as one word. Everything else falls out of that
-plus the irregular core 0–12.
+The main point requiring drill is the **backwards build**: 21–99 state the **unit first**
+(*einundzwanzig* = "one-and-twenty"), written as one word. Everything else follows from that and the
+irregular core 0–12.
 
 ---
 
-## The climb
+## Topics
 
-### 1. Kardinalzahlen — the counting numbers
-The generator: the irregular core **0–12**, the **+zehn / +zig** tens, the famous **unit-und-ten**
-reversal, stacking **hundreds and thousands** into one giant word, and **Million+** as nouns (with the
-*Milliarde/Billion* false-friend trap). The foundation everything else builds on.
+### 1. Kardinalzahlen — cardinal numbers
+The irregular core **0–12**, the **+zehn / +zig** tens, the **unit-und-ten** reversal, stacking
+**hundreds and thousands** into one word, and **Million+** as nouns (with the *Milliarde/Billion*
+false-friend trap). The foundation everything else builds on.
 → [[01 Kardinalzahlen]]
 
-### 2. Ordinalzahlen — the ranking numbers
+### 2. Ordinalzahlen — ordinal numbers
 *erste, zweite, dritte…* One suffix rule (**-t** under 20, **-st** from 20), four irregulars, and the
 key fact that **ordinals are adjectives** — they take adjective endings. Written as a **digit + period**.
 → [[02 Ordinalzahlen]]
 
-### 3. Datum — saying the date
+### 3. Datum — the date
 Dates = **ordinal + month**: *der erste Mai* (it is), *am ersten Mai* (on). Day-first order, years in
-hundreds before 2000, and the **no-"in"-before-a-year** trap. (Month names live in [[Kalender]].)
+hundreds before 2000, and the **no-"in"-before-a-year** trap. (Month names are in [[Kalender]].)
 → [[03 Datum]]
 
 ### 4. Uhrzeit — telling the time
-The easy **24-hour** system (just read the digits) plus the colloquial **nach / vor / Viertel / halb** —
-including the notorious **halb drei = 2:30** trap (German *halb* points to the *next* hour).
+The **24-hour** system (read the digits) plus the colloquial **nach / vor / Viertel / halb** —
+including **halb drei = 2:30** (German *halb* points to the *next* hour).
 → [[04 Uhrzeit]]
 
-### 5. Bruchzahlen und Rechnen — fractions, decimals, math
+### 5. Bruchzahlen und Rechnen — fractions, decimals, arithmetic
 Fractions = **ordinal + -el** (*ein Drittel*), the special **halb / die Hälfte**, decimals with a
 **comma** (*drei Komma eins vier*), and the four operations (**plus, minus, mal, durch**).
 → [[05 Bruchzahlen und Rechnen]]
@@ -62,8 +61,8 @@ The derived family: **-mal** (twice), **-fach** (-fold), **zu zweit** (in a grou
 
 ---
 
-## The one-line takeaway
+## Summary
 
 Drill the **irregular core (0–12)** and the **backwards build (unit-und-ten)**; everything from 13 to a
-million is just stacking. Ordinals add one suffix; dates, time, fractions, and the everyday word-family
-are all small rule-based layers on top.
+million is stacking. Ordinals add one suffix; dates, time, fractions, and the everyday word-family are
+rule-based layers on top.

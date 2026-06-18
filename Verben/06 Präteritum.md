@@ -7,23 +7,23 @@ tags:
 
 # Präteritum — the written/narrative past
 
-German has two pasts that mean the same thing — *ich ging* and *ich bin gegangen* both = "I went."
-The difference isn't time, it's **register**:
+German has two pasts with the same meaning — *ich ging* and *ich bin gegangen* both = "I went."
+The difference is not time but **register**:
 
 - **Präteritum** (*ich ging*) — the **written** past. Books, news, reports, narration.
 - **Perfekt** (*ich bin gegangen*) — the **spoken** past, for conversation. → [[05 Perfekt]]
 
 > In a novel: Er **ging** nach Hause und **sah** niemanden. — He went home and saw no one.
 
-So as a beginner you mostly **read** the Präteritum rather than produce it — *except* for a small set
-of verbs (below) where it's what everyone actually says out loud.
+You mostly **read** the Präteritum rather than produce it, except for a small set of verbs (below)
+that are also used in speech.
 
 ---
 
-## Forming it — again it's just weak vs. strong
+## Forming it: weak vs. strong
 
-The personal endings are the same for both camps; the difference is the **stem** they attach to
-([[04 Schwache und starke Verben]]). Note the quirk: in the past, **ich and er/sie/es are identical** and bare.
+The personal endings are the same for both types; the difference is the **stem** they attach to
+([[04 Schwache und starke Verben]]). In the past, **ich and er/sie/es are identical**.
 
 **Weak** — insert **-te-**, then endings:
 
@@ -57,10 +57,10 @@ Other common strong ones: *sehen → sah*, *finden → fand*, *nehmen → nahm*,
 
 ---
 
-## The set you DO say out loud
+## Verbs used in speech
 
-Even in casual speech, these use Präteritum, not Perfekt — saying *ich bin müde gewesen* sounds
-clumsy, so everyone says *ich war müde*. Learn these now; they're high-frequency:
+These use Präteritum, not Perfekt, even in casual speech. *Ich bin müde gewesen* sounds clumsy;
+*ich war müde* is the normal form. They are high-frequency:
 
 | verb | Präteritum | English |
 | ---- | ---------- | ------- |
@@ -81,9 +81,9 @@ The modals all behave like weak verbs here (note they also **drop the umlaut**: 
 
 ---
 
-## The bottom line for a beginner
+## Summary
 
-- **Speaking?** Use Perfekt for normal verbs, but Präteritum for *sein, haben, werden* and the
+- **Speaking:** use Perfekt for normal verbs, but Präteritum for *sein, haben, werden* and the
   **modals**.
-- **Reading a story or article?** Expect Präteritum everywhere — recognize *ging, sah, kam, sagte*
-  as past and you're fine.
+- **Reading a story or article:** expect Präteritum throughout. Recognize *ging, sah, kam, sagte*
+  as past forms.

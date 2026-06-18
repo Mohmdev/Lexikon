@@ -4,9 +4,9 @@ tags:
 level: A1
 ---
 
-# Kasus (cases) — what job a word is doing
+# Kasus (cases) — the grammatical role of a noun phrase
 
-## You already do this in English
+## English parallel
 
 English changes a few words depending on their **job** in the sentence:
 
@@ -14,15 +14,15 @@ English changes a few words depending on their **job** in the sentence:
 - the ball hits **him** — *him* is the target
 - **his** ball — *his* shows owning
 
-Same person, three forms: **he / him / his**. You switch them without thinking. German does this to
-**every** noun phrase — and crucially shows it mostly on the **article** (der / den / dem / des), not
-on the noun itself. So *the man* stays "Mann," while "the" morphs to mark the job.
+Same person, three forms: **he / him / his**. German marks this distinction on **every** noun
+phrase, mostly on the **article** (der / den / dem / des), not on the noun itself. *The man* stays
+"Mann," while "the" changes to mark the job.
 
-A **case** = the form a phrase takes for the **job it's doing**. German has four.
+A **case** is the form a phrase takes for the **job it does** in the sentence. German has four.
 
 ---
 
-## The four cases (four jobs)
+## The four cases
 
 | Case          | The job                                          | English clue |
 | ------------- | ------------------------------------------------ | ------------ |
@@ -31,7 +31,7 @@ A **case** = the form a phrase takes for the **job it's doing**. German has four
 | **Dativ**     | the **indirect object** — to/for whom            | to him       |
 | **Genitiv**   | the **owner** — whose                            | his          |
 
-All four in one breath:
+All four in one example:
 
 > **Der** Mann *(Nom)* gibt **dem** Kind *(Dat)* **den** Ball *(Akk)*.
 > — The man gives the child the ball.
@@ -40,15 +40,13 @@ All four in one breath:
 *der Mann* does it (Nom) · *dem Kind* receives (Dat) · *den Ball* is handed over (Akk) · *des Mannes*
 owns (Gen). The article carries all four signals; *Mann/Kind/Ball* barely change.
 
-The exact article form for each case is the [[01 Bestimmte]] grid — learn it alongside this note; the two
-are useless apart.
+The exact article form for each case is the [[01 Bestimmte]] grid. Learn it alongside this note.
 
 ---
 
-## What *decides* the case? Three things
+## What assigns the case — three sources
 
-A noun doesn't pick its own case — something assigns it. Three sources, in order of how often they
-come up:
+A noun does not pick its own case; something assigns it. Three sources, in order of frequency:
 
 **1. The verb's structure** — who does what to whom.
 
@@ -63,8 +61,8 @@ Akkusativ*). This overrides the rule above. → [[Präpositionen]]
 
 > Ich fahre **mit dem Bus**. — *mit* forces Dativ, regardless of any other logic.
 
-**3. A handful of verbs that just demand Dativ** — no logic, pure memorization. Their object looks
-like a direct object in English but is **Dativ** in German:
+**3. Verbs that require Dativ** — no rule, memorize per verb. Their object looks like a direct
+object in English but is **Dativ** in German:
 
 > **helfen** (help), **danken** (thank), **gefallen** (please/like), **gehören** (belong to),
 > **antworten** (answer), **folgen** (follow)
@@ -72,7 +70,7 @@ like a direct object in English but is **Dativ** in German:
 
 ---
 
-## How to find the case — just ask
+## Identifying the case
 
 - Who/what is **doing** it? → **Nominativ**
 - Who/what is it being done **to** (directly)? → **Akkusativ**
@@ -81,14 +79,14 @@ like a direct object in English but is **Dativ** in German:
 
 ---
 
-## Why cases run the whole language
+## Why cases matter
 
-The case is the **type tag** on a phrase — it announces the job, so the meaning rides on the tag, not
-on word order. That's why German can shuffle the sentence and stay clear:
+The case marks the role of a phrase, so meaning depends on the case marking, not on word order.
+German can therefore reorder a sentence without ambiguity:
 
 > **Den Ball** gibt **der Mann** **dem Kind**. — Still "the man gives the child the ball," because
-> *den* (Akk) and *der* (Nom) lock the roles no matter the order.
+> *den* (Akk) and *der* (Nom) fix the roles regardless of order.
 
-And because the tag shows up everywhere, **articles, adjective endings, pronouns, and prepositions
-all bend to the case.** Lock cases down and a huge slice of German clicks at once — including the
-adjective endings in [[02 Schwache Deklination]].
+Because the case is marked throughout the phrase, **articles, adjective endings, pronouns, and
+prepositions all change with the case.** This includes the adjective endings in
+[[02 Schwache Deklination]].

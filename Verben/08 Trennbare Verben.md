@@ -7,21 +7,21 @@ tags:
 
 # Trennbare Verben — separable-prefix verbs
 
-German loves bolting a little word onto the front of a verb to tweak its meaning — just like English
-*stand → understand*, *get → get **up***. The German twist: some of those prefixes **detach** and fly
-to the end of the sentence when you conjugate the verb.
+A prefix added to the front of a verb modifies its meaning, as in English *stand → understand*,
+*get → get **up***. Some German prefixes **detach** and move to the end of the sentence when the verb
+is conjugated.
 
 > **auf**stehen (to get up) → Ich **stehe** früh **auf**. — I get up early.
 
-The verb literally splits: the stem (*stehe*) takes its normal second slot, the prefix (*auf*) lands
-at the end. That's the **bracket** again ([[02 Word Order]]) — the two halves wrap the sentence.
+The verb splits: the stem (*stehe*) takes its normal second slot, the prefix (*auf*) lands at the end.
+This forms the sentence **bracket** ([[02 Word Order]]) — the two halves wrap the sentence.
 
 ---
 
 ## Two kinds of prefix
 
-**Separable** prefixes split off. They're mostly **prepositions and adverbs you already know**, so
-the meaning is usually transparent (auf = up, mit = along, zurück = back):
+**Separable** prefixes split off. They are mostly **prepositions and adverbs**, so the meaning is
+usually transparent (auf = up, mit = along, zurück = back):
 
 | prefix | verb | meaning |
 | ------ | ---- | ------- |
@@ -42,18 +42,18 @@ Others in the set: *ab-, vor-, nach-, zu-, weg-, los-, her-, hin-…*
 
 ---
 
-## The stress test — which kind is it?
+## Stress test for prefix type
 
-Say the infinitive out loud. The stress tells you:
+The stress of the spoken infinitive identifies the type:
 
 - Stress on the **prefix** → **separable**: **ÁUF**stehen, **ÉIN**kaufen, **ÁN**rufen
 - Stress on the **stem** → **inseparable**: ver**STÉH**en, be**ZÁHL**en, er**KLÄ́R**en
 
 ---
 
-## How they behave across the verb forms
+## Behavior across verb forms
 
-**Present / simple past** — prefix flies to the end:
+**Present / simple past** — prefix moves to the end:
 
 > Ich **rufe** dich morgen **an**. — I'll call you tomorrow.
 
@@ -66,12 +66,7 @@ Say the infinitive out loud. The stress tells you:
   verstehen → **verstanden**, bezahlen → **bezahlt**
   > Ich **habe** das nicht **verstanden**. — I didn't understand that.
 
-**zu-infinitive** — *zu* wedges **inside** a separable verb, but sits in front of an inseparable one:
+**zu-infinitive** — *zu* goes **inside** a separable verb, but in front of an inseparable one:
 
 > separable: Es ist Zeit, **aufzustehen**. — It's time to get up.
 > inseparable: Ich versuche, das **zu verstehen**. — I'm trying to understand that.
-
----
-
-The payoff: once you spot the prefix, you can often guess the meaning *and* you know exactly where the
-pieces go. A separable verb is just two familiar words operating the sentence bracket.

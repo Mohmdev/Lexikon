@@ -7,9 +7,9 @@ tags:
 
 # Uhrzeit — telling the time
 
-Two systems run in parallel: a **formal/official** one (timetables, announcements) that's dead easy,
-and a **colloquial** one (everyday speech) with one famous trap. Learn both — you'll *say* the
-colloquial one and *hear* the formal one everywhere.
+Two systems run in parallel: a **formal/official** one (timetables, announcements) and a
+**colloquial** one (everyday speech). You produce the colloquial one and hear the formal one in
+public contexts; learn both.
 
 ---
 
@@ -22,22 +22,21 @@ colloquial one and *hear* the formal one everywhere.
 
 ---
 
-## The formal system (24-hour) — just read the digits
+## Formal system (24-hour) — read the digits
 
-Hour + **Uhr** + minutes. Nothing reverses, nothing is tricky:
+Hour + **Uhr** + minutes. No reordering:
 
 > 14:30 → **vierzehn Uhr dreißig**
 > 9:05 → **neun Uhr fünf**
 > 20:45 → **zwanzig Uhr fünfundvierzig**
 
-This is what you hear at stations and on the news. To produce it you only need cardinals + the word
-*Uhr*. Done.
+Used at stations and on the news. Requires only cardinals plus the word *Uhr*.
 
 ---
 
-## The colloquial system (12-hour) — nach, vor, Viertel, halb
+## Colloquial system (12-hour) — nach, vor, Viertel, halb
 
-Everyday speech hangs minutes off the nearest hour with **nach** (past) and **vor** (to):
+Everyday speech states minutes relative to the nearest hour with **nach** (past) and **vor** (to):
 
 | clock | German | literal |
 |---|---|---|
@@ -47,39 +46,38 @@ Everyday speech hangs minutes off the nearest hour with **nach** (past) and **vo
 | 3:45 | **Viertel vor vier** | quarter to four |
 | 3:55 | **fünf vor vier** | five to four |
 
-So far it mirrors English. Then comes the one that breaks English brains:
+These mirror English. The half hour does not.
 
 ---
 
-## ⚠️ The big trap: halb = half *to*, not half *past*
+## halb = half *to*, not half *past*
 
-German **halb** points to the **next** hour — it means "halfway *to* it," not "half past the last one":
+German **halb** refers to the **next** hour — "halfway to it," not "half past the previous one":
 
-> **halb drei** = **2:30** *(halfway to three)* — **NOT** 3:30!
+> **halb drei** = **2:30** *(halfway to three)* — **NOT** 3:30
 > **halb acht** = **7:30** · **halb zwölf** = **11:30**
 
-English "half three" = 3:30; German *halb drei* = 2:30. They are **an hour apart**. This is the single
-most expensive time mistake a learner makes — burn it in: **halb X = X minus 30 minutes.**
+English "half three" = 3:30; German *halb drei* = 2:30 — **an hour apart**. Rule:
+**halb X = X minus 30 minutes.**
 
-Around the half hour you may also hear it measured *from* halb:
+Times near the half hour can also be stated relative to *halb*:
 
 > 3:25 = **fünf vor halb vier** *(five before half-to-four)*
 > 3:35 = **fünf nach halb vier** *(five after half-to-four)*
 
-These are optional flair — *fünfundzwanzig nach drei* / *fünf nach halb vier* both work. Stick to
-**nach / vor / Viertel / halb** and you can say any time.
+These forms are optional — *fünfundzwanzig nach drei* / *fünf nach halb vier* both work. The set
+**nach / vor / Viertel / halb** covers any time.
 
 ---
 
-## am Morgen vs. the 24-hour clock
+## Dayparts vs. the 24-hour clock
 
 To disambiguate 3 a.m. vs 3 p.m. in the 12-hour system, add a daypart: *drei Uhr **morgens / nachts /
 nachmittags***. The formal 24-hour system needs none of this — *fünfzehn Uhr* is unambiguously 3 p.m.
 
 ---
 
-## The shape in one line
+## Summary
 
-**Formal** = hour + *Uhr* + minutes (just read it). **Colloquial** = minutes *nach/vor* the hour, with
-*Viertel* and *halb* — and **halb drei = 2:30**, the trap that points to the *next* hour. "At" a time =
-**um**.
+**Formal** = hour + *Uhr* + minutes. **Colloquial** = minutes *nach/vor* the hour, with *Viertel*
+and *halb* — and **halb drei = 2:30** (points to the *next* hour). "At" a time = **um**.

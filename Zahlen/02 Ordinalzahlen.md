@@ -5,17 +5,17 @@ tags:
   - grammatik
 ---
 
-# Ordinalzahlen — the ranking numbers (first, second, third…)
+# Ordinalzahlen — ranking numbers (first, second, third…)
 
-Cardinals **count** (*zwei* = two); ordinals **rank** (*der zweite* = the second). Same generator
-philosophy: one suffix rule turns any cardinal into an ordinal.
+Cardinals **count** (*zwei* = two); ordinals **rank** (*der zweite* = the second). One suffix rule
+turns any cardinal into an ordinal.
 
-> **Key fact: ordinals are adjectives.** They sit in front of a noun and take the **full adjective
-> endings** ([[02 Schwache Deklination]] etc.). So *erste* is really *erst-* + an ending.
+> **Ordinals are adjectives.** They stand before a noun and take the **full adjective endings**
+> ([[02 Schwache Deklination]] etc.). *erste* is *erst-* plus an ending.
 
 ---
 
-## The build rule: -t up to 19, -st from 20
+## Build rule: -t up to 19, -st from 20
 
 | range | suffix | example |
 |---|---|---|
@@ -24,13 +24,13 @@ philosophy: one suffix rule turns any cardinal into an ordinal.
 
 > der **viert**e Tag · die **zwanzigst**e Seite · der **hundertst**e Kunde
 
-Switch-over point to remember: **-t below 20, -st from 20 on.**
+Switch-over point: **-t below 20, -st from 20 on.**
 
 ---
 
-## The four irregulars (memorize)
+## Four irregulars
 
-A handful don't follow the rule cleanly — and they're the most common ones, so learn them cold:
+These do not follow the rule cleanly. They are also the most common ordinals:
 
 | #   | ordinal stem | not…                                                      |
 | --- | ------------ | --------------------------------------------------------- |
@@ -43,33 +43,31 @@ A handful don't follow the rule cleanly — and they're the most common ones, so
 
 ---
 
-## They take adjective endings — because they're adjectives
+## Adjective endings
 
-Whatever case/gender/article the noun needs, the ordinal carries the matching ending:
+The ordinal carries the ending required by the noun's case, gender, and article:
 
 > **der erste** Tag — the first day *(nom.)*
 > **am dritten** Mai — on the third of May *(dative → -en)*
 > **mein zweites** Auto — my second car *(neuter)*
 > **die ersten** Schritte — the first steps *(plural)*
 
-If endings feel shaky, that's the declension machinery from the Adjektive folder — same rules, no new
-ones here.
+These are the standard declension rules from the Adjektive folder; no new rules apply here.
 
 ---
 
-## Writing them: a digit **+ a period**
+## Written form: digit + period
 
-In writing, an ordinal is the digit followed by a **full stop**. The period literally *means* "-te/-ste"
-(like English *1st, 2nd*):
+In writing, an ordinal is the digit followed by a **full stop**. The period stands for the "-te/-ste"
+ending (compare English *1st, 2nd*):
 
 > der **1.** Mai = der **erste** Mai · die **3.** Etage = die **dritte** Etage · zum **2.** Mal = zum **zweiten** Mal
 
-So when you read *"am 3. Oktober"* aloud, you say *am **dritten** Oktober* — the period becomes the
-ending.
+Read aloud, *"am 3. Oktober"* becomes *am **dritten** Oktober*: the period is realized as the ending.
 
 ---
 
-## The shape in one line
+## Summary
 
 **-t under 20, -st from 20**, four irregulars (**erst, dritt, siebt, acht**), and always an **adjective
-ending** on the end. Their biggest everyday job is **dates** → [[03 Datum]].
+ending**. The main everyday use is **dates** → [[03 Datum]].

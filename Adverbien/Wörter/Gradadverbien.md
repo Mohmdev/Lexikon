@@ -6,9 +6,9 @@ tags:
 
 # Gradadverbien (degree adverbs)
 
-*🔆 Answer **wie sehr?** (how much).*
+Answer **wie sehr?** (how much).
 
-These don't take a sentence slot; they **cling to an adjective or adverb** and crank its intensity.
+These do not take a sentence slot; they **modify an adjective or adverb** and set its intensity.
 
 | Deutsch                   | Anmerkung                                                     | Englisch                       |
 | ------------------------- | ------------------------------------------------------------- | ------------------------------ |

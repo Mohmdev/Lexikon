@@ -7,21 +7,20 @@ tags:
 
 # Artikelgebrauch — when to use which article (or none)
 
-[[01 Bestimmte]] and [[02 Unbestimmte]] teach the *shapes* of the articles. This page answers the other
-question: **which one do I actually use — or none at all?** German and English disagree here constantly,
-in *both* directions, so this is pure habit-retraining.
+[[01 Bestimmte]] and [[02 Unbestimmte]] cover the *forms* of the articles. This page covers which one to
+use, or none at all. German and English diverge in both directions; the two problem zones are below.
 
-The quick mental model:
+Core model:
 
 - **der/die/das** (definite) — a **specific, known** one. *the dog* (that one).
 - **ein/eine** (indefinite) — **one, any** of a kind, first mention. *a dog* (some dog).
-- **no article** (Nullartikel) — a **whole category / uncountable stuff / a role.** *dogs*, *water*, *Arzt*.
+- **no article** (Nullartikel) — a **whole category / uncountable mass / a role.** *dogs*, *water*, *Arzt*.
 
-Mostly this matches English. The two trouble zones are below.
+Most cases match English. The two divergent zones follow.
 
 ---
 
-## Trouble zone 1 — German drops the article where English keeps "a"
+## Zone 1 — German drops the article where English keeps "a"
 
 ### Jobs, nationalities, religions after *sein / werden*
 
@@ -34,17 +33,16 @@ English says "a":
 
 (Add an adjective and the article comes back: *Er ist **ein guter** Arzt.*)
 
-### Uncountable & abstract stuff (mass nouns)
+### Uncountable and abstract nouns (mass nouns)
 
-Materials, drinks, feelings taken *in general* take **no article**, where English also uses none — easy
-— but watch the spots English sneaks one in:
+Materials, drinks, and feelings taken *in general* take **no article**, as in English:
 
 > Ich trinke **Kaffee**. — I drink coffee. · Hast du **Geld**? — Do you have money?
 > Wir brauchen **Zeit**. — We need time.
 
-### Bare plurals (the plural of "a")
+### Bare plurals (plural of "a")
 
-*ein* has no plural, so "a car → cars" just **drops the article**:
+*ein* has no plural, so "a car → cars" **drops the article**:
 
 > Ich habe **ein** Auto. → Ich habe **Autos**. — I have cars.
 
@@ -59,18 +57,18 @@ Türkei, **die** USA, **der** Iran. With those: *in **der** Schweiz, in **die** 
 
 ### Fixed phrases
 
-Tons of set expressions run article-free — just learn them as chunks:
+Many set expressions are article-free. Learn them as chunks:
 
 > **zu Hause** (at home) · **nach Hause** (homewards) · **Auto fahren** (to drive) ·
 > **mit Freude** (with joy) · **zu Fuß** (on foot) · **Deutsch lernen**
 
 ---
 
-## Trouble zone 2 — German *adds* "the" where English uses nothing
+## Zone 2 — German adds "the" where English uses nothing
 
 ### General statements (the category as a whole)
 
-To talk about a thing *in general*, English drops the article but German uses **the definite**:
+For a thing taken *in general*, English drops the article but German uses **the definite**:
 
 > **Der** Hund ist treu. — Dogs are loyal. *(dogs in general)*
 > **Die** Liebe ist blind. — Love is blind.
@@ -91,8 +89,8 @@ For your own body, German prefers **the** + a dative "to me," not "my":
 
 ---
 
-## The one-line test
+## Quick test
 
-When unsure, ask: **specific known thing → der/die/das. One-of-many, first mention → ein. A whole
-category, a material, or a job → usually no article.** Then layer the two trouble-zone habits on top —
-those are the ones that actually trip English speakers.
+When unsure: **specific known thing → der/die/das. One-of-many, first mention → ein. A whole
+category, a material, or a job → usually no article.** Then apply the two zones above, which are the
+common errors for English speakers.

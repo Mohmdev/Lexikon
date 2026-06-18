@@ -6,25 +6,25 @@ level: B1
 
 # Infinitive clauses — zu + infinitive
 
-When one verb leans on another verb's action, German often expresses the second as **zu +
-infinitive**, parked at the **end** of the clause. It's the equivalent of English "to do" / "doing":
+When one verb depends on another verb's action, German often expresses the second as **zu +
+infinitive**, placed at the **end** of the clause. It corresponds to English "to do" / "doing":
 
 > Ich versuche, **zu kommen**. — I'm trying to come.
 > Es ist wichtig, Deutsch **zu lernen**. — It's important to learn German.
 > Ich habe keine Zeit, das **zu machen**. — I have no time to do that.
 
-A separable verb swallows the *zu* in the middle: aufstehen → **aufzustehen**.
+A separable verb takes the *zu* between prefix and stem: aufstehen → **aufzustehen**.
 
 > Es ist Zeit, **aufzustehen**. — It's time to get up.
 
-**No zu** after modals (you already know: *ich will kommen*, [[03 Modalverben]]) and a few verbs of
+**No zu** after modals (*ich will kommen*, [[03 Modalverben]]) and a few verbs of
 motion/perception — *gehen, lassen, sehen, hören*:
 
 > Ich gehe **schwimmen**. — I go swimming. *(no zu)*
 
 ---
 
-## The three purpose/manner clauses
+## Purpose and manner connectors
 
 Three connectors build special infinitive clauses. All take a **comma**, and all require the
 **infinitive at the very end**:
@@ -37,7 +37,7 @@ Three connectors build special infinitive clauses. All take a **comma**, and all
 
 ---
 
-## The same-subject rule (important)
+## Same-subject rule
 
 An infinitive clause has **no subject of its own** — it borrows the subject of the main clause. So
 *um…zu* only works when **both halves share the same subject**:

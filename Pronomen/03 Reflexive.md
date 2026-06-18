@@ -7,19 +7,19 @@ tags:
 
 # Reflexivpronomen (reflexive pronouns)
 
-A reflexive pronoun points the action **back at the subject** — the doer and the target are the same
-person. English uses "-self" (*I hurt **myself***); German uses these forms, and far more often than
+A reflexive pronoun refers the action **back to the subject** — the doer and the target are the same
+person. English uses "-self" (*I hurt **myself***); German uses these forms, and more often than
 English does.
 
-This note is the **forms**. For *which verbs* require them (the per-verb fact) and the
+This note covers the **forms**. For *which verbs* require them and the
 accusative-vs-dative split in use, see [[10 Reflexive Verben]].
 
 ---
 
 ## The forms
 
-Good news: they're the **personal object pronouns** ([[01 Personal]]) you already know — with **one**
-change. Every third person *and* the formal *Sie* collapses to a single word: **sich**.
+They are the **personal object pronouns** ([[01 Personal]]) with **one**
+change: every third person *and* the formal *Sie* collapses to a single word, **sich**.
 
 | subject | reflexive (Akkusativ) | (Dativ) |
 | ------- | --------------------- | ------- |
@@ -30,9 +30,8 @@ change. Every third person *and* the formal *Sie* collapses to a single word: **
 | ihr | **euch** | euch |
 | sie / Sie | **sich** | sich |
 
-So the only genuinely new form to learn is **sich** — everything else you already have. Notice that
-*mich/dich* are the only ones with a separate dative shape (*mir/dir*); the rest are identical in both
-cases.
+The only new form is **sich**. Only *mich/dich* have a separate dative shape (*mir/dir*); the rest are
+identical in both cases.
 
 > Ich wasche **mich**. — I wash (myself).
 > Er freut **sich**. — He's glad.

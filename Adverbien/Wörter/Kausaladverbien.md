@@ -6,10 +6,10 @@ tags:
 
 # Kausaladverbien (cause adverbs)
 
-*🔗 Answer **warum?** (why).*
+Answer **warum?** (why).
 
-Most of these also **connect clauses** and push the verb to slot 2 (⛓️ konjunktional). Watch the
-verb in the examples — it jumps right after the adverb.
+Most of these also **connect clauses** and push the verb to slot 2 (konjunktional). In the
+examples the verb stands directly after the adverb.
 
 | Deutsch | Anmerkung | Englisch |
 |---|---|---|

@@ -5,103 +5,98 @@ tags:
   - grammatik
 ---
 
-# Wortstellung — the connector tells the verb where to stand
+# Wortstellung — the connector determines verb position
 
-Here is the **whole** grammar of conjunctions in one sentence:
+A connector's *meaning* maps cleanly onto English (*und* = and, *aber* = but, *weil* = because).
+The point to learn is **what each connector does to the verb.**
 
-> A connector's *meaning* maps cleanly onto English (*und* = and, *aber* = but, *weil* = because).
-> What you actually have to learn is **what each connector does to the verb.**
-
-Sort a connector into one of **three buckets** and you instantly know where the verb goes. That's the
-entire game.
+Each connector belongs to one of **three groups**, and the group determines where the verb goes.
 
 ---
 
-## The three buckets
+## The three groups
 
-| bucket | examples | what happens to the verb |
+| group | examples | effect on the verb |
 |---|---|---|
-| **1. Koordinierende** (coordinating) | und, oder, aber, denn, sondern | **nothing** — verb stays in its normal 2nd spot |
-| **2. Subordinierende** (subordinating) | weil, dass, wenn, obwohl… | verb is **kicked to the END** of its clause |
-| **3. Konjunktionaladverbien** (the trap) | deshalb, trotzdem, dann… | these are secretly **adverbs** — they take slot 1, so the verb comes **before the subject** |
+| **1. Koordinierende** (coordinating) | und, oder, aber, denn, sondern | none — verb stays in its normal 2nd position |
+| **2. Subordinierende** (subordinating) | weil, dass, wenn, obwohl… | verb moves to the **end** of its clause |
+| **3. Konjunktionaladverbien** | deshalb, trotzdem, dann… | these are **adverbs** — they take slot 1, so the verb comes **before the subject** |
 
-Watch one meaning — **"because/so"** — run through all three buckets. Same idea, three different
-grammars. This is the single most important contrast in the whole folder:
+One meaning — **"because/so"** — runs through all three groups: same idea, three different word
+orders. This is the key contrast:
 
-> Ich bleibe zu Hause, **weil** ich krank **bin**. → *weil* = bucket 2 → **verb to the end**
-> Ich bleibe zu Hause, **denn** ich **bin** krank. → *denn* = bucket 1 → **verb stays put**
-> Ich bin krank, **deshalb bleibe** ich zu Hause. → *deshalb* = bucket 3 → **verb before subject**
+> Ich bleibe zu Hause, **weil** ich krank **bin**. → *weil* = group 2 → verb to the end
+> Ich bleibe zu Hause, **denn** ich **bin** krank. → *denn* = group 1 → verb stays in 2nd
+> Ich bin krank, **deshalb bleibe** ich zu Hause. → *deshalb* = group 3 → verb before subject
 
-If you only memorize one thing from this folder, memorize **weil / denn / deshalb** and what each
-does. Everything else is just more members of the same three buckets.
+Memorize **weil / denn / deshalb** and what each does. Every other connector is a further member of
+one of these three groups.
 
 ---
 
-## Bucket 1 — coordinating: the verb doesn't move
+## Group 1 — coordinating: the verb stays in place
 
-These join two **equal** main clauses. They sit in "position zero" — they don't count as a slot, so
-the second clause keeps its normal **verb-in-2nd-place** order, exactly as if the conjunction weren't
-there:
+These join two **equal** main clauses. They sit in "position zero" and do not count as a slot, so the
+second clause keeps its normal **verb-in-2nd-position** order:
 
 > Ich **lese** ein Buch **und** sie **hört** Musik. — I'm reading a book and she's listening to music.
 
-Tiny closed set — the **ADUSO** five: **aber, denn, und, sondern, oder**. → [[02 Koordinierende]]
+A closed set of five — **ADUSO**: **aber, denn, und, sondern, oder**. → [[02 Koordinierende]]
 
 ---
 
-## Bucket 2 — subordinating: the verb goes to the end
+## Group 2 — subordinating: the verb goes to the end
 
-These open a **dependent** clause (it can't stand alone) and throw the conjugated verb all the way to
-the **back**:
+These open a **dependent** clause (it cannot stand alone) and move the conjugated verb to the **end**:
 
 > Ich weiß, **dass** er morgen **kommt**. — I know that he's coming tomorrow.
 > Sie bleibt, **weil** es **regnet**. — She's staying because it's raining.
 
-This is the big, busy bucket — *weil, dass, wenn, als, obwohl, damit, bevor, nachdem…* It's worth
-sorting them **by meaning** (cause, time, condition…) so they stop being a blur. → [[03 Subordinierende]]
+This is the large group — *weil, dass, wenn, als, obwohl, damit, bevor, nachdem…* Sort them **by
+meaning** (cause, time, condition…). → [[03 Subordinierende]]
 
 ---
 
-## Bucket 3 — the trap: words that *look* like conjunctions but are adverbs
+## Group 3 — conjunctional adverbs: look like conjunctions but are adverbs
 
-*deshalb, trotzdem, dann, danach, also, sonst…* feel like joining words, but grammatically they're
+*deshalb, trotzdem, dann, danach, also, sonst…* function as joining words but are grammatically
 **adverbs**. An adverb in front position **occupies slot 1**, so the verb (always 2nd) lands **before
 the subject**:
 
-> Es regnet, **deshalb bleibe ich** zu Hause. — It's raining, so I'm staying home. *(bleibe before ich!)*
+> Es regnet, **deshalb bleibe ich** zu Hause. — It's raining, so I'm staying home. *(bleibe before ich)*
 
-These have their own home with the adverbs, because that's what they are → [[08 Konjunktionaladverbien]].
-Just know the trap exists: a "because/so/therefore" word can belong to **any** of the three buckets.
+These are covered with the adverbs → [[08 Konjunktionaladverbien]]. Note that a
+"because/so/therefore" word can belong to **any** of the three groups.
 
 ---
 
-## When the subordinate clause comes FIRST
+## Subordinate clause in first position
 
-You can front a bucket-2 clause (*weil…, wenn…*). Then the **entire clause** counts as slot 1, so the
-**main verb lands immediately after the comma** — you get the famous **verb, comma, verb** collision:
+A group-2 clause (*weil…, wenn…*) can come first. The **entire clause** then counts as slot 1, so the
+**main verb lands immediately after the comma** — the **verb, comma, verb** sequence:
 
 > **Weil** ich krank **bin**, **bleibe** ich zu Hause.
 > **Wenn** es **regnet**, **bleibe** ich zu Hause.
 
-That "**…bin, bleibe…**" pile-up in the middle is **correct**, not a typo. Pattern: *[verb at end of
-clause 1] , [verb at start of clause 2]*.
+The "**…bin, bleibe…**" sequence is **correct**. Pattern: *[verb at end of clause 1] , [verb at start
+of clause 2]*.
 
 ---
 
-## Kommas — the quick rule
+## Commas
 
-- Comma **before** every subordinating conjunction (bucket 2): *Ich bleibe**,** weil…*
+- Comma **before** every subordinating conjunction (group 2): *Ich bleibe**,** weil…*
 - Comma before **aber / sondern / denn**: *klein**,** aber schön.*
 - **No** comma before **und / oder** joining two clauses: *Brot und Butter.*
 
 ---
 
-## The one-question test
+## Identification test
 
-Faced with any connector, ask: **"What does it do to the verb?"**
+For any connector, ask what it does to the verb:
 
-- Verb stays 2nd → bucket 1 (coordinating)
-- Verb goes to the end → bucket 2 (subordinating)
-- Verb jumps in front of the subject → bucket 3 (conjunctional adverb)
+- Verb stays 2nd → group 1 (coordinating)
+- Verb goes to the end → group 2 (subordinating)
+- Verb moves in front of the subject → group 3 (conjunctional adverb)
 
-Answer that and the sentence builds itself. The fuller word-order picture lives in [[02 Word Order]].
+The fuller word-order treatment is in [[02 Word Order]].

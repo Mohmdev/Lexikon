@@ -1,18 +1,17 @@
 # Deutsch — start here
 
-German is a small **engine** running over per-word **data**. The engine is a handful of rules you learn
-**once**; the data is the vocabulary you absorb over time. Almost all of learning German is sorting what
-you meet into **compute it** (a rule) vs. **memorize it** (a raw fact) — and only grinding the second
-kind.
+German is a small **engine** running over per-word **data**: the engine is a handful of rules you learn
+**once**; the data is the vocabulary you absorb over time. Most of learning German is sorting what you
+meet into **compute it** (derive from a rule) vs. **memorize it** (a raw fact), and drilling only the
+second kind.
 
-This page is the **map** and the **method**. Read the method first — it's the lens every note is built
-around.
+This page is the map and the method. Read the method first; it underlies every note.
 
 ---
 
 ## How to study this vault — the method
 
-Five ideas run through every folder. Internalize them and the notes teach themselves.
+Five principles run through every folder.
 
 1. **Compute vs. memorize.** For anything new, ask: can I *derive* this from a rule, or must I *store*
    it? Spend your memory only on the second kind. (Weak verbs compute; strong verbs memorize. Article
@@ -25,20 +24,21 @@ Five ideas run through every folder. Internalize them and the notes teach themse
    Verbs: infinitive → Präteritum → participle + auxiliary.
 4. **Function signatures.** Each system is a formula: *Artikel = f(gender, case)*, *verb form =
    f(stem, person, tense, mood, voice)*. Every note is just one input dial on one of these.
-5. **Foundational-first.** Climb in dependency order. Inside each folder the numbered files already do
+5. **Foundational-first.** Work in dependency order. Inside each folder the numbered files already do
    this; across folders, follow the path below.
 
-> The payoff: you don't memorize the language, you **reverse-engineer the machine** that generates it.
+> The payoff: you don't memorize the language — you **reverse-engineer the machine** that generates it,
+> and store only the raw facts the rules can't derive.
 
 ---
 
-## The engine — shared grammar (learn this first)
+## The engine — shared grammar
 
-Everything else rides on this.
+Everything else runs on it.
 
-- [[Grammatik]] — **cases** (the job-tag every word carries: doer / target / receiver / owner), **word
-  order** (where the verb sits — the V2 rule and the bracket), negation, and the free wins English
-  already hands you.
+- [[Grammatik]] — **cases** (the role every word carries: doer / target / receiver / owner), **word
+  order** (verb position: the V2 rule and the bracket), negation, and the features German shares with
+  English.
 
 The closed sets that plug straight into cases:
 
@@ -65,28 +65,27 @@ The closed sets that plug straight into cases:
 
 - [[Zahlen]] — numbers: ~13 roots + build rules generate everything (plus dates, time, fractions).
 - [[Fragewörter]] — the W-words and the two question structures.
-- [[Verben]] — the engine of the sentence: tense, mood, and voice, all the way to B2.
+- [[Verben]] — the engine of the sentence: tense, mood, and voice, through B2.
 
 ---
 
-## A suggested path by level
+## Suggested path by level
 
-You don't have to read folder-by-folder. A roughly level-ordered climb:
+A roughly level-ordered sequence; you need not read folder-by-folder.
 
-- **A1 — get a sentence out the door:** [[Grammatik]] (Kasus, Word Order) → [[Artikel]] →
+- **A1 — produce a basic sentence:** [[Grammatik]] (Kasus, Word Order) → [[Artikel]] →
   [[Nomen]] (the triple) → [[Verben]] (01–03: Präsens, sein/haben/werden, Modalverben) →
   [[Pronomen]] → [[Zahlen]] (01 Kardinalzahlen, Datum, Uhrzeit) → [[Fragewörter]].
-- **A2 — fill it in:** [[Präpositionen]] → [[Adjektive]] (declension) → [[Adverbien]] →
+- **A2 — expand it:** [[Präpositionen]] → [[Adjektive]] (declension) → [[Adverbien]] →
   [[Verben]] (04–10: the past tenses, separable verbs, imperative) → [[Konjunktionen]].
-- **B1 — sound fluent:** [[Verben]] (11–14: Kasus, Plusquamperfekt, Passiv, **Konjunktiv II**) →
-  [[Partikeln]] (the flavor words) → the meaning-sliced [[Präpositionen]] and word-building notes.
-- **B2 — polish:** [[Verben]] 15 (Konjunktiv I / reported speech) and the formal corners flagged
+- **B1 — fluency:** [[Verben]] (11–14: Kasus, Plusquamperfekt, Passiv, **Konjunktiv II**) →
+  [[Partikeln]] (the tone words) → the meaning-sliced [[Präpositionen]] and word-building notes.
+- **B2 — polish:** [[Verben]] 15 (Konjunktiv I / reported speech) and the formal usage flagged
   throughout.
 
 ---
 
-## The one-line takeaway
+## Summary
 
-Learn the **engine** once (cases + word order), always grab the **fingerprint** for each new word
-(noun triple, verb principal parts), and lean on the **generators** for the open sets. That's the whole
-game — now go nerd it out.
+Learn the **engine** once (cases + word order), record the **fingerprint** for each new word
+(noun triple, verb principal parts), and rely on the **generators** for the open sets.

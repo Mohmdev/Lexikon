@@ -5,31 +5,30 @@ tags:
   - grammatik
 ---
 
-# Verben mit Präposition — when the verb picks the preposition
+# Verben mit Präposition
 
-Usually *you* choose a preposition for its meaning (*auf dem Tisch* — on the table). But a big group of
-verbs come with a **fixed preposition welded on**, and:
+Normally you choose a preposition for its meaning (*auf dem Tisch* — on the table). But a large group of
+verbs take a **fixed preposition**, where:
 
-1. the preposition is **not guessable from English**, and
+1. the preposition is **not predictable from English**, and
 2. it often **loses its literal meaning** entirely.
 
 > Ich warte **auf** den Bus. — I'm waiting **for** the bus. *(English "for", German "auf" — and "auf"
 > here does NOT mean "on")*
 
-So you don't store *warten* = "to wait." You store the whole unit **warten auf + Akkusativ**. That's the
-**fingerprint** — exactly the same move as adjectives that govern a preposition
-([[08 Adjektive mit Präposition]]).
+Store the whole unit **warten auf + Akkusativ**, not *warten* = "to wait" on its own. This is the same
+pattern as adjectives that govern a preposition ([[08 Adjektive mit Präposition]]).
 
 ---
 
-## The case is locked by the verb's preposition
+## Case fixed by the verb's preposition
 
-With these verbs, the preposition's case is **fixed and lexical** — it is *not* the location-vs-direction
-logic of [[03 Wechsel]]. *warten auf* is **always** Akkusativ, full stop, even though nothing is moving.
+The preposition's case is **fixed and lexical** — not the location-vs-direction logic of [[03 Wechsel]].
+*warten auf* is **always** Akkusativ, even though nothing is moving.
 
 ---
 
-## High-frequency verbs to own
+## High-frequency verbs
 
 **+ Akkusativ:**
 
@@ -64,10 +63,10 @@ vs *sich freuen **über*** (be glad about — now/past). The preposition carries
 
 ---
 
-## Asking and referring back: da- / wo-
+## Asking and referring back with da- / wo-
 
-To question or refer to the **thing** involved, use the fused pronominal adverbs
-([[07 Pronominaladverbien]]) — not the bare preposition:
+To question or refer to the **thing** involved, use the pronominal adverbs
+([[07 Pronominaladverbien]]), not the bare preposition:
 
 > Ich warte **auf den Bus**. → **Worauf** wartest du? — Ich warte **darauf**.
 > *(I'm waiting for the bus. → What are you waiting for? — I'm waiting for it.)*
@@ -79,8 +78,8 @@ But if it's a **person**, keep preposition + pronoun:
 
 ---
 
-## How these are stored in your Lexikon
+## Storage in the Lexikon
 
-This page teaches the **phenomenon**. The actual per-verb combos are fingerprints, so each one lives
-with its verb in [[Verben 001-100]] — tagged with its preposition and case. Learn a verb, learn its
-preposition *in the same breath*; splitting them is how you end up guessing wrong.
+This page covers the **phenomenon**. The per-verb combinations live with each verb in
+[[Verben 001-100]], tagged with its preposition and case. Learn a verb together with its preposition;
+separating them leads to wrong guesses.

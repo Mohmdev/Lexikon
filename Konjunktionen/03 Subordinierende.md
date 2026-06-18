@@ -5,21 +5,20 @@ tags:
   - grammatik
 ---
 
-# Subordinierende Konjunktionen — the verb goes to the end
+# Subordinierende Konjunktionen — verb to the end
 
-These open a **dependent clause** — one that can't stand on its own — and send the conjugated verb all
-the way to the **back** of that clause. One rule covers the entire list:
+These open a **dependent clause** and send the conjugated verb to the **end** of that clause. One rule
+covers the entire list:
 
 > **subordinating conjunction → … → conjugated verb (last word)**
 
 > Ich bleibe zu Hause, **weil** es heute stark **regnet**. — I'm staying home because it's raining hard.
 > Sie fragt, **ob** der Zug pünktlich **kommt**. — She asks whether the train comes on time.
 
-Comma **before** the conjunction, always. If you front the clause, the main verb hops to right after the
-comma (the *verb, comma, verb* collision from [[01 Wortstellung]]).
+Comma **before** the conjunction, always. If the clause comes first, the main verb moves to right after
+the comma (the *verb, comma, verb* sequence from [[01 Wortstellung]]).
 
-The list is long, so don't memorize it flat — **sort it by what it means.** Then it's six small,
-sensible groups instead of one blur.
+The list is long; group it by meaning. This gives six groups below.
 
 ---
 
@@ -36,8 +35,8 @@ sensible groups instead of one blur.
 
 ## 2. Time — "when, while, before, after, until…"
 
-The biggest group. The trio **wenn / als** (and the question word **wann**) is such a common mix-up it
-gets its own file → [[04 wenn als wann ob]].
+The largest group. **wenn / als** and the question word **wann** are a frequent mix-up and have their
+own file → [[04 wenn als wann ob]].
 
 | German | English | example |
 |---|---|---|
@@ -77,7 +76,7 @@ gets its own file → [[04 wenn als wann ob]].
 
 ## 5. Purpose & result — "so that"
 
-The classic confusable pair — **damit** (intended goal) vs **sodass** (actual outcome):
+Confusable pair: **damit** (intended goal) vs **sodass** (actual outcome).
 
 | German | English | example |
 |---|---|---|
@@ -91,7 +90,7 @@ Test: **damit** answers *"with what goal?"*; **sodass** answers *"and what was t
 
 ## 6. Manner & comparison — "that, whether, by, as if"
 
-The workhorses that embed a statement or describe *how*:
+These embed a statement or describe *how*.
 
 | German | English | example |
 |---|---|---|
@@ -102,14 +101,14 @@ The workhorses that embed a statement or describe *how*:
 | **ohne dass** | without (…happening) | Er ging, **ohne dass** ich es **merkte**. |
 | **anstatt dass** | instead of (…doing) | **Anstatt dass** er **hilft**, schläft er. |
 
-*(**dass** is the most common subordinator in the language — the all-purpose "that" that embeds one
-clause inside another.)*
+*(**dass** is the most common subordinator, the general-purpose "that" that embeds one clause inside
+another.)*
 
 ---
 
-## The strategy
+## Learning order
 
-One rule for all of them — **verb to the end**. The only real learning is **vocabulary by group**:
-grab the everyday members first (**weil, dass, wenn, als, ob, obwohl, damit, bevor, nachdem**), and let
-the formal cousins (*da, sofern, obgleich, wenngleich*) come later. The grammar never changes.
+One rule for all of them: **verb to the end**. The variable is **vocabulary by group**. Learn the
+everyday members first (**weil, dass, wenn, als, ob, obwohl, damit, bevor, nachdem**); the formal ones
+(*da, sofern, obgleich, wenngleich*) can come later. The grammar is the same in every case.
 → [[01 Wortstellung]]

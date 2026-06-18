@@ -7,9 +7,7 @@ tags:
 
 # Wechselpräpositionen (two-way: Akkusativ *or* Dativ)
 
-These nine prepositions are the **only** group with real logic instead of brute memorization — they
-take **either** case, and the case you pick **changes the meaning**. This is where to spend your
-thinking.
+These nine prepositions take **either** case, and the case **changes the meaning**.
 
 | German | English | location example (Dativ) |
 |---|---|---|
@@ -25,9 +23,9 @@ thinking.
 
 ---
 
-## The rule: are you **crossing into** a place, or **already in** it?
+## The rule: crossing into a place vs. already in it
 
-Ask one question:
+One question decides the case:
 
 - **wohin?** (where *to*?) — the action **crosses a boundary** into a new place → **Akkusativ**
 - **wo?** (where?) — the action **happens within** one place → **Dativ**
@@ -38,14 +36,14 @@ Ask one question:
 | Ich hänge das Bild **an die** Wand. — I hang it **onto** the wall. | Das Bild hängt **an der** Wand. — It hangs **on** the wall. |
 | Die Katze springt **auf den** Tisch. — onto the table. | Die Katze schläft **auf dem** Tisch. — on the table. |
 
-The feel of it: **arriving at a new place → Akkusativ; already settled there → Dativ.**
+Summary: **arriving at a new place → Akkusativ; already in it → Dativ.**
 
 ---
 
-## The subtle part: it's *boundary-crossing*, not just movement
+## Boundary-crossing, not movement
 
-Motion alone doesn't trigger Akkusativ — what matters is whether you **cross into** a new space. You
-can move around like crazy *inside* one place and still be Dativ:
+Motion alone doesn't trigger Akkusativ — what matters is whether the action **crosses into** a new
+space. Movement that stays *inside* one place is still Dativ:
 
 > Ich laufe **im** Park. — I run **(around) in** the park. *(all within the park → Dativ)*
 > Ich laufe **in den** Park. — I run **into** the park. *(crossing in from outside → Akkusativ)*
@@ -54,10 +52,10 @@ Same verb (*laufen*), both involve running — the case turns purely on whether 
 
 ---
 
-## Shortcut: the verb usually gives it away
+## Verb pairs as a shortcut
 
-German even pairs up verbs for this. The "place it" verbs take **Akkusativ** (you move it in); their
-"it's there" twins take **Dativ**:
+German pairs up verbs for this. The "place it" verbs take **Akkusativ**; their "it's there"
+counterparts take **Dativ**:
 
 | put / move it → Akkusativ | be / rest there → Dativ |
 |---|---|
@@ -70,7 +68,7 @@ German even pairs up verbs for this. The "place it" verbs take **Akkusativ** (yo
 
 ## Contractions track the case
 
-The fused forms ([[Präpositionen]]) line up neatly with the two meanings:
+The fused forms ([[Präpositionen]]) follow the two meanings:
 
 - **into (Akkusativ):** an das → **ans**, in das → **ins**
   > Ich gehe **ans** Fenster / **ins** Kino. — to the window / into the cinema.

@@ -7,14 +7,13 @@ tags:
 
 # Temporale Präpositionen — saying *when*
 
-The case files ([[01 Akkusativ]], [[02 Dativ]], [[03 Wechsel]]) sort prepositions by the case they force. This
-page sorts the same words by **what you actually want to say: time.** It's one of the highest-payoff
-pages for a beginner — "on Monday, in July, at 8, a year ago, since Tuesday" come up constantly, and
-English picks the wrong German word almost every time.
+The case files ([[01 Akkusativ]], [[02 Dativ]], [[03 Wechsel]]) sort prepositions by the case they
+force. This page sorts the same words by time. English mappings ("on Monday, in July, at 8, a year
+ago, since Tuesday") rarely transfer directly to German.
 
 ---
 
-## The big three: am / im / um (on / in / at)
+## am / im / um — on / in / at
 
 English uses **on / in / at** for time. German maps them like this:
 
@@ -31,9 +30,9 @@ Mnemonic: **am** = small unit (a day), **im** = big unit (a month/season), **um*
 
 ---
 
-## The "ago / in / since / until / from" cluster
+## ago / in / since / until / from
 
-This is where English speakers slip. Learn these as a set:
+The confusable set:
 
 | meaning | German (+case) | example |
 |---|---|---|
@@ -45,12 +44,12 @@ This is where English speakers slip. Learn these as a set:
 | **until / by** | **bis** (+ Akk) | **bis** Freitag, **bis** morgen — until Friday |
 | **from … onward** | **ab** + Dat | **ab** Montag — from Monday on |
 
-⚠️ The three that catch everyone:
+⚠️ Three distinctions:
 
 - **vor** vs **in**: *vor einem Jahr* = a year **ago** (past); *in einem Jahr* = **in** a year (future).
-- **seit** = an action **still going** ("I've lived here **for/since**…"): *Ich wohne **seit** 2020 hier.*
-  English uses both "since" and "for" — German just uses **seit**.
-- **vor** does double duty: "ago" *and* "before." Context decides.
+- **seit** marks an action **still going**: *Ich wohne **seit** 2020 hier.* English uses both "since"
+  and "for"; German uses only **seit**.
+- **vor** covers both "ago" and "before"; context distinguishes them.
 
 ---
 
@@ -65,10 +64,10 @@ This is where English speakers slip. Learn these as a set:
 
 ---
 
-## ⚠️ The big trap: often there's NO preposition at all
+## Time expressions with no preposition
 
-For many time expressions German uses a **bare noun in the Akkusativ** — *no preposition*, where
-English would say "on/this/every":
+Many time expressions use a **bare noun in the Akkusativ** — no preposition, where English would say
+"on/this/every":
 
 > **nächste Woche** — next week · **letzten Montag** — last Monday · **jeden Tag** — every day ·
 > **diesen Sommer** — this summer · **einen Moment** — one moment
@@ -76,8 +75,7 @@ English would say "on/this/every":
 > Ich komme **nächste Woche**. — I'm coming next week. *(NOT "in nächster Woche")*
 > Wir treffen uns **jeden Tag**. — We meet every day.
 
-So before reaching for a preposition, check: is it *next/last/every/this* + a time word? Then drop the
-preposition and just use the **Akkusativ**.
+If the phrase is *next/last/every/this* + a time word, drop the preposition and use the **Akkusativ**.
 
 ---
 
@@ -89,6 +87,5 @@ Festivals take **zu** (or *an* in the south):
 
 ---
 
-The fastest way to own this: drill the **am / im / um** trio first (it covers most daily talk), then
-the **vor / in / seit** cluster (the confusable ones), then notice when there's **no preposition** at
-all.
+Learning order: **am / im / um** (covers most daily use), then the **vor / in / seit** cluster (the
+confusable ones), then the **no-preposition** cases.

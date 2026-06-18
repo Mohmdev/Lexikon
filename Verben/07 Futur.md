@@ -5,16 +5,16 @@ tags:
   - grammatik
 ---
 
-# Futur — talking about the future
+# Futur — the future tense
 
-The good news: this is the easiest tense, and half the time you don't even need it.
+Often unnecessary: the present tense covers most future reference.
 
-## The formula
+## Formation
 
 > **werden** (conjugated, present) + **infinitive** (at the end)
 
-Same **bracket** as the modals and Perfekt — *werden* takes the second slot, the main verb sits as a
-bare infinitive at the end ([[02 Word Order]]). You already have the *werden* conjugation from
+Same **bracket** as the modals and Perfekt: *werden* takes the second slot, the main verb is a
+bare infinitive at the end ([[02 Word Order]]). The *werden* conjugation comes from
 [[02 Sein haben werden]] (*ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden*):
 
 > Ich **werde** morgen **kommen**. — I will come tomorrow.
@@ -22,37 +22,34 @@ bare infinitive at the end ([[02 Word Order]]). You already have the *werden* co
 
 ---
 
-## You usually don't need it — present does the job
+## Present for the future
 
-This is the part English speakers overdo. German happily uses the **present tense for the future**, as
-long as a time word makes the timing clear:
+German uses the **present tense for the future** when a time word makes the timing clear:
 
 > Ich **komme** morgen. — I'm coming tomorrow.
 > Wir **fahren** nächste Woche nach Wien. — We're going to Vienna next week.
 
-No *werden* required. In everyday speech this is the **normal** way to talk about the future. So reach
-for present + a time word (*morgen, bald, nächste Woche*) first.
+No *werden* required. This is the normal way to express the future in everyday speech: use present +
+a time word (*morgen, bald, nächste Woche*).
 
 ---
 
-## So when IS Futur actually used?
+## Uses of Futur
 
-When there's no time word, or you want to color the statement — **predictions, promises,
-assumptions**:
+Futur is used when there is no time word, or to mark **predictions, promises, assumptions**:
 
 > Das **wird** schwierig. — That's going to be hard. *(prediction)*
 > Ich **werde** dir helfen. — I will help you. *(promise)*
-> Er **wird** wohl krank sein. — He's probably ill. *(assumption about the present — note: not future at all!)*
+> Er **wird** wohl krank sein. — He's probably ill. *(assumption about the present, not the future)*
 
-That last use is worth flagging: *werden* + the particle *wohl* expresses a **guess**, often about
-right now, not the future.
+*werden* + the particle *wohl* expresses a **guess**, often about the present rather than the future.
 
 ---
 
 ## Two things not to confuse
 
-- **werden = "will"** here, not the future English auxiliary's only sense. Don't mix it with
-  **werden = "to become"** (*Es wird kalt* — it's getting cold) or the **passive** *werden* (*Das
-  Haus wird gebaut* — the house is being built, → [[13 Passiv]]). Same verb, three jobs — context tells them apart.
+- **werden = "will"** here. Distinguish it from **werden = "to become"** (*Es wird kalt* — it's
+  getting cold) and the **passive** *werden* (*Das Haus wird gebaut* — the house is being built, →
+  [[13 Passiv]]). Same verb, three functions, distinguished by context.
 - **Futur II** (*werden* + Partizip + haben/sein = "will have done", *Ich werde es gemacht haben*)
-  exists but is rare. File it away for much later; you won't need to produce it for a long time.
+  exists but is rare.

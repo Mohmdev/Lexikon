@@ -7,27 +7,25 @@ tags:
 
 # Genus (gender) — der / die / das
 
-Every German noun is **masculine (der)**, **feminine (die)**, or **neuter (das)**. This is the
-master fact about a noun, because gender drives the article, the adjective endings, and the pronoun
-that replaces it ([[01 Kasus]], [[01 Bestimmte]]). Get the gender wrong and a whole chain of little
-words goes wrong with it.
+Every German noun is **masculine (der)**, **feminine (die)**, or **neuter (das)**. Gender determines
+the article, the adjective endings, and the pronoun that replaces the noun ([[01 Kasus]],
+[[01 Bestimmte]]). An error in gender propagates to all of these.
 
-The catch: it's **grammatical**, not biological. It often has nothing to do with male/female:
+Gender is **grammatical**, not biological. It often does not correspond to male/female:
 
-> **das** Mädchen — the girl *(neuter!)* · **der** Löffel — the spoon · **die** Gabel — the fork
+> **das** Mädchen — the girl *(neuter)* · **der** Löffel — the spoon · **die** Gabel — the fork
 
-So *Mädchen* (girl) is "it," and a spoon is "he." You can't reason it out from meaning. This is the
-single biggest **hardcode** tax in German — which is why the standing rule is **never learn a noun
-naked; learn the triple** (article + singular + plural).
+*Mädchen* (girl) takes "it"; *Löffel* (spoon) takes "he." Gender cannot be derived from meaning, so
+the rule is: **learn every noun as a triple** (article + singular + plural).
 
-That said, gender isn't *pure* chaos. Two kinds of help cut the memory load.
+Two kinds of regularity reduce the memory load.
 
 ---
 
-## Help 1: ending rules (the reliable kind)
+## Ending rules
 
-Some **word-endings almost always force a gender**. These are close to actual rules — learn them once
-and you get the gender of thousands of nouns for free.
+Some **word-endings reliably determine gender**. These function as near-rules and cover thousands of
+nouns.
 
 **→ die (feminine)**
 
@@ -56,17 +54,17 @@ and you get the gender of thousands of nouns for free.
 | **-um** | das Datum, das Museum |
 | nominalized verb | das Essen (eating/food), das Leben (life) |
 
-The golden one is **-chen / -lein**: a diminutive is **always neuter, no exceptions** — and it
-**overrides** natural gender. That's why *das Mädchen* (literally "little maid") is neuter.
+The strongest is **-chen / -lein**: a diminutive is **always neuter, no exceptions**, and it
+**overrides** natural gender. Hence *das Mädchen* (literally "little maid") is neuter.
 
-These same suffixes are how nouns are *built* in the first place (*wohnen → die Wohnung*) — so the rules
+These suffixes are also the means by which nouns are formed (*wohnen → die Wohnung*), so the rules
 here double as a vocabulary generator: [[05 Wortbildung]].
 
 ---
 
-## Help 2: meaning groups (tendencies, not laws)
+## Meaning groups
 
-Weaker than the ending rules — treat these as nudges, not guarantees:
+Weaker than the ending rules; treat these as tendencies, not guarantees:
 
 - **der**: male people/animals, **days, months, seasons** (der Montag, der Sommer), weather (der
   Regen, der Wind), most alcohol (der Wein — *but das Bier*), compass points.
@@ -76,11 +74,11 @@ Weaker than the ending rules — treat these as nudges, not guarantees:
 
 ---
 
-## The honest strategy
+## Strategy
 
-1. **Learn the ending rules** — they're closed and reliable, pure compute.
-2. For everything else, accept it's **hardcode** and bake the gender in at first contact via the
-   triple (*das Haus, die Häuser*) — see [[Nomen 001-100]].
+1. **Learn the ending rules.** They are closed and reliable.
+2. For all other nouns, memorize the gender at first contact via the triple (*das Haus, die Häuser*)
+   — see [[Nomen 001-100]].
 
-Don't try to *reason out* a noun's gender mid-sentence. Either a rule covers it, or you stored it.
-There is no third option, and pretending otherwise is what stalls people for years.
+Do not attempt to derive a noun's gender mid-sentence. Either a rule covers it or it must be
+memorized.

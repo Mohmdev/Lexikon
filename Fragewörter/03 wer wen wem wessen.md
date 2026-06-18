@@ -7,11 +7,11 @@ tags:
 
 # wer · wen · wem · wessen — the question word that declines
 
-Most question words are frozen (*wann, wo, wie* never change). **wer** ("who") is the exception: it
-**declines for case** just like an article does. It's a perfect mini-model of the whole case system
-([[01 Kasus]]) — four cases, four forms, and the endings rhyme with **der**.
+Most question words are invariable (*wann, wo, wie* never change). **wer** ("who") is the exception: it
+**declines for case** like an article. It mirrors the case system
+([[01 Kasus]]): four cases, four forms, with endings parallel to **der**.
 
-> **The trick: wer endings echo the masculine *der*-forms.** der→wer, den→wen, dem→wem, dessen→wessen.
+> **wer endings parallel the masculine *der*-forms:** der→wer, den→wen, dem→wem, dessen→wessen.
 
 ---
 
@@ -24,46 +24,46 @@ Most question words are frozen (*wann, wo, wie* never change). **wer** ("who") i
 | **Dativ** | **wem** | the **indirect object** (to whom) | **Wem** hilfst du? — Whom are you helping? |
 | **Genitiv** | **wessen** | the **possessor** (whose) | **Wessen** Auto ist das? — Whose car is that? |
 
-Memory hook — they ride the **der / den / dem / dessen** track:
+The forms follow the **der / den / dem / dessen** pattern:
 
 > **d**er → **w**er · **d**en → **w**en · **d**em → **w**em · **d**essen → **w**essen
 
-So if you can decline *der*, you already know *wer*. The case you pick is dictated by the verb — *helfen*
-takes Dativ, so *"who do you help?"* must be **wem** hilfst du ([[11 Verben und Kasus]]).
+The case is set by the verb. *helfen* takes Dativ, so "who do you help?" is **wem** hilfst du
+([[11 Verben und Kasus]]).
 
 ---
 
-## After a preposition, the case follows the preposition
+## After a preposition
 
-When you ask about a **person** tied to a preposition, the preposition fronts with *wer* and sets its
-case ([[01 W-Fragen und Ja-Nein-Fragen]]):
+When asking about a **person** governed by a preposition, the preposition fronts with *wer* and sets
+its case ([[01 W-Fragen und Ja-Nein-Fragen]]):
 
 | preposition takes… | form | example |
 |---|---|---|
 | Akkusativ (*für, auf, über*) | **wen** | **Für wen** ist das? — Who's that for? · **Auf wen** wartest du? |
 | Dativ (*mit, zu, bei, von*) | **wem** | **Mit wem** gehst du? — Who are you going with? · **Von wem** ist der Brief? |
 
-> ⚠️ This is **people only**. For a **thing** after a preposition, you don't use *wen/wem* — you fuse it
-> into **wo(r)- + preposition** (*worauf, womit*) → [[07 Pronominaladverbien]].
+> ⚠️ This applies to **people only**. For a **thing** after a preposition, do not use *wen/wem*; use
+> **wo(r)- + preposition** (*worauf, womit*) → [[07 Pronominaladverbien]].
 > *Auf wen wartest du?* (a person) vs *Worauf wartest du?* (a thing).
 
 ---
 
-## was — the "what" partner (barely declines)
+## was — the inanimate counterpart
 
-**was** ("what") is *wer*'s inanimate twin, but it's nearly frozen:
+**was** ("what") is the inanimate counterpart of *wer* and is nearly invariable:
 
-- **Nominativ & Akkusativ** are both just **was**: *Was ist das?* / *Was siehst du?*
-- It has **no everyday dative** — instead you use the **wo(r)- forms** for prepositions
-  (*Womit? Wofür?*), again → [[07 Pronominaladverbien]].
-- Genitive **wessen** can cover "of what", but it's rare.
+- **Nominativ & Akkusativ** are both **was**: *Was ist das?* / *Was siehst du?*
+- It has **no everyday dative**; use the **wo(r)- forms** for prepositions
+  (*Womit? Wofür?*) → [[07 Pronominaladverbien]].
+- Genitive **wessen** can mean "of what", but is rare.
 
-So the clean split: **people → wer/wen/wem (+ prep + wen/wem); things → was (+ wo(r)- forms).**
+Split: **people → wer/wen/wem (+ prep + wen/wem); things → was (+ wo(r)- forms).**
 
 ---
 
-## The shape in one line
+## Summary
 
-**wer** is the one question word that declines — **wer/wen/wem/wessen**, echoing **der/den/dem/dessen**,
-with the case set by the verb or preposition. Its thing-twin **was** stays put and hands prepositions
-off to the **wo(r)-** forms.
+**wer** is the only question word that declines: **wer/wen/wem/wessen**, parallel to
+**der/den/dem/dessen**, with the case set by the verb or preposition. Its inanimate counterpart **was**
+is invariable and uses the **wo(r)-** forms after prepositions.

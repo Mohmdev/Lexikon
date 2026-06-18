@@ -7,52 +7,59 @@ tags:
 
 # Unbestimmter Artikel (indefinite article)
 
-*"a / an" — ein / eine — plus the negative **kein** ("no") and the whole ein-word family.*
+*"a / an" — ein / eine — plus the negative **kein** ("no") and the rest of the ein-word family.*
 
-This is German's "a/an." It's **almost** the same grid as the definite article ([[01 Bestimmte]]) — the
-differences come down to three cells.
+German's "a / an." The grid is almost identical to the definite article ([[01 Bestimmte]]); the
+differences are limited to three cells.
 
-|               | maskulin | feminin | neutrum | Plural\* |
-| ------------- | -------- | ------- | ------- | -------- |
-| **Nominativ** | ein      | eine    | ein     | keine    |
-| **Akkusativ** | einen    | eine    | ein     | keine    |
-| **Dativ**     | einem    | einer   | einem   | keinen   |
-| **Genitiv**   | eines    | einer   | eines   | keiner   |
+|               | maskulin | feminin | neutrum | Plural |
+| ------------- | -------- | ------- | ------- | ------ |
+| **Nominativ** | ein      | eine    | ein     | —      |
+| **Akkusativ** | einen    | eine    | ein     | —      |
+| **Dativ**     | einem    | einer   | einem   | —      |
+| **Genitiv**   | eines    | einer   | eines   | —      |
 
-*\*ein itself has **no plural** (there's no "a cars") — the plural column is shown with **kein**, which
-does have one. More on that below.*
+*\*ein has no plural (there is no "a cars"), so the plural column is empty. Its negative **kein** does
+have a plural — see the full **kein** grid below.*
 
-## See each case in use
+## The four cases in a sentence
 
 > Das ist **ein** Mann. — That's a man. *(Nominativ)*
 > Ich sehe **einen** Mann. — I see a man. *(Akkusativ)*
 > Ich helfe **einem** Mann. — I'm helping a man. *(Dativ)*
 > das Auto **eines** Mannes — a man's car *(Genitiv)*
 
-## The three bare cells — why it's *ein / eine / ein*
+## The three endingless cells
 
-Compare the nominative row to *der / die / das*: the masculine and neuter come out as plain **ein**,
-with **no ending**. Three cells across the grid are bare — **masc Nom (ein)** and **neut Nom/Akk
-(ein)**:
+Compared to *der / die / das*, three cells lose their ending and reduce to plain **ein** — masculine
+nominative and neuter nominative/accusative:
 
-- *der* Mann → **ein** Mann *(masc Nom: -r ending gone)*
-- *das* Auto → **ein** Auto *(neut Nom/Akk: -s ending gone)*
+- *der* Mann → **ein** Mann *(masc Nom: -r dropped)*
+- *das* Auto → **ein** Auto *(neut Nom/Akk: -s dropped)*
 
-In those spots *ein* **fails to show the gender**. That's not a flaw to memorize so much as the reason
-the **adjective** picks up the slack right after it — it's exactly where the "mixed" adjective endings
-come from ([[03 Gemischte Deklination]]).
+In these cells *ein* does not mark the gender. This is why the following **adjective** carries the
+ending instead, which is the source of the "mixed" adjective declension ([[03 Gemischte Deklination]]).
 
-## No plural? Just drop the article
+## Plural: drop the article
 
-Since "a" can't be plural, the plural of *ein Auto* is simply **Autos** with no article at all:
+"a" has no plural, so the plural of *ein Auto* uses no article at all:
 
 > Ich habe **ein** Auto. — I have a car. → Ich habe **Autos**. — I have cars.
 
 ## kein — the negative article ("no / not a / not any")
 
-This is the big addition, and it's high-frequency: to say you **don't have a** noun, German doesn't
-use "nicht ein" — it uses **kein**. It declines **exactly like ein**, but unlike *ein* it **has a full
-plural** (the *keine / keinen / keiner* column above):
+To negate a noun that would otherwise take *ein* (or no article), German uses **kein**, not "nicht
+ein". It declines exactly like *ein* with a **k-** prefix, and unlike *ein* it has a full plural:
+
+|               | maskulin | feminin | neutrum | Plural |
+| ------------- | -------- | ------- | ------- | ------ |
+| **Nominativ** | kein     | keine   | kein    | keine  |
+| **Akkusativ** | keinen   | keine   | kein    | keine  |
+| **Dativ**     | keinem   | keiner  | keinem  | keinen |
+| **Genitiv**   | keines   | keiner  | keines  | keiner |
+
+The **singular** forms (kein / keine / kein …) are the ones absent from the *ein* grid above. In *Ich
+habe **kein** Auto*, `Auto` is neuter and a direct object → **Akkusativ neutrum** → **kein**.
 
 > Ich habe **kein** Auto. — I have no car / I don't have a car.
 > Ich habe **keine** Zeit. — I have no time.
@@ -60,18 +67,17 @@ plural** (the *keine / keinen / keiner* column above):
 
 ## kein vs. nicht — which negation?
 
-A constant beginner fork. Quick rule:
+Rule:
 
-- **kein** negates a noun that has **ein** or **no article** → *Ich habe **kein** Geld* (no money).
-- **nicht** negates everything else — verbs, adjectives, or a noun with **a definite article /
+- **kein** negates a noun that takes **ein** or **no article** → *Ich habe **kein** Geld* (no money).
+- **nicht** negates everything else — verbs, adjectives, or a noun with a **definite article or
   possessive** → *Ich kenne **den** Mann **nicht*** (I don't know the man); *Das ist **nicht** mein
   Auto* (that's not my car).
 
-Test: if the positive version would use *ein* or no article, negate with **kein**; otherwise
-**nicht**.
+Test: if the positive sentence uses *ein* or no article, negate with **kein**; otherwise **nicht**.
 
 ## The ein-word family
 
 **ein**, **kein**, and the possessives **mein, dein, sein, ihr, unser, euer** (my, your, his…) all
-take these **exact same endings**. Learn the grid once, reuse it for the whole family — the
-possessives are taught in [[02 Possessive]].
+take the same endings. Learn the grid once and reuse it for the whole family; the possessives are
+covered in [[02 Possessive]].

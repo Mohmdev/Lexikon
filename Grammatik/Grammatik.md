@@ -15,50 +15,47 @@ tags:
 
 # Grammatik — start here
 
-This folder is the **engine** — the shared machinery that runs *underneath* every kind of word. The
-per-word sections (nouns, verbs, adjectives…) feel like separate puzzles until you see they're all
-plugged into the same systems:
+This folder is the **engine** — the shared machinery that runs underneath every word class. The
+per-word sections (nouns, verbs, adjectives) all depend on these systems:
 
-> **Cases** decide your articles, adjective endings, and pronouns. **Word order** decides where the
-> verb sits and how the sentence wraps around it.
+> **Cases** determine articles, adjective endings, and pronouns. **Word order** determines where the
+> verb sits and how the sentence is structured around it.
 
-Get those two and the rest of German stops being a pile of unrelated rules — it becomes one machine
-with parts you recognize. The rest of this folder is sentence-level tools that build on them (negation,
-placeholder *es*, infinitive clauses), plus one file that's pure morale.
+Learn these two and the rest of German stops being a pile of unrelated rules — it becomes one system
+with recognizable parts. The remaining notes are sentence-level tools that build on them (negation,
+placeholder *es*, infinitive clauses), plus a vocabulary head-start file.
 
-*(Each note is tagged with a **CEFR level** — A1 is day-one basics, B1–B2 is intermediate — so you can
-see at a glance how deep you're going.)*
+Each note is tagged with a **CEFR level** (A1 = basics, B1–B2 = intermediate).
 
 ---
 
 ## The two engines
 
-### 1. Cases — what job each word is doing · *(A1)*
+### 1. Cases — the role of each noun phrase · *(A1)*
 
-The backbone. A **case** tags every noun phrase with its role — doer, target, receiver, owner — the
-exact way English already does with **he / him / his**. Almost everything else in the language bends
-to it, so this comes first.
+A **case** marks every noun phrase with its role — doer, target, receiver, owner — the same
+distinction English makes with **he / him / his**. Most other forms depend on it, so it comes first.
 → [[01 Kasus]]
 
-> Two closed word-classes ride directly on cases and live in their own sections: **Artikel**
+> Two closed word-classes depend directly on cases and have their own sections: **Artikel**
 > (der/die/das — the grid that adjective endings and pronouns copy → [[01 Bestimmte]]) and
 > **Präpositionen** (each one forces a case → [[Präpositionen]]).
 
-### 2. Word order — where the verb goes · *(A1)*
+### 2. Word order — verb placement · *(A1)*
 
-German pins the conjugated verb to fixed spots: **second** in a normal statement, **last** in a
-subordinate clause, with two-part verbs **wrapping** the middle like a bracket. Master verb placement
-and word order is basically solved.
+The conjugated verb sits in fixed positions: **second** in a main-clause statement, **last** in a
+subordinate clause, with two-part verbs bracketing the middle of the clause. Verb placement is the
+core of German word order.
 → [[02 Word Order]]
 
 ---
 
 ## Sentence-level tools
 
-### 4. Negation — saying "not" and "no" · *(A1)*
+### 4. Negation — "not" and "no" · *(A1)*
 
-The *nicht* vs *kein* fork, where *nicht* actually goes, and the negative words (*nie, nichts,
-niemand*) with their positive twins.
+*nicht* vs *kein*, the position of *nicht* in the clause, and the negative words (*nie, nichts,
+niemand*) with their positive counterparts.
 → [[04 Negation]]
 
 ### 5. es & impersonal constructions · *(A2)*
@@ -75,11 +72,11 @@ rule that decides *um…zu* vs *damit*.
 
 ---
 
-## The bonus
+## Vocabulary head-start
 
-### 3. Free wins — what you already half-know · *(A1)*
+### 3. Free wins — cognates and sound shifts · *(A1)*
 
-Not machinery — morale. English and German are cousins, so thousands of words come nearly free
-(*Wasser/water, Schiff/ship*), a handful of sound-shifts let you *guess* new ones, and German spelling
-is read-as-written. Read this any time you want a confidence boost.
+English and German are closely related, so many words are nearly identical (*Wasser/water,
+Schiff/ship*). A handful of regular sound-shifts let you predict new ones, and German spelling is
+read-as-written.
 → [[03 Free Wins]]

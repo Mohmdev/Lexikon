@@ -5,18 +5,17 @@ tags:
   - grammatik
 ---
 
-# sein, haben, werden — the three pillars
+# sein, haben, werden
 
-These three earn their own note for two reasons: they're the **most common verbs in the language**,
-and they're **irregular** (the plain present-tense rules from [[01 Präsens]] don't fully
-apply). On top of that, they lead a **double life** — each one also works as an **auxiliary** (a
-helper verb) that builds other tenses. Grind these three and a huge amount of German opens up.
+These three need separate treatment: they are the **most common verbs in the language**, they are
+**irregular** (the present-tense rules from [[01 Präsens]] do not fully apply), and each also serves
+as an **auxiliary** (helper verb) that builds other tenses.
 
 ---
 
 ## sein — to be
 
-The most irregular verb, and the one you'll say most. Just memorize it.
+The most irregular verb. Memorize the forms.
 
 | person | form | English |
 | ------ | ---- | ------- |
@@ -32,7 +31,7 @@ The most irregular verb, and the one you'll say most. Just memorize it.
 
 ## haben — to have
 
-Regular-ish, but the **du** and **er** forms drop the **b** (*hab* → *ha*):
+Mostly regular, but the **du** and **er** forms drop the **b** (*hab* → *ha*):
 
 | person | form | English |
 | ------ | ---- | ------- |
@@ -64,10 +63,9 @@ The odd forms are **du wirst** and **er wird** (the stem flips to *wir-*):
 
 ---
 
-## The double life — why these three are load-bearing
+## Auxiliary uses
 
-Each verb has its plain meaning *and* a job building another tense. That second job is why you can't
-skip them:
+Each verb has its plain meaning and a second role building another tense:
 
 - **haben** → builds the **Perfekt** (the everyday past) for most verbs: *ich **habe** gegessen* (I
   ate). → [[05 Perfekt]]
@@ -76,16 +74,12 @@ skip them:
 - **werden** → builds the **Futur** (*ich **werde** kommen* — I will come, → [[07 Futur]]) and the
   **passive** (*das Haus **wird** gebaut* — the house is being built).
 
-So learning *sein/haben/werden* now isn't just three verbs — it's the toolkit for half the tense
-system later.
-
 ---
 
-## Their past — the one simple past you use in speech
+## Präteritum — the simple past used in speech
 
-Normally spoken German avoids the simple past (Präteritum) and uses Perfekt instead. **These three
-are the exception** — even in conversation, Germans say *war / hatte / wurde*, not the clunky perfect.
-Worth knowing now:
+Spoken German normally avoids the simple past (Präteritum) and uses Perfekt instead. **These three
+are the exception**: even in conversation, *war / hatte / wurde* are used rather than the perfect.
 
 | verb | Präteritum (ich-form) | English |
 | ---- | --------------------- | ------- |

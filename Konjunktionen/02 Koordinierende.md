@@ -5,15 +5,15 @@ tags:
   - grammatik
 ---
 
-# Koordinierende Konjunktionen — the verb doesn't move
+# Koordinierende Konjunktionen — verb stays in 2nd place
 
-These join two **equal** parts (two main clauses, or just two words/phrases). They sit in **position
-zero** — they don't count as a sentence slot, so whatever follows keeps its **normal verb-in-2nd-place
-order**. Nothing moves. They are the *free* connectors.
+These join two **equal** parts (two main clauses, or two words/phrases). They occupy **position
+zero**: they don't count as a sentence slot, so what follows keeps its **normal verb-in-2nd-place
+order**. The verb does not move.
 
 > Ich **lese** ein Buch **und** sie **hört** Musik. — I'm reading a book and she's listening to music.
 
-The core is a **closed set of five** — the famous mnemonic **ADUSO**:
+The core is a **closed set of five**, mnemonic **ADUSO**:
 
 > **A**ber · **D**enn · **U**nd · **S**ondern · **O**der
 
@@ -26,7 +26,7 @@ The core is a **closed set of five** — the famous mnemonic **ADUSO**:
 | **und** | and | plain addition; usually **no comma** before it |
 | **oder** | or | alternatives; no comma before it |
 | **aber** | but | contrast; comma **before** it |
-| **denn** | because, for | gives a reason — **no verb flip** (this is the trap, see below) |
+| **denn** | because, for | gives a reason — **no verb flip** (see below) |
 | **sondern** | but (rather) | contrast **after a negative**; comma before it |
 
 > Trinkst du Tee **oder** Kaffee? — Tea or coffee?
@@ -34,17 +34,17 @@ The core is a **closed set of five** — the famous mnemonic **ADUSO**:
 
 ---
 
-## The two genuinely tricky ones
+## Two confusable pairs
 
 ### denn vs. weil — both mean "because"
 
-Same meaning, **opposite grammar**. This is the headline trap of the whole folder:
+Same meaning, **opposite grammar**:
 
 > Ich bleibe, **denn** ich **bin** müde. — *denn* = coordinating → verb **stays** 2nd.
 > Ich bleibe, **weil** ich müde **bin**. — *weil* = subordinating → verb to the **end** ([[03 Subordinierende]]).
 
-In speech, **weil** is the everyday choice; **denn** is slightly more formal/written. Pick either — just
-don't mix up the word order that comes with each.
+In speech, **weil** is the everyday choice; **denn** is more formal/written. Either is correct; the
+word order differs with each.
 
 ### sondern vs. aber — both mean "but"
 
@@ -61,9 +61,9 @@ Otherwise it's **aber**.
 
 ---
 
-## The honorary members
+## Additional coordinators
 
-A few more behave like coordinators (verb stays put), useful once the five are solid:
+A few more behave like coordinators (verb stays put):
 
 | German | English | note |
 |---|---|---|
@@ -71,11 +71,11 @@ A few more behave like coordinators (verb stays put), useful once the five are s
 | **doch** | but, yet | contrast, often emphatic: *Er ist klein, **doch** stark.* |
 
 > ⚠️ Don't confuse coordinating **doch / jedoch** with the adverb **jedoch** that starts a clause and
-> flips the verb (*…, jedoch **bleibt** er*). When in doubt, just use **aber**.
+> flips the verb (*…, jedoch **bleibt** er*).
 
 ---
 
-## The shape in one line
+## Summary
 
-Five free connectors (**ADUSO**), the verb never moves, and the only real work is keeping **denn** (stays)
-apart from **weil** (verb to the end) → [[01 Wortstellung]].
+Five coordinators (**ADUSO**); the verb never moves. The key distinction is **denn** (verb stays
+2nd) vs. **weil** (verb to the end) → [[01 Wortstellung]].

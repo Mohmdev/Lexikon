@@ -7,10 +7,10 @@ tags:
 
 # Akkusativpräpositionen (always Akkusativ)
 
-*These always force the **accusative** on the noun behind them — no exceptions, no thinking required.*
+*These always force the **accusative** on the following noun, without exception.*
 
-This is a **closed list**: grind the membership once. The core five chant as **durch – für – gegen –
-ohne – um**; *bis* and *entlang* round it out.
+This is a **closed list**. The core five are **durch – für – gegen – ohne – um**; *bis* and *entlang*
+complete it.
 
 | German | English | Note |
 |---|---|---|

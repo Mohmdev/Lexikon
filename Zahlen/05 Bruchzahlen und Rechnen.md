@@ -7,14 +7,14 @@ tags:
 
 # Bruchzahlen und Rechnen — fractions, decimals, and doing math
 
-The last slice of the number system: parts of a whole, decimals (with German's flipped punctuation),
-and the words for the four operations. All still generative — built off the ordinals you already have.
+Parts of a whole, decimals (German uses inverted punctuation), and the words for the four operations.
+These forms are generative, built from the ordinals.
 
 ---
 
 ## Fractions — ordinal stem **+ -el**
 
-A fraction is the **ordinal** ([[02 Ordinalzahlen]]) with **-el** stuck on. They're **neuter nouns**,
+A fraction is the **ordinal** ([[02 Ordinalzahlen]]) plus **-el**. Fractions are **neuter nouns**,
 written with a capital:
 
 | fraction | German | from |
@@ -27,7 +27,7 @@ written with a capital:
 
 So the suffix follows the same **-tel / -stel** split as ordinals (under 20 vs from 20).
 
-### Half is special
+### Half — irregular forms
 
 "Half" has its own words, not *zweitel*:
 
@@ -39,14 +39,14 @@ So the suffix follows the same **-tel / -stel** split as ordinals (under 20 vs f
 
 ---
 
-## Decimals — the comma **is** the point
+## Decimals — comma as decimal point
 
-German's decimal mark is a **comma** (*Komma*), and you read each digit after it **separately**:
+German's decimal mark is a **comma** (*Komma*). Read each digit after it **separately**:
 
 > **3,14** → **drei Komma eins vier** *(not "...point fourteen")*
 > **0,5** → **null Komma fünf**
 
-Mirror-image of the [[01 Kardinalzahlen]] rule: **comma = decimal point, dot/space = thousands.** So
+This inverts the [[01 Kardinalzahlen]] rule: **comma = decimal point, dot/space = thousands.** So
 **1.000,50** is *one thousand point five zero*.
 
 ---
@@ -62,21 +62,21 @@ Spoken math, with *ist* (or *ist gleich*) for "=":
 | × | **mal** | *vier **mal** drei **ist** zwölf* |
 | ÷ | **(geteilt) durch** | *zwölf **durch** vier **ist** drei* |
 
-Extras you'll meet: **hoch** = "to the power of" (*zwei hoch drei* = 2³), **die Wurzel** = root,
+Further terms: **hoch** = "to the power of" (*zwei hoch drei* = 2³), **die Wurzel** = root,
 **Prozent** = percent (*zehn **Prozent***).
 
 ---
 
-## Prices — the everyday decimal
+## Prices
 
-Money is read with the currency as the "comma": say the euros, then the cents, no need for *Komma*:
+Money is read with the currency in place of the comma: say the euros, then the cents, without *Komma*:
 
 > **1,50 €** → **ein Euro fünfzig** *(or formally: ein Euro fünfzig Cent)*
 > **3,99 €** → **drei Euro neunundneunzig**
 
 ---
 
-## The shape in one line
+## Summary
 
 Fractions = **ordinal + -el** (*ein Drittel*), with **halb / die Hälfte** as the irregular "half".
 Decimals use a **comma** read digit-by-digit (*drei Komma eins vier*). Math: **plus, minus, mal,

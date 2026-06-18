@@ -5,25 +5,24 @@ tags:
   - grammatik
 ---
 
-# Adjektive mit Präposition — adjectives that demand a companion
+# Adjektive mit Präposition — adjectives that require a complement
 
-Some adjectives can't stand alone — they **drag a required companion** along behind them. Exactly like
-verbs do (*warten **auf***, *sich freuen **über***), and exactly like there, the companion is **not
-guessable from English**. So you store it *with* the adjective as one chunk — the **fingerprint**, not
-the machinery.
+Some adjectives require a **complement**, like prepositional verbs (*warten **auf***, *sich freuen
+**über***). The complement is **not predictable from English**, so store it *with* the adjective as one
+chunk.
 
-There are two kinds of companion: a **fixed preposition**, or a **bare case**.
+There are two types: a **fixed preposition**, or a **bare case**.
 
 ---
 
-## Kind 1 — adjective + a fixed preposition
+## Type 1 — adjective + fixed preposition
 
-The trap: English and German rarely pick the same preposition.
+English and German rarely use the same preposition.
 
-> I'm proud **of** you. → Ich bin stolz **auf** dich. *(auf, not "von"!)*
+> I'm proud **of** you. → Ich bin stolz **auf** dich. *(auf, not "von")*
 
-So "proud" isn't stored as *stolz* — it's stored as **stolz auf + Akkusativ**. The preposition and its
-case ride along as part of the word.
+So "proud" is stored not as *stolz* but as **stolz auf + Akkusativ**. The preposition and its case are
+part of the entry.
 
 | adjective | + prep (case) | English | example |
 |---|---|---|---|
@@ -39,20 +38,20 @@ case ride along as part of the word.
 | verantwortlich | **für** + Akk | responsible for | Wer ist verantwortlich **für** das? |
 | typisch | **für** + Akk | typical of | Das ist typisch **für ihn**. |
 
-Notice the case is **locked by the preposition itself** — *auf/in/an* here are just "governed," not the
-location-vs-direction *Wechsel* game from [[03 Wechsel]]. With these adjectives *auf* simply means
-Akkusativ, full stop. (This is the same family as verb-governed prepositions — see [[Präpositionen]].)
+The case is **fixed by the preposition itself** — *auf/in/an* here are governed, not the
+location-vs-direction *Wechsel* alternation from [[03 Wechsel]]. With these adjectives *auf* always
+takes Akkusativ. (This parallels verb-governed prepositions — see [[Präpositionen]].)
 
-**Asking and pointing** reuses the *da-/wo-* compounds from [[07 Pronominaladverbien]]:
+**Questions and references** use the *da-/wo-* compounds from [[07 Pronominaladverbien]]:
 
 > **Worauf** bist du stolz? — What are you proud of?
 > Ich bin stolz **darauf**. — I'm proud of it.
 
 ---
 
-## Kind 2 — adjective + a bare case (no preposition)
+## Type 2 — adjective + bare case (no preposition)
 
-Other adjectives just demand a **case** directly. By far the most common is the **Dativ** — the
+Other adjectives govern a **case** directly. The most common is the **Dativ** — the
 "…to me / for me" person:
 
 | adjective | English | example (Dativ) |
@@ -66,9 +65,8 @@ Other adjectives just demand a **case** directly. By far the most common is the 
 | **treu** | faithful to | Er bleibt **ihr** treu. |
 | **nah** | close to | Das Café ist **dem** Bahnhof nah. |
 
-English usually slips in a "to/for" here; German just uses a **bare Dativ** noun or pronoun, no
-preposition at all. (These are the adjective cousins of the dative verbs *helfen / danken / gefallen* —
-see [[01 Kasus]].)
+English usually adds a "to/for" here; German uses a **bare Dativ** noun or pronoun, with no
+preposition. (These parallel the dative verbs *helfen / danken / gefallen* — see [[01 Kasus]].)
 
 **Measurements take Akkusativ:**
 
@@ -83,13 +81,12 @@ see [[01 Kasus]].)
 
 ---
 
-## How to actually store these
+## Storing these
 
-Don't file the bare adjective. File the **whole valency**:
+Store the **whole valency**, not the bare adjective:
 
 > ~~stolz~~ → **stolz auf** + Akk
 > ~~ähnlich~~ → **ähnlich** + Dat
 > ~~zufrieden~~ → **zufrieden mit** + Dat
 
-One chunk, one memory. That's the same "store the fingerprint, not the machinery" move you use for
-reflexive and prepositional verbs — and it's what turns these from random into recallable.
+This is the same approach used for reflexive and prepositional verbs.

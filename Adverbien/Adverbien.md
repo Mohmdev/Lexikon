@@ -20,54 +20,53 @@ tags:
 
 %% End Waypoint %%
 
-# Adverbien (adverbs) — start here
+# Adverbien (adverbs)
 
-An adverb colours an action — telling you **how, when, where, why, or how much** something happens:
+An adverb modifies an action, specifying **how, when, where, why, or how much** something happens:
 
 > Er läuft **schnell**. — He runs fast. · Sie kommt **heute**. — She comes today.
 
-## The one idea that makes adverbs easy
+## Core principle
 
-**Adverbs never change form.** No gender, no case, no plural, no endings — the word just sits there as
-it is. After the shape-shifting of nouns and adjectives, this is a genuine holiday.
+**Adverbs never change form.** No gender, no case, no plural, no endings — the word stays as it is.
 
-So the whole subject splits into exactly two skills:
+The subject splits into two skills:
 
-1. **Knowing the words** — pure vocabulary. That's your memory's job, in the five `Wörter` lists below.
-2. **Knowing where they go** — the *only* real grammar of adverbs, and where every beginner trips.
+1. **Knowing the words** — vocabulary, in the five `Wörter` lists below.
+2. **Knowing where they go** — the only real grammar of adverbs, and the main source of errors.
 
-Everything in this folder serves skill #2. Read it in order; it's built bottom-up.
+Notes 01–08 cover skill #2, in bottom-up order.
 
 ---
 
-## First, what an adverb even is
+## What an adverb is
 
-- **[[01 Adverb vs Adjektiv]]** — the same word does both jobs (*schnell* = "fast" *and* "quickly").
-  No English-style *-ly*. The only difference: an adjective in front of a noun takes an ending; an
-  adverb stays bare. So most "adverbs" are just adjectives you already own.
-- **[[02 Adverbtypen]]** — sort every adverb by the question it answers (time / place / manner / cause /
-  degree). This isn't just filing: the type *is* the word's position in a sentence.
+- **[[01 Adverb vs Adjektiv]]** — the same word does both jobs (*schnell* = "fast" *and* "quickly");
+  there is no English-style *-ly*. An adjective in front of a noun takes an ending; an adverb stays
+  bare. Most adverbs are adjectives you already know.
+- **[[02 Adverbtypen]]** — classify each adverb by the question it answers (time / place / manner /
+  cause / degree). The type determines the word's position in a sentence.
 
-## The heart of it: position
+## Position
 
-- **[[03 Vorfeld und Inversion]]** — ⭐ the one to master. Put an adverb first and the verb stays
-  second, so the subject jumps behind it: *Heute **gehe ich**…* (never *Heute ich gehe*). The single
-  most common English-speaker mistake.
-- **[[04 TeKaMoLo]]** — when several adverbs stack in the middle, they line up **Te → Ka → Mo → Lo**
-  (time → cause → manner → place). Plus where *nicht* goes.
+- **[[03 Vorfeld und Inversion]]** — the key topic. An adverb in first position keeps the verb second,
+  so the subject moves behind it: *Heute **gehe ich**…* (never *Heute ich gehe*). The most common
+  English-speaker mistake.
+- **[[04 TeKaMoLo]]** — multiple adverbs in the middle field line up **Te → Ka → Mo → Lo**
+  (time → cause → manner → place). Includes placement of *nicht*.
 
-## The special families (each a clean little system)
+## Special families
 
-- **[[05 Steigerung der Adverbien]]** — more / most, and the daily-gold trio **gern → lieber → am
-  liebsten** for saying what you like, prefer, and love best.
-- **[[06 hin und her]]** — direction relative to *you*: **her** = toward me, **hin** = away. Plus
-  *wohin/woher* and the everyday *rein / raus / rauf / runter*.
-- **[[07 Pronominaladverbien]]** — fuse "preposition + it" into one word: *damit* (with it), *worauf*
-  (on what). For things, never people.
+- **[[05 Steigerung der Adverbien]]** — comparative and superlative, plus **gern → lieber → am
+  liebsten** for what you like, prefer, and like best.
+- **[[06 hin und her]]** — direction relative to the speaker: **her** = toward me, **hin** = away.
+  Includes *wohin/woher* and *rein / raus / rauf / runter*.
+- **[[07 Pronominaladverbien]]** — combine "preposition + it" into one word: *damit* (with it),
+  *worauf* (on what). For things, never people.
 - **[[08 Konjunktionaladverbien]]** — connectors like *deshalb, trotzdem, dann* that link clauses
-  **and** flip the word order — plus the trap of telling them apart from real conjunctions.
+  and trigger inversion, and how to distinguish them from true conjunctions.
 
 ---
 
-Read this page for the shape, then work through 01 → 08. The spine never changes: **an adverb is a word
-that doesn't change — so the whole game is knowing where to put it.**
+Read this page for the overview, then work through 01 → 08. **An adverb does not change form; the
+grammar is entirely about placement.**

@@ -7,8 +7,7 @@ tags:
 
 # Genitivpräpositionen (always Genitiv)
 
-*A fourth group, mostly formal / written — you can survive A2 without them, but they're common in
-texts.*
+*A fourth group, mostly formal / written. Uncommon in A2-level speech, but frequent in texts.*
 
 | German | English | Note |
 |---|---|---|
@@ -30,5 +29,5 @@ texts.*
 | **innerhalb** | within | |
 | innerhalb **einer** Woche | within a week | |
 
-> ⚠️ In casual speech you'll often hear these with **Dativ** instead (*wegen dem Wetter*) — common, but
-> the Genitiv above is the "correct" written form.
+> ⚠️ In casual speech these often take **Dativ** instead (*wegen dem Wetter*). The Genitiv above is
+> the correct written form.

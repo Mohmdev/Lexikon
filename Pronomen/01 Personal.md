@@ -7,11 +7,9 @@ tags:
 
 # Personalpronomen (personal pronouns)
 
-A personal pronoun stands in for a noun so you don't repeat it — *the man → **he***. Exactly like
-English, the form changes with the **case** (the job it's doing), and you already do this without
-thinking: **he / him / his** ([[01 Kasus]]). German just does it more visibly.
-
-The forms ARE the data here — learn the table **by case**, not as a flat list.
+A personal pronoun stands in for a noun: *the man → **he***. As in English, the form changes with
+the **case** (the role it plays): **he / him / his** ([[01 Kasus]]). German marks this more
+visibly. Learn the table **by case**, not as a flat list.
 
 ---
 
@@ -37,24 +35,22 @@ The forms ARE the data here — learn the table **by case**, not as a flat list.
 
 ---
 
-## Trap 1: "it" is not always *es*
+## "it" is not always *es*
 
-This is the big one for English speakers. German picks *er / sie / es* to match the noun's
-**grammatical gender**, not whether it's a person. A table, a lamp, and a book are all "it" in
-English — but in German:
+German picks *er / sie / es* to match the noun's **grammatical gender**, not whether it refers to a
+person. A table, a lamp, and a book are all "it" in English, but in German:
 
 > **der** Tisch → **er** (Wo ist der Tisch? — **Er** ist da. — It's there.)
 > **die** Lampe → **sie** (Die Lampe? **Sie** ist neu. — It's new.)
 > **das** Buch → **es** (Das Buch? **Es** ist gut. — It's good.)
 
-So a "she" (*sie*) might be a lamp, and a "he" (*er*) might be a table. The pronoun copies the
-article's gender.
+A *sie* may refer to a lamp and an *er* to a table. The pronoun copies the article's gender.
 
 ---
 
-## Trap 2: the three *sie* / *Sie*
+## The three *sie* / *Sie*
 
-One spelling, three meanings — pulled apart by the **verb** and **capitalization**:
+One spelling, three meanings, distinguished by the **verb** and **capitalization**:
 
 | form | meaning | tell-tale |
 | ---- | ------- | --------- |
@@ -67,7 +63,7 @@ One spelling, three meanings — pulled apart by the **verb** and **capitalizati
 
 ---
 
-## du vs. ihr vs. Sie — which "you"?
+## du vs. ihr vs. Sie
 
 German splits "you" three ways:
 
@@ -75,5 +71,5 @@ German splits "you" three ways:
 - **ihr** — more than one person, informal (a group of friends)
 - **Sie** — formal, *any* number (strangers, officials, anyone you'd address respectfully)
 
-Pick by **relationship + number**. Default to **Sie** with adults you don't know; switch to **du**
+Choose by **relationship + number**. Default to **Sie** with adults you don't know; switch to **du**
 once invited.

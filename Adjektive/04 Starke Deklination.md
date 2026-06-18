@@ -5,16 +5,15 @@ tags:
   - grammatik
 ---
 
-# Starke Deklination — strong endings (no article at all)
+# Starke Deklination — strong endings (no article)
 
-When there's **no article** (bare plurals, uncountable stuff, after numbers, in lists), nobody else is
-wearing the case/gender badge — so the **adjective must wear it itself**. That's why these are the
-"strong" endings: the adjective ending basically **copies the der/die/das article** (see
-[[01 Warum Endungen]]).
+With **no article** (bare plurals, uncountables, after numbers, in lists), nothing else marks case
+and gender, so the **adjective marks it instead**. These are the **strong** endings: the adjective
+ending **copies the der/die/das article** (see [[01 Warum Endungen]]).
 
 ---
 
-## The table (adjective *kalt* — "cold")
+## Ending table (adjective *kalt* — "cold")
 
 | | masculine | feminine | neuter | plural |
 |---|---|---|---|---|
@@ -23,10 +22,9 @@ wearing the case/gender badge — so the **adjective must wear it itself**. That
 | **Dativ** | kalt**em** | kalt**er** | kalt**em** | kalt**en** |
 | **Genitiv** | kalt**en** | kalt**er** | kalt**en** | kalt**er** |
 
-## The shortcut: it mirrors the definite article
+## Endings mirror the definite article
 
-Lay the endings next to der/die/das and they match — the adjective is literally standing in for the
-article:
+The endings match der/die/das, since the adjective stands in for the article:
 
 | | the article | strong ending |
 |---|---|---|
@@ -35,18 +33,18 @@ article:
 | Dativ masc | de**m** | kalt**em** |
 | plural Dat | de**n** | kalt**en** |
 
-So you don't learn a fourth thing — you reuse the article endings you already know.
+This reuses the article endings already known; there is no separate set to learn.
 
-⚠️ One exception: **masc & neut Genitiv** is **-en**, not -es (*kalt**en** Wassers*), because the noun
-itself already shows genitive with its **-s** (Wasser**s**). The badge is on the noun there, so the
-adjective relaxes.
+⚠️ Exception: **masc & neut Genitiv** is **-en**, not -es (*kalt**en** Wassers*), because the noun
+already marks genitive with its **-s** (Wasser**s**). The marker sits on the noun, so the adjective
+takes -en.
 
-## See it
+## Examples
 
 > **Kaltes** Wasser ist gesund. — Cold water is healthy. *(neut Nom → -es)*
 > Ich trinke **kalten** Kaffee. — I drink cold coffee. *(masc Akk → -en)*
 > mit **kaltem** Wasser — with cold water *(neut Dat → -em)*
 > **Schöne** Tage kommen. — Nice days are coming. *(plural Nom → -e)*
 
-That's all three endings tables. The whole system, recapped: **article shows it → adj is lazy
-(-e/-en); no article → adj copies the article.** One idea, three views.
+Summary of all three ending types: **article marks case/gender → adjective takes -e/-en; no article
+→ adjective copies the article ending.**

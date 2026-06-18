@@ -7,9 +7,8 @@ tags:
 
 # Imperativ — giving commands
 
-A command in English just drops the subject: "(you) Come here!" German does the same — drop the
-subject, lead with the verb — but the verb form depends on **who** you're ordering, because German has
-three "you"s (*du / ihr / Sie*), plus a "let's" form for *wir*.
+A German command drops the subject and leads with the verb. The verb form depends on the addressee:
+German has three forms of "you" (*du / ihr / Sie*), plus a "let's" form for *wir*.
 
 ---
 
@@ -31,18 +30,18 @@ more common.
 
 ---
 
-## Stem-change verbs — half the change carries over
+## Stem-change verbs
 
-From [[01 Präsens]]: some verbs flip their vowel in the *du*-form. In the imperative:
+From [[01 Präsens]]: some verbs change their vowel in the *du*-form. In the imperative:
 
 - **e → i / ie** changes **stay**: geben → du gibst → **Gib!** · lesen → du liest → **Lies!**
 - **a → ä** changes **drop**: fahren → du fährst → **Fahr!** (not *Fähr!*) · schlafen → **Schlaf!**
 
 ---
 
-## sein is irregular (of course)
+## sein is irregular
 
-The one to memorize:
+Memorize these forms:
 
 > **Sei** ruhig! — Be quiet! *(du)*
 > **Seid** ruhig! — *(ihr)*

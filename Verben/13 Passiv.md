@@ -5,25 +5,25 @@ tags:
   - grammatik
 ---
 
-# Passiv — when the action matters, not the doer
+# Passiv — focus on the action, not the doer
 
 In the **active** voice, the subject does the action: *Der Mann baut das Haus* (the man builds the
-house). In the **passive**, you flip focus onto the thing being acted on, and the doer fades out:
+house). In the **passive**, focus shifts to the thing acted on, and the doer recedes:
 
 > **Das Haus wird gebaut.** — The house is being built.
 
-Use it when the doer is **unknown, unimportant, or obvious** — *"the house is being built"* (who cares
-who) vs *"a builder builds the house."* German uses it constantly in instructions, news, and processes.
+Use it when the doer is **unknown, unimportant, or obvious**. German uses it constantly in
+instructions, news, and process descriptions.
 
 ---
 
 ## Vorgangspassiv — the action passive (werden + Partizip II)
 
-The main passive. The recipe:
+The main passive. The form:
 
 > **werden** (conjugated) + **Partizip II** (at the end)
 
-That's the same participle from [[05 Perfekt]] and the same bracket as every two-part verb
+The participle is the same one from [[05 Perfekt]], and the bracket is the same as every two-part verb
 ([[02 Word Order]]). To turn an active sentence passive:
 
 1. the active **object (Akk)** becomes the passive **subject (Nom)**
@@ -33,7 +33,7 @@ That's the same participle from [[05 Perfekt]] and the same bracket as every two
 > Aktiv: **Der Mann** baut **das Haus**.
 > Passiv: **Das Haus** wird gebaut. *(object → subject; doer dropped)*
 
-### It works in every tense — just conjugate *werden*
+### Tenses: conjugate *werden*
 
 | tense | example (bauen) |
 |---|---|
@@ -43,28 +43,27 @@ That's the same participle from [[05 Perfekt]] and the same bracket as every two
 | Plusquamperfekt | Das Haus **war** gebaut **worden**. — had been built |
 | Futur | Das Haus **wird** gebaut **werden**. — will be built |
 
-⚠️ The one quirk: in the **Perfekt/Plusquamperfekt passive**, the participle of *werden* is **worden**,
-not *geworden* (the *ge-* drops). *ist gebaut **worden***. Memorize that shape.
+Note: in the **Perfekt/Plusquamperfekt passive**, the participle of *werden* is **worden**,
+not *geworden* (the *ge-* drops): *ist gebaut **worden***.
 
 ---
 
 ## Naming the doer: von vs durch
 
-If you *do* mention who/what did it (the **agent**):
+To mention who or what did it (the **agent**):
 
 - **von** + Dativ — the **doer** (a person/institution):
   > Das Haus wird **von dem Architekten** gebaut. — by the architect.
 - **durch** + Akkusativ — the **means/cause** (how it happened):
   > Die Stadt wurde **durch das Erdbeben** zerstört. — by/through the earthquake.
 
-Rule of thumb: **von** = who did it, **durch** = what caused it. But remember — the whole point of
-passive is often to *drop* the agent entirely.
+**von** = who did it, **durch** = what caused it. The agent is often dropped entirely.
 
 ---
 
 ## Modal + passive
 
-Stack a modal on top: **modal + Partizip II + werden** (infinitive at the very end):
+Add a modal: **modal + Partizip II + werden** (infinitive at the very end):
 
 > Das **muss** heute **gemacht werden**. — That must be done today.
 > Der Brief **kann** nicht **gelesen werden**. — The letter can't be read.
@@ -73,11 +72,11 @@ Stack a modal on top: **modal + Partizip II + werden** (infinitive at the very e
 
 ## Zustandspassiv — the state passive (sein + Partizip II)
 
-A different passive describes the **resulting state**, not the action. Use **sein + Partizip II**:
+This passive describes the **resulting state**, not the action. Use **sein + Partizip II**:
 
 > Das Geschäft **ist** geschlossen. — The shop is closed. *(state — it's shut)*
 
-Contrast the two directly:
+Contrast:
 
 > Das Geschäft **wird** geschlossen. — is being closed *(the action, happening now)*
 > Das Geschäft **ist** geschlossen. — is closed *(the finished state)*
@@ -86,9 +85,9 @@ Contrast the two directly:
 
 ---
 
-## Two nuances worth knowing
+## Two nuances
 
-- **Dative verbs keep the Dativ.** Verbs like *helfen* take Dativ ([[11 Verben und Kasus]]), so there's
+- **Dative verbs keep the Dativ.** Verbs like *helfen* take Dativ ([[11 Verben und Kasus]]), so there is
   no accusative object to promote — the dative stays, and *es*/nothing fills the subject slot:
   > **Mir wird geholfen.** — I am being helped. *(not "ich werde geholfen")*
 - **Impersonal passive** — even verbs with no object can go passive, expressing "there is X-ing":
@@ -96,18 +95,18 @@ Contrast the two directly:
 
 ---
 
-## German often dodges the passive
+## Passive alternatives
 
-Natives frequently prefer lighter alternatives:
+German often prefers lighter constructions:
 
 - **man** (one/you/they): ***Man** baut das Haus.* — They're building the house.
 - **sich lassen** (can be done): *Das **lässt sich** machen.* — That can be done.
 
 ---
 
-## Payoff: the three jobs of *werden*, now complete
+## The three uses of *werden*
 
-You've now met all three ([[07 Futur]] flagged this):
+The three functions of *werden* ([[07 Futur]]):
 
 > *Es **wird** kalt.* — becomes (full verb) · *Ich **werde** kommen.* — will (Futur) ·
 > *Das Haus **wird** gebaut.* — is being… (Passiv)

@@ -5,12 +5,11 @@ tags:
   - grammatik
 ---
 
-# TeKaMoLo — the order when adverbs stack up
+# TeKaMoLo — order of stacked adverbs
 
-[[03 Vorfeld und Inversion]] handled **one** adverb at the front. This page handles the other case:
-several adverbials sitting together in the **middle** of the sentence. German lines them up in a fixed
-order, nicknamed **TeKaMoLo** (just the first syllables of the four German type-names — a memory hook,
-nothing deeper):
+[[03 Vorfeld und Inversion]] covered **one** adverb at the front. This page covers the other case:
+several adverbials together in the **middle** of the sentence. German orders them in a fixed
+sequence, **TeKaMoLo** (the first syllables of the four German type-names):
 
 | Order | Type | Question | Examples |
 |---|---|---|---|
@@ -26,25 +25,25 @@ Drop any of them and the rest keep their relative order:
 
 > Ich fahre **heute** ⏰ **mit dem Bus** ⚙️ **nach Hause** 📍.
 
-## Why this is worth memorizing
+## Type label as slot number
 
-The **type label *is* the slot number.** Once you've tagged a word ⏰ or 📍 (in [[02 Adverbtypen]]),
-you already know where it lands. One rule here = correct ordering for every adverb you'll ever meet.
+The **type label is the slot number.** Once a word is tagged ⏰ or 📍 (in [[02 Adverbtypen]]),
+its position is fixed. This one rule orders every adverb.
 
-## Three things to keep straight
+## Scope and exceptions
 
-- **It's the default, not a law.** Want to stress one piece? Move it to the front — but then it
-  triggers inversion and only one is allowed there ([[03 Vorfeld und Inversion]]):
+- **Default order, not fixed.** To stress one element, move it to the front, but this triggers
+  inversion and only one element is allowed there ([[03 Vorfeld und Inversion]]):
   > **Heute** fahre ich mit dem Bus in die Stadt. *(heute fronted; the rest stay in TeKaMoLo order)*
-- **It covers phrases too.** "mit dem Bus" (a prepositional phrase) counts as the Modal slot just like
+- **Covers phrases too.** "mit dem Bus" (a prepositional phrase) fills the Modal slot just like
   the single word "schnell." TeKaMoLo orders *adverbials*, not only one-word adverbs.
-- **🔆 Grad is not in the sequence.** sehr, ganz, ziemlich glue to the word they intensify — they're
-  not standalone slots: *Ich fahre **ziemlich** schnell* (ziemlich rides on schnell).
+- **🔆 Grad is not in the sequence.** sehr, ganz, ziemlich attach to the word they intensify; they are
+  not standalone slots: *Ich fahre **ziemlich** schnell* (ziemlich modifies schnell).
 
-## Where pronouns and nicht fit
+## Pronouns and nicht
 
-- **Pronoun objects jump ahead of all this.** Little pronouns (mich, dir, es) hug the verb and come
-  *before* the adverbials: *Ich gebe **es dir** morgen.* — I'll give it to you tomorrow.
+- **Pronoun objects come first.** Pronouns (mich, dir, es) stay close to the verb, *before* the
+  adverbials: *Ich gebe **es dir** morgen.* — I'll give it to you tomorrow.
 - **nicht** for whole-sentence negation lands **late**, but *before* the Lokal element and any
-  predicate: *Ich fahre heute **nicht** in die Stadt.* To negate just one piece, put *nicht* right in
-  front of it: *Ich fahre **nicht heute*** (not *today*, some other day). Full story: [[04 Negation]].
+  predicate: *Ich fahre heute **nicht** in die Stadt.* To negate one element, place *nicht* directly
+  in front of it: *Ich fahre **nicht heute*** (not *today*, some other day). See [[04 Negation]].

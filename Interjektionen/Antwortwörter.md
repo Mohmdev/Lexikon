@@ -7,8 +7,8 @@ tags:
 
 # Antwortwörter (answer words)
 
-*The words you say to answer or react to a yes/no question. German has **three**, not two — the
-extra one, **doch**, has no English equivalent and is explained in [[Interjektionen]].*
+*Words used to answer or react to a yes/no question. German has three: **ja**, **nein**, and
+**doch**. **doch** has no English equivalent and is explained in [[Interjektionen]].*
 
 | German | English | Note |
 |---|---|---|

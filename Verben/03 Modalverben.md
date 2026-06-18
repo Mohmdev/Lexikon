@@ -7,23 +7,23 @@ tags:
 
 # Modalverben (modal verbs)
 
-A modal verb doesn't name an action — it sets your **attitude toward** one: *can*, *must*, *want to*,
-*may*, *should*. English has the exact same idea (*I **can** swim*, *I **must** go*), so the concept
-is free. German has **six**, and they all behave the same way mechanically.
+A modal verb does not name an action; it expresses an **attitude toward** one: *can*, *must*, *want
+to*, *may*, *should*. English works the same way (*I **can** swim*, *I **must** go*). German has
+**six**, all with the same mechanics.
 
 ---
 
-## The mechanism: modal + infinitive at the end (the bracket)
+## Modal plus infinitive: the sentence bracket
 
 A modal pairs with a **main verb in the infinitive**. The modal takes the normal verb slot (second in
-a main clause); the main verb gets **kicked to the very end**, as a bare infinitive. This is your
-first everyday use of the **sentence bracket** from [[02 Word Order]]:
+a main clause); the main verb moves to **the very end** as a bare infinitive. This is the **sentence
+bracket** from [[02 Word Order]]:
 
 > Ich **kann** heute nicht **kommen**. — I can't come today.
 > Du **musst** das **machen**. — You have to do that.
 > Wir **wollen** ein Haus **kaufen**. — We want to buy a house.
 
-The conjugated modal and the stranded infinitive form the two walls; everything else lives between
+The conjugated modal and the final infinitive form the two brackets; everything else sits between
 them: **kann … kommen**, **musst … machen**.
 
 ---
@@ -38,19 +38,18 @@ them: **kann … kommen**, **musst … machen**.
 | **wollen** | want to |
 | **sollen** | should, be supposed to |
 | **mögen** | to like |
-| *möchten* | *would like* (the polite one — see below) |
+| *möchten* | *would like* (polite form — see below) |
 
 ---
 
-## Conjugation — one shared quirk
+## Conjugation
 
-Modals break the normal endings in the **singular**, then go completely regular in the plural. Two
-things to see:
+Modals depart from the normal endings in the **singular**, but are regular in the plural:
 
-1. **ich and er/sie/es are identical and take NO ending** — *ich kann*, *er kann* (not *kannt*).
+1. **ich and er/sie/es are identical and take no ending** — *ich kann*, *er kann* (not *kannt*).
 2. Most have a **different vowel in the singular** than in the infinitive (*können → kann*).
 
-The **plural** is just the normal stem + normal endings, so it's predictable.
+The **plural** uses the normal stem plus normal endings.
 
 | modal | ich / er | du | wir / sie | ihr |
 | ----- | -------- | --- | --------- | --- |
@@ -66,21 +65,21 @@ The **plural** is just the normal stem + normal endings, so it's predictable.
 > Er **muss** arbeiten. — He has to work.
 > Wir **dürfen** hier parken. — We're allowed to park here.
 
-Note *will* means **want**, not the English future "will" — a classic false friend. *Ich will gehen*
-= "I want to go," not "I will go."
+Note *will* means **want**, not the English future "will" — a false friend. *Ich will gehen* = "I
+want to go," not "I will go."
 
 ---
 
-## möchten — "would like" (use it constantly)
+## möchten — "would like"
 
-*möchten* is technically a polite form of *mögen*, but treat it as its own word — it's how you order,
-ask, and request without sounding blunt. Unlike the others, its ich/er form **keeps the -e**:
+*möchten* is formally a polite form of *mögen*, but functions as its own word for ordering, asking,
+and requesting politely. Unlike the others, its ich/er form **keeps the -e**:
 
 > Ich **möchte** einen Kaffee. — I'd like a coffee.
 > **Möchtest** du mitkommen? — Would you like to come along?
 
-Quick contrast: *mögen* = liking a thing (*Ich **mag** Kaffee* — I like coffee); *möchten* = wanting
-something right now (*Ich **möchte** Kaffee* — I'd like (a) coffee).
+Contrast: *mögen* = liking a thing (*Ich **mag** Kaffee* — I like coffee); *möchten* = wanting
+something now (*Ich **möchte** Kaffee* — I'd like (a) coffee).
 
 ---
 
@@ -90,6 +89,5 @@ something right now (*Ich **möchte** Kaffee* — I'd like (a) coffee).
   **permission**. *Ich kann schwimmen* (I'm able to) vs. *Ich darf schwimmen* (I'm allowed to).
 - **müssen vs. sollen** — *müssen* = hard **necessity** (have to); *sollen* = softer **obligation /
   what someone says you should** (*Du sollst mehr schlafen* — you should sleep more).
-- **nicht müssen ≠ "must not."** This one bites English speakers. *Du musst nicht* means **you don't
-  have to** (no obligation). To say **must not** (it's forbidden), use *nicht dürfen*: *Du darfst
-  nicht rauchen* — you must not smoke.
+- **nicht müssen ≠ "must not."** *Du musst nicht* means **you don't have to** (no obligation). For
+  **must not** (forbidden), use *nicht dürfen*: *Du darfst nicht rauchen* — you must not smoke.

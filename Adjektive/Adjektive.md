@@ -20,74 +20,72 @@ tags:
 
 %% End Waypoint %%
 
-# Adjektive (adjectives) — start here
+# Adjektive (adjectives)
 
-An adjective is a describing word for a **thing**: groß (big), gut (good), schnell (fast). You've
-already got a pile of them in [[Adjektive 001-100]]. This folder is the **grammar** — and the good
-news is that almost all of it bends to a single idea.
+An adjective describes a **thing**: groß (big), gut (good), schnell (fast). Vocabulary is in
+[[Adjektive 001-100]]. This folder covers the **grammar**, almost all of which follows a single
+principle.
 
-## The one idea behind everything: signal once
+## Core principle: signal once
 
-A German noun phrase must reveal its **gender + case exactly once, clearly** — and whoever's free does
-the job. That principle (call it *signal once*) is the master key. The three "scary" ending tables are
-just three answers to *who carries the signal this time.* See it once in [[01 Warum Endungen]] and the
-rest stops feeling random.
+A German noun phrase must mark its **gender and case exactly once**, and whichever word is available
+does it. The three ending tables are three answers to the question of which word carries the signal.
+Start with [[01 Warum Endungen]].
 
-The only genuinely hard part of adjectives is **endings**. Everything else is light. Here's the whole
-climb, bottom to top.
+The only hard part of adjectives is **endings**. Everything else is light. The sections below run from
+simplest to hardest.
 
 ---
 
-## The free win — after "to be," no ending
+## Predicative position: no ending
 
-When the adjective comes after **sein / werden / bleiben**, it stays **bare**, exactly as in the
-dictionary. No ending, ever.
+After **sein / werden / bleiben**, the adjective stays **bare**, exactly as in the dictionary. No
+ending.
 
 > Das Auto ist **schnell**. — The car is fast.
 > Der Mann wird **alt**. — The man is getting old.
 
-This alone lets you describe almost anything on day one. Start here and you're already productive.
+## Attributive endings
 
-## The ending system (the one hard thing)
+In front of the noun, the adjective takes an ending — *das **schnelle** Auto*. The ending depends on
+**what precedes the adjective**, i.e. which word already signals gender and case:
 
-The moment the adjective moves **in front** of the noun, it grows an ending — *das **schnelle** Auto*.
-Which ending depends on **what sits before the adjective** — i.e. who already signalled gender + case:
-
-- the **why**, first → [[01 Warum Endungen]]
-- after **der / die / das** (der-words) → [[02 Schwache Deklination]] — the easy one, only -e / -en
+- the principle first → [[01 Warum Endungen]]
+- after **der / die / das** (der-words) → [[02 Schwache Deklination]] — only -e / -en
 - after **ein / kein / mein** (ein-words) → [[03 Gemischte Deklination]] — weak, with 3 cells patched
-- **no article at all** → [[04 Starke Deklination]] — the adjective carries the whole signal
+- **no article** → [[04 Starke Deklination]] — the adjective carries the whole signal
 
-These three lean on knowing the **cases** ([[01 Kasus]]) and the **der/die/das table**
-([[01 Bestimmte]]). Get those solid, then 02–04 fall fast — they're one idea in three views.
+These three depend on knowing the **cases** ([[01 Kasus]]) and the **der/die/das table**
+([[01 Bestimmte]]). With those solid, 02–04 are one idea in three views.
 
-## Two light extras
+## Steigerung and Nominalisierung
 
-- **Steigerung** — bigger, biggest: *schnell → schneller → am schnellsten*, plus *so…wie* and *als*.
-  [[05 Steigerung]].
-- **Nominalisierung** — using an adjective straight as a noun: *etwas **Gutes**, der **Deutsche**, das
-  **Beste***. Cheap and everywhere. [[06 Nominalisierung]].
+- **Steigerung** — comparative and superlative: *schnell → schneller → am schnellsten*, plus *so…wie*
+  and *als*. [[05 Steigerung]].
+- **Nominalisierung** — using an adjective as a noun: *etwas **Gutes**, der **Deutsche**, das
+  **Beste***. [[06 Nominalisierung]].
 
-## Two more sources of adjectives (for free)
+## Adjectives from verbs and nouns
 
-- **Partizipien** — freeze a verb into an adjective: *das **gekochte** Ei* (cooked), *die **spielenden**
-  Kinder* (playing). You already own the forms from the perfect tense. [[07 Partizipien als Adjektive]].
-- **Wortbildung** — build adjectives from nouns/verbs with standard endings: *arbeits**los*** (jobless),
-  *mach**bar*** (doable), ***un**möglich* (impossible). Compute vocabulary instead of memorizing it.
-  [[09 Wortbildung]].
+- **Partizipien** — a verb form used as an adjective: *das **gekochte** Ei* (cooked), *die
+  **spielenden** Kinder* (playing). The forms come from the perfect tense.
+  [[07 Partizipien als Adjektive]].
+- **Wortbildung** — adjectives built from nouns/verbs with standard endings: *arbeits**los***
+  (jobless), *mach**bar*** (doable), ***un**möglich* (impossible). Compute vocabulary by rule instead
+  of memorizing it. [[09 Wortbildung]].
 
-## When an adjective demands a companion
+## Adjectives with a fixed preposition or case
 
-Some adjectives drag a required preposition or case behind them — *stolz **auf**, **mir** ähnlich* —
-not guessable from English, so you store the whole chunk. [[08 Adjektive mit Präposition]].
+Some adjectives require a preposition or case — *stolz **auf**, **mir** ähnlich* — not predictable
+from English, so store the whole chunk. [[08 Adjektive mit Präposition]].
 
-## The freebie exceptions
+## Undeclinable adjectives
 
-A few adjectives **never** take an ending — *rosa, super, die **Berliner** Mauer*. See one, do nothing.
+A few adjectives **never** take an ending — *rosa, super, die **Berliner** Mauer*.
 [[10 Undeklinierbare Adjektive]].
 
 ---
 
-Read this page for the shape; dive into a numbered file when you want that step. The spine is always
-the same — **signal once** — so every ending you'll ever puzzle over traces back to one question:
-*did something already show the case and gender, or does the adjective have to?*
+This page gives the overview; the numbered files cover each step. The principle throughout is **signal
+once**: every ending traces back to one question — has something already marked the case and gender, or
+must the adjective do it?

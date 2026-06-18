@@ -5,11 +5,10 @@ tags:
   - grammatik
 ---
 
-# Undeklinierbare Adjektive — the ones that never change
+# Undeklinierbare Adjektive — adjectives that never change
 
-After three declension tables, here's a small relief: a handful of adjectives that **never take an
-ending at all** — not even in front of a noun, where everything else grows a tail. You just drop them
-in as-is. The only skill is **resisting the urge to decline them.**
+A small set of adjectives **never take an ending**, including in attributive position before a noun
+where other adjectives decline. Use them in their base form.
 
 > die **rosa** Blume — the pink flower *(not ~~rosane~~)*
 > ein **super** Tag — a great day
@@ -17,25 +16,24 @@ in as-is. The only skill is **resisting the urge to decline them.**
 
 ---
 
-## The three groups to recognize
+## The three groups
 
 ### 1. Borrowed colour words
 
-Native German colours (*rot, blau, grün, schwarz*) decline normally. But colours German **borrowed**
-from other languages stay frozen:
+Native German colours (*rot, blau, grün, schwarz*) decline normally. Colours **borrowed** from other
+languages do not:
 
 > **rosa** (pink), **lila** (purple), **orange**, **beige**, **türkis**, **creme**
 
 > ein **lila** Hemd · zwei **orange** Autos · eine **beige** Jacke
 
-*Workaround Germans actually use:* if the bare word feels awkward, they bolt on **-farben** or
-**-farbig** to get a normal, declinable adjective:
+To get a declinable form, add **-farben** or **-farbig**:
 
-> ein **rosafarbenes** Kleid — a pink dress *(now it declines like any adjective)*
+> ein **rosafarbenes** Kleid — a pink dress *(declines like any adjective)*
 
 ### 2. Casual praise words
 
-The throwaway-compliment crowd — all indeclinable:
+All indeclinable:
 
 > **prima, super, klasse, spitze, okay**
 
@@ -43,22 +41,18 @@ The throwaway-compliment crowd — all indeclinable:
 
 ### 3. City names + **-er**
 
-Take any city, add **-er**, and you get an adjective that is **always capitalized** and **never takes a
-further ending**:
+A city name plus **-er** forms an adjective that is **always capitalized** and **takes no further
+ending**:
 
 > Berlin → **Berliner** · Frankfurt → **Frankfurter** · Wien → **Wiener** · Köln → **Kölner** · die Schweiz → **Schweizer**
 
 > die **Berliner** Mauer · ein **Frankfurter** Würstchen · der **Kölner** Dom · **Schweizer** Käse
 
-This is the one corner of [[09 Wortbildung]] that produces a frozen word — which is why it lives here.
+This is the one pattern in [[09 Wortbildung]] that produces an indeclinable word.
 
 ---
 
-## Quick footnote: counting numbers don't decline either
+## Cardinal numbers
 
-The cardinal numbers (*zwei, drei, vier* …) also sit bare in front of nouns — *drei Autos*, *zwei
-Häuser*. Only *ein* declines (because it's also the article). Full detail lives with [[Zahlen]].
-
----
-
-The takeaway is tiny: **see one of these, do nothing.** No table, no ending, no thought.
+The cardinal numbers (*zwei, drei, vier* …) also stand bare before nouns — *drei Autos*, *zwei
+Häuser*. Only *ein* declines, because it is also the article. Full detail in [[Zahlen]].

@@ -13,63 +13,62 @@ tags:
 
 %% End Waypoint %%
 
-# Konjunktionen — connectors that wire clauses together
+# Konjunktionen — connectors between clauses
 
-A conjunction's **meaning** is the easy part — it maps straight onto English (*und* = and, *aber* =
-but, *weil* = because). The thing you actually have to learn is **what each connector does to the
-verb**. Get that, and German sentence-building falls into place.
+A conjunction's **meaning** maps directly onto English (*und* = and, *aber* = but, *weil* = because).
+The point to learn is **what each connector does to the verb**.
 
-> **The one rule: a connector's bucket tells you where the verb goes.**
+> **A connector's category determines verb position.**
 
-There are exactly **three buckets**, and the same idea — *"because/so"* — behaves differently in each:
+There are **three categories**, and the same idea — *"because/so"* — behaves differently in each:
 
-| bucket | examples | the verb… |
+| Category | Examples | Verb position |
 |---|---|---|
-| **Koordinierende** | und, oder, aber, **denn** | doesn't move — stays in 2nd place |
-| **Subordinierende** | **weil**, dass, wenn, obwohl | goes to the **end** of its clause |
-| **Konjunktionaladverbien** *(the trap)* | **deshalb**, trotzdem, dann | take slot 1 → verb lands **before** the subject |
+| **Koordinierende** | und, oder, aber, **denn** | unchanged — stays in 2nd place |
+| **Subordinierende** | **weil**, dass, wenn, obwohl | moves to the **end** of its clause |
+| **Konjunktionaladverbien** | **deshalb**, trotzdem, dann | take slot 1 → verb lands **before** the subject |
 
 > Ich bleibe, **denn** ich **bin** müde. *(coordinating → no change)*
 > Ich bleibe, **weil** ich müde **bin**. *(subordinating → verb last)*
 > Ich bin müde, **deshalb bleibe** ich. *(adverb → verb before subject)*
 
-Learn **weil / denn / deshalb** and you've learned the whole system in miniature.
+**weil / denn / deshalb** illustrate all three categories.
 
 ---
 
-## The climb
+## Sections
 
-### 1. Wortstellung — the connector tells the verb where to stand
-The master principle: the three buckets, the litmus test, the *verb, comma, verb* collision when a
-subordinate clause comes first, and the comma rules. Read this first — it frames everything else.
+### 1. Wortstellung — connectors and verb position
+The three categories, the litmus test, the *verb, comma, verb* sequence when a subordinate clause comes
+first, and the comma rules. Read this first; it frames everything else.
 → [[01 Wortstellung]]
 
-### 2. Koordinierende — the verb doesn't move
-The free connectors: the **ADUSO** five (*aber, denn, und, sondern, oder*). Includes the headline trap
-**denn vs. weil** (same meaning, opposite word order) and **sondern vs. aber**.
+### 2. Koordinierende — verb position unchanged
+The **ADUSO** five (*aber, denn, und, sondern, oder*). Includes **denn vs. weil** (same meaning,
+opposite word order) and **sondern vs. aber**.
 → [[02 Koordinierende]]
 
-### 3. Subordinierende — the verb goes to the end
-The big bucket, sorted **by meaning** (cause, time, condition, concession, purpose, manner) so it stops
-being a blur. One rule for all of them: verb to the back.
+### 3. Subordinierende — verb to the end
+Sorted **by meaning** (cause, time, condition, concession, purpose, manner). One rule for all: verb to
+the back.
 → [[03 Subordinierende]]
 
-### 4. wenn · als · wann · ob — untangling "when" and "if"
-English's *when* and *if* become **four** German words that don't line up one-to-one. The single most
-common connector mistake — sorted with two quick questions.
+### 4. wenn · als · wann · ob — "when" and "if"
+English *when* and *if* become **four** German words that do not line up one-to-one. The most common
+connector mistake; resolved with two questions.
 → [[04 wenn als wann ob]]
 
-### 5. Zweiteilige — connectors that come in a pair
-The two-part frames: *entweder…oder, weder…noch, sowohl…als auch, nicht nur…sondern auch*, and the
-special **je…desto** with its own word order.
+### 5. Zweiteilige — paired connectors
+The two-part frames: *entweder…oder, weder…noch, sowohl…als auch, nicht nur…sondern auch*, plus
+**je…desto** with its own word order.
 → [[05 Zweiteilige]]
 
 ---
 
-## The third bucket lives with the adverbs
+## Konjunktionaladverbien
 
-*deshalb, trotzdem, dann, also, sonst…* **feel** like conjunctions but are grammatically **adverbs** —
-so they're taught where they belong, with the adverbs: → [[08 Konjunktionaladverbien]]. Just remember
-the trap: a "because/so/therefore" word can sit in **any** of the three buckets, and each does
-something different to the verb. The full sentence-order picture is in [[02 Word Order]].
+*deshalb, trotzdem, dann, also, sonst…* function as conjunctions but are grammatically **adverbs**, so
+they are covered with the adverbs: → [[08 Konjunktionaladverbien]]. Note that a "because/so/therefore"
+word can fall into **any** of the three categories, each with a different effect on the verb. Full
+sentence-order coverage is in [[02 Word Order]].
 

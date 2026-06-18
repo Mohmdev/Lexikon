@@ -5,14 +5,12 @@ tags:
   - grammatik
 ---
 
-# wenn · als · wann · ob — untangling "when" and "if"
+# wenn · als · wann · ob — "when" and "if"
 
-English uses **two** little words — *when* and *if* — where German uses **four**, and they don't line
-up one-to-one. This is the most common connector mistake learners make, so it gets its own page. Sort
-them with two questions:
+English *when* and *if* map onto four German words, not one-to-one. Two questions sort them:
 
 > **1. Is it a question?** → **wann**
-> **2. If not — is it about TIME or a CONDITION?** and **is it past-one-time or repeated?**
+> **2. If not — is it about TIME or a CONDITION? Is it past-one-time or repeated?**
 
 ---
 
@@ -31,32 +29,28 @@ them with two questions:
       (present, future, repeated, or "if")  → WENN
 ```
 
-That's the whole thing. Now each one.
-
 ---
 
-## wann — the question word (not really a conjunction)
+## wann — question word
 
-**wann** asks *"at what time?"* — a direct or embedded **question**. It's strictly interrogative; it
-belongs with the question words ([[Fragewörter]]), and lives here only because learners reach for it by
-mistake.
+**wann** asks *"at what time?"* — a direct or embedded **question**. It is strictly interrogative and
+belongs with the question words ([[Fragewörter]]).
 
 > **Wann** kommst du? — When are you coming? *(direct question)*
 > Ich weiß nicht, **wann** er **kommt**. — I don't know when he's coming. *(embedded question — verb to end)*
 
-Litmus: if you're **asking for a time** (even indirectly), it's **wann**.
+Test: if you are **asking for a time** (even indirectly), use **wann**.
 
 ---
 
-## als — "when", a single completed past event
+## als — single completed past event
 
-Use **als** for **one specific thing that happened once, in the past**. Think *"back when…"*:
+Use **als** for **one specific thing that happened once, in the past** (*"back when…"*):
 
 > **Als** ich klein **war**, wohnte ich in Berlin. — When I was little, I lived in Berlin.
 > **Als** der Film **zu Ende war**, gingen wir. — When the film ended, we left.
 
-One past moment → **als**. (It feels weird to English speakers because English just says "when" — but
-German insists on **als** here.)
+One past moment → **als**. English uses "when" here; German requires **als**.
 
 ---
 
@@ -67,7 +61,7 @@ German insists on **als** here.)
 **(a) repeated / habitual time** — "whenever, every time":
 
 > **Wenn** es **regnet**, bleibe ich zu Hause. — When(ever) it rains, I stay home.
-> Immer **wenn** ich ihn **sah**, lachte er. — Every time I saw him, he laughed. *(repeated past → still wenn, not als!)*
+> Immer **wenn** ich ihn **sah**, lachte er. — Every time I saw him, he laughed. *(repeated past → wenn, not als)*
 
 **(b) condition** — "if":
 
@@ -77,9 +71,9 @@ The als/wenn line in the **past**: happened **once** → *als*; happened **repea
 
 ---
 
-## ob — "whether" (a hidden yes/no question)
+## ob — embedded yes/no question ("whether")
 
-**ob** is the "if" that is really **"whether"** — it embeds a **yes/no question**, not a condition:
+**ob** is the "if" meaning **"whether"** — it embeds a **yes/no question**, not a condition:
 
 > Ich frage mich, **ob** er **kommt**. — I wonder whether he's coming.
 > Sie weiß nicht, **ob** das **stimmt**. — She doesn't know if (whether) that's true.
@@ -96,7 +90,7 @@ The **wenn / ob** split — both translate as English "if":
 
 ---
 
-## All four, side by side
+## All four compared
 
 | word | job | English | example |
 |---|---|---|---|
@@ -109,9 +103,7 @@ All except **wann-as-direct-question** are subordinating → **verb to the end**
 
 ---
 
-## The two tests, one more time
+## Two tests
 
 1. **Asking for a time?** → **wann**. **Means "whether"?** → **ob**.
 2. Otherwise: **single past event → als**; **everything else → wenn**.
-
-Nail these two questions and the four words sort themselves every time.

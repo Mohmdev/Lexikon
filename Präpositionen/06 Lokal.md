@@ -7,15 +7,15 @@ tags:
 
 # Lokale Präpositionen — *to* a place and *from* a place
 
-[[03 Wechsel]] already covers *where something sits* (in/an/auf + case). This page handles the part that
-genuinely confuses English speakers: **"to"** and **"from"**, where English has one word each and
-German has several — chosen by *what kind of place* it is.
+[[03 Wechsel]] covers *where something sits* (in/an/auf + case). This page covers **"to"** and
+**"from"**: English has one word for each; German selects among several based on *what kind of place*
+it is.
 
 ---
 
-## Going TO a place — which "to"?
+## Going TO a place
 
-English just says "to." German makes you pick:
+English uses "to"; German selects by place type:
 
 | use **this** | for… | example |
 |---|---|---|
@@ -25,7 +25,7 @@ English just says "to." German makes you pick:
 | **auf** + Akk | public places & events (open/official) | **auf die** Party, **auf den** Markt, **auf die** Bank |
 | **an** + Akk | edges, water | **ans** Meer, **an den** See, **ans** Fenster |
 
-The two you'll use most: **nach** for cities/countries/home, **zu** for people and everyday errands.
+Most frequent: **nach** for cities/countries/home, **zu** for people and everyday errands.
 
 > Ich fahre **nach** Berlin. — I'm going to Berlin. *(city → nach)*
 > Ich gehe **zum** Arzt. — I'm going to the doctor. *(destination/person → zu)*
@@ -37,7 +37,7 @@ people and named destinations (zum Bahnhof, zu Oma). When a country takes an art
 
 ---
 
-## Coming FROM a place — aus or von?
+## Coming FROM a place — aus vs. von
 
 | use | for… | example |
 |---|---|---|
@@ -64,9 +64,9 @@ dem Markt* — see [[03 Wechsel]]). Two extras you need:
 
 ---
 
-## The "Haus" set you must memorize
+## The "Haus" set
 
-A classic trio of fixed phrases — no article, and each uses a different preposition:
+Three fixed phrases, no article, each with a different preposition:
 
 | German | English | which |
 |---|---|---|
@@ -85,5 +85,5 @@ When you just mean "(to) there / (to) here" with no named place, that's the **hi
 
 ---
 
-The two reflexes worth burning in: **nach** = cities/countries/home, **zu** = people/errands (going);
-**aus** = origin, **von** = a point you left (coming from).
+Summary: **nach** = cities/countries/home, **zu** = people/errands (going); **aus** = origin,
+**von** = a point you left (coming from).
